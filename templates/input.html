@@ -1,0 +1,66 @@
+{% extends 'base.html' %}
+{% block body %}
+<div class="hasil-wrapper">
+    <div class="container">
+        <div class="container">
+            <div class="row">
+                <div class="col" style="margin-top: 50px;">
+                    <h1 style="color: white;">Tolong Isi Form Berikut</h1>
+                    <h1 style="color: white;">untuk Melanjutkan:</h1>
+                </div>
+                <div class="col">
+                    <div class="table-bg">
+                        <form action="/input" method="POST">
+                            <div class="mb-3">
+                                <label for="exampleInputEmail1" class="form-label">Level Existing</label>
+                                <select class="form-select" name="lvl_existing">
+                                    <option selected>Pilih Level Existing</option>
+                                    <option value="0">0</option>
+                                    <option value="1">1</option>
+                                    <option value="2">2</option>
+                                    <option value="3">3</option>
+                                    <option value="4">4</option>
+                                    <option value="5">5</option>
+                                </select>
+                            </div>
+                            <div class="mb-3">
+                                <label for="exampleInputPassword1" class="form-label">Level Tujuan</label>
+                                <select class="form-select" name="lvl_tujuan">
+                                    <option selected>Pilih Level Tujuan</option>
+                                    <option value="0">0</option>
+                                    <option value="1">1</option>
+                                    <option value="2">2</option>
+                                    <option value="3">3</option>
+                                    <option value="4">4</option>
+                                    <option value="5">5</option>
+                                </select>
+                            </div>
+                            <div class="mb-3">
+                                <label for="exampleInputEmail1" class="form-label">IT Resources</label>
+                                <select class="form-select" name="it_res">
+                                    <option selected>Pilih IT Resources</option>
+                                    <option value="Application">Application</option>
+                                    <option value="Information">Information</option>
+                                    <option value="Infrastructure">Infrastructure</option>
+                                    <option value="People">People</option>
+                                </select>
+                            </div>
+                              <div class="mb-3">
+                                <label for="exampleInputEmail1" class="form-label">IT Process</label>
+                                <select class="form-select" name="it_process">
+                                    <option selected>Pilih IT Process</option>
+                                    <option value="PO">PO</option>
+                                    <option value="AI">AI</option>
+                                    <option value="DS">DS</option>
+                                    <option value="ME">ME</option>
+                                </select>
+                              </div>
+                            <button type="submit" class="btn btn-primary">Submit</button>
+                          </form>            
+                    </div>
+                </div>
+            </div>
+        </div>    
+    </div>
+</div>
+{% endblock %}

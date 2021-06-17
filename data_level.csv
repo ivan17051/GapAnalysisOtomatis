@@ -1,0 +1,32 @@
+ID;IT_Process;IT_ProcessD;Current;Goal;Task
+1;PO;PO1;0;1;Melakukan perencanaan strategis TI
+2;PO;PO1;0;1;Meningkatan kesadaran manajemen bahwa perencanaan strategis TI diperlukan
+3;PO;PO1;0;1;Melakukan perencanaan TI berdasarkan kebutuhan sebagai tanggapan terhadap kebutuhan bisnis
+4;PO;PO1;0;1;Merutinkan rapat manajemen TI yang membahas perencanaan strategis TI
+5;PO;PO1;0;1;Melakukan penyelarasan kebutuhan bisnis, aplikasi, dan teknologi berlangsung secara reaktif
+6;PO;PO1;0;1;Melakukan identifikasi secara informal pada posisi Strategic Risk berdasarkan proyek per proyek
+7;PO;PO1;1;2;Membagikan perencanaan strategis TI kepada manajemen bisnis berdasarkan kebutuhan
+8;PO;PO1;1;2;Melakukan pembaruan rencana TI terjadi sebagai tanggapan atas permintaan oleh manajemen
+9;PO;PO1;1;2;Membuat keputusan strategis didorong berdasarkan proyek demi proyek tanpa konsistensi dengan strategi organisasi secara keseluruhan
+10;PO;PO1;1;2;Mengenali secara intuitif risiko dan manfaat pengguna dari keputusan strategis utama
+11;PO;PO1;2;3;Membuat kebijakan yang menentukan kapan dan bagaimana melakukan perencanaan strategis TI
+12;PO;PO1;2;3;Melakukan perencanaan strategis TI mengikuti pendekatan terstruktur yang didokumentasikan dan diketahui oleh semua staf
+13;PO;PO1;2;3;Memonitori proses perencanaan TI dan memastikan bahwa perencanaan yang tepat mungkin dilakukan
+14;PO;PO1;2;3;Memberikan kebijaksanaan kepada manajer individu sehubungan dengan implementasi proses dan tidak ada prosedur untuk memeriksa prosesnya
+15;PO;PO1;2;3;Membuat strategi TI yang secara keseluruhan mencakup definisi risiko yang konsisten yang bersedia diambil oleh organisasi sebagai inovator atau pengikut
+16;PO;PO1;2;3;Membuat strategi keuangan, teknis, dan sumber daya manusia TI semakin memengaruhi perolehan produk dan teknologi baru
+17;PO;PO1;2;3;Membahas perencanaan strategis TI pada setiap pertemuan manajemen bisnis
+18;PO;PO1;3;4;Membuat perencanaan strategis TI yang bersifat praktik standar dan pengecualian dan akan diperhatikan oleh manajemen
+19;PO;PO1;3;4;Menetapkan perencanaan strategis TI adalah fungsi manajemen dengan tanggung jawab tingkat senior
+20;PO;PO1;3;4;Manajemen memantau proses perencanaan strategis TI, membuat keputusan berdasarkan informasi tersebut dan mengukur efektivitasnya
+21;PO;PO1;3;4;Melakukan perencanaan TI jangka pendek dan jangka panjang dan diturunkan ke dalam organisasi, dengan pembaruan yang dilakukan sesuai kebutuhan
+22;PO;PO1;3;4;Membuat strategi TI dan strategi di seluruh organisasi semakin menjadi lebih terkoordinasi dengan menangani proses bisnis dan kemampuan nilai tambah dan memanfaatkan penggunaan aplikasi dan teknologi melalui rekayasa ulang proses bisnis
+23;PO;PO1;3;4;Membuat proses yang terdefinisi dengan baik untuk menentukan penggunaan sumber daya internal dan eksternal yang diperlukan dalam pengembangan dan operasi sistem
+24;PO;PO1;4;5;Mendokumentasi perencanaan strategis TI
+25;PO;PO1;4;5;Memperbarui pertimbangan risiko dan nilai tambah dalam proses perencanaan strategis TI
+26;PO;PO1;4;5;Mengembangkan rencana TI jangka panjang yang realistis dan terus diperbarui untuk mencerminkan perubahan teknologi dan perkembangan terkait bisnis
+27;PO;PO1;4;5;Melakukan benchmarking terhadap norma-norma industri yang dipahami dengan baik dan andal
+28;PO;PO1;4;5;Membuat rencana strategis yang mencakup bagaimana perkembangan teknologi baru dapat mendorong penciptaan kemampuan bisnis baru dan meningkatkan keunggulan kompetitif organisasi
+29;PO;PO1;4;5;Mempertimbangkan penetapan tujuan bisnis
+30;PO;PO1;4;5;Menghasilkan nilai bisnis yang dapat dilihat melalui investasi di bidang TI
+31;PO;PO1;4;5;Mengintegrasi proses perumusan strategi

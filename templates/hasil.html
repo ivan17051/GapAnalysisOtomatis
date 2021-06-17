@@ -1,0 +1,39 @@
+{% extends 'base.html' %}
+{% block body %}
+<div class="hasil-wrapper">
+    <div class="container">
+        <div class="table-bg">
+            <table class="table table-striped">
+                <thead>
+                  <tr>
+                    <th scope="col" style="width: 10%;">IT Process</th>
+                    <th scope="col" style="width: 10%;">Tujuan</th>
+                    <th scope="col">Task</th>
+                  </tr>
+                </thead>
+                <tbody>
+                {% for item in gap_analysis %}
+                  <tr>
+                    <th scope="row">{{ item.it_pro }}</th>
+                    <th>{{ item.awal }} -> {{ item.tujuan }}</th>
+                    <td>{{ item.task }}</td>
+                  </tr>
+                {% endfor %}
+                  <!-- <tr>
+                    <th scope="row">2</th>
+                    <td>Jacob</td>
+                    <td>Thornton</td>
+                    <td>@fat</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">3</th>
+                    <td colspan="2">Larry the Bird</td>
+                    <td>@twitter</td>
+                  </tr> -->
+                </tbody>
+              </table>
+        </div>    
+    </div>
+</div>
+    
+{% endblock %}
