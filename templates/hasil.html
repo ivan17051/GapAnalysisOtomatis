@@ -3,7 +3,7 @@
 <div class="hasil-wrapper">
     <div class="container">
         <div class="table-bg">
-            <table class="table table-striped">
+            <table class="table table-striped" id="tblData">
                 <thead>
                   <tr>
                     <th scope="col" style="width: 10%;">IT Process</th>
@@ -19,19 +19,13 @@
                     <td>{{ item.task }}</td>
                   </tr>
                 {% endfor %}
-                  <!-- <tr>
-                    <th scope="row">2</th>
-                    <td>Jacob</td>
-                    <td>Thornton</td>
-                    <td>@fat</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">3</th>
-                    <td colspan="2">Larry the Bird</td>
-                    <td>@twitter</td>
-                  </tr> -->
+                  
                 </tbody>
               </table>
+              <button class="btn btn-primary" onclick="exportTableToExcel('tblData')">
+                <span class="glyphicon glyphicon-download"></span>
+                Download list</button>
+              <button class="btn btn-success" onclick="window.print()">Print this page</button>
         </div>    
     </div>
 </div>
