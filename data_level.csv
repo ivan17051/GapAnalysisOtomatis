@@ -1,589 +1,848 @@
-ID;IT_Process;IT_ProcessD;Current;Goal;Task
-1;PO;PO1;0;1;Melakukan perencanaan strategis TI
-2;PO;PO1;0;1;Meningkatan kesadaran manajemen bahwa perencanaan strategis TI diperlukan
-3;PO;PO1;0;1;Melakukan perencanaan TI berdasarkan kebutuhan sebagai tanggapan terhadap kebutuhan bisnis
-4;PO;PO1;0;1;Merutinkan rapat manajemen TI yang membahas perencanaan strategis TI
-5;PO;PO1;0;1;Melakukan penyelarasan kebutuhan bisnis, aplikasi, dan teknologi berlangsung secara reaktif
-6;PO;PO1;0;1;Melakukan identifikasi secara informal pada posisi Strategic Risk berdasarkan proyek per proyek
-7;PO;PO1;1;2;Membagikan perencanaan strategis TI kepada manajemen bisnis berdasarkan kebutuhan
-8;PO;PO1;1;2;Melakukan pembaruan rencana TI terjadi sebagai tanggapan atas permintaan oleh manajemen
-9;PO;PO1;1;2;Membuat keputusan strategis didorong berdasarkan proyek demi proyek tanpa konsistensi dengan strategi organisasi secara keseluruhan
-10;PO;PO1;1;2;Mengenali secara intuitif risiko dan manfaat pengguna dari keputusan strategis utama
-11;PO;PO1;2;3;Membuat kebijakan yang menentukan kapan dan bagaimana melakukan perencanaan strategis TI
-12;PO;PO1;2;3;Melakukan perencanaan strategis TI mengikuti pendekatan terstruktur yang didokumentasikan dan diketahui oleh semua staf
-13;PO;PO1;2;3;Memonitori proses perencanaan TI dan memastikan bahwa perencanaan yang tepat mungkin dilakukan
-14;PO;PO1;2;3;Memberikan kebijaksanaan kepada manajer individu sehubungan dengan implementasi proses dan tidak ada prosedur untuk memeriksa prosesnya
-15;PO;PO1;2;3;Membuat strategi TI yang secara keseluruhan mencakup definisi risiko yang konsisten yang bersedia diambil oleh organisasi sebagai inovator atau pengikut
-16;PO;PO1;2;3;Membuat strategi keuangan, teknis, dan sumber daya manusia TI semakin memengaruhi perolehan produk dan teknologi baru
-17;PO;PO1;2;3;Membahas perencanaan strategis TI pada setiap pertemuan manajemen bisnis
-18;PO;PO1;3;4;Membuat perencanaan strategis TI yang bersifat praktik standar dan pengecualian dan akan diperhatikan oleh manajemen
-19;PO;PO1;3;4;Menetapkan perencanaan strategis TI adalah fungsi manajemen dengan tanggung jawab tingkat senior
-20;PO;PO1;3;4;Manajemen memantau proses perencanaan strategis TI, membuat keputusan berdasarkan informasi tersebut dan mengukur efektivitasnya
-21;PO;PO1;3;4;Melakukan perencanaan TI jangka pendek dan jangka panjang dan diturunkan ke dalam organisasi, dengan pembaruan yang dilakukan sesuai kebutuhan
-22;PO;PO1;3;4;Membuat strategi TI dan strategi di seluruh organisasi semakin menjadi lebih terkoordinasi dengan menangani proses bisnis dan kemampuan nilai tambah dan memanfaatkan penggunaan aplikasi dan teknologi melalui rekayasa ulang proses bisnis
-23;PO;PO1;3;4;Membuat proses yang terdefinisi dengan baik untuk menentukan penggunaan sumber daya internal dan eksternal yang diperlukan dalam pengembangan dan operasi sistem
-24;PO;PO1;4;5;Mendokumentasi perencanaan strategis TI
-25;PO;PO1;4;5;Memperbarui pertimbangan risiko dan nilai tambah dalam proses perencanaan strategis TI
-26;PO;PO1;4;5;Mengembangkan rencana TI jangka panjang yang realistis dan terus diperbarui untuk mencerminkan perubahan teknologi dan perkembangan terkait bisnis
-27;PO;PO1;4;5;Melakukan benchmarking terhadap norma-norma industri yang dipahami dengan baik dan andal
-28;PO;PO1;4;5;Membuat rencana strategis yang mencakup bagaimana perkembangan teknologi baru dapat mendorong penciptaan kemampuan bisnis baru dan meningkatkan keunggulan kompetitif organisasi
-29;PO;PO1;4;5;Mempertimbangkan penetapan tujuan bisnis
-30;PO;PO1;4;5;Menghasilkan nilai bisnis yang dapat dilihat melalui investasi di bidang TI
-31;PO;PO1;4;5;Mengintegrasi proses perumusan strategi
-32;PO;PO2;0;1;Meningkatkan kesadaran akan pentingnya arsitektur informasi bagi organisasi
-33;PO;PO2;0;1;Perlunya pengetahuan, keahlian, dan tanggung jawab untuk mengembangkan arsitektur
-34;PO;PO2;0;1;Meningkatkan kesadaran kebutuhan akan arsitektur informasi pada Manajemen
-35;PO;PO2;0;1;Mengembangkan beberapa komponen arsitektur informasi terjadi secara ad hoc
-36;PO;PO2;0;1;Definisi alamat data, bukan informasi, dan didorong oleh penawaran vendor perangkat lunak aplikasi
-37;PO;PO2;0;1;Perlunya komunikasi yang konsisten dan tidak sporadis tentang kebutuhan akan arsitektur informasi
-38;PO;PO2;1;2;Membuat proses arsitektur informasi meskipun informal dan intuitif, prosedur dapat diikuti oleh individu yang berbeda dalam organisasi
-39;PO;PO2;1;2;Staf perlu memperoleh keterampilan mereka dalam membangun arsitektur informasi melalui pengalaman langsung dan penerapan teknik yang berulang
-40;PO;PO2;1;2;Perlunya persyaratan taktis mendorong pengembangan komponen arsitektur informasi oleh anggota staf individu
-41;PO;PO2;2;3;Membuat arsitektur informasi yang dipahami dan diterima, dan tanggung jawab untuk pengirimannya ditetapkan dan dikomunikasikan dengan jelas
-42;PO;PO2;2;3;Prosedur, alat dan teknik terkait, meskipun tidak canggih, telah distandarisasi dan didokumentasikan dan merupakan bagian dari kegiatan pelatihan informal
-43;PO;PO2;2;3;Mengembangkan kebijakan arsitektur informasi dasar, termasuk beberapa persyaratan strategis, tetapi kepatuhan terhadap kebijakan, standar, dan alat tidak ditegakkan secara konsisten
-44;PO;PO2;2;3;Mendefinisikan secara formal fungsi administrasi data yang sudah ada, menetapkan standar organisasi yang luas, dan mulai melaporkan pengiriman dan penggunaan arsitektur informasi
-45;PO;PO2;2;3;Alat otomatis mulai digunakan, tetapi proses dan aturan yang digunakan ditentukan oleh penawaran vendor perangkat lunak basis data
-46;PO;PO2;2;3;Mengembangkan rencana pelatihan formal, tetapi pelatihan formal masih didasarkan pada inisiatif individu
-47;PO;PO2;3;4;Pengembangan dan penegakan arsitektur informasi didukung penuh oleh metode dan teknik formal
-48;PO;PO2;3;4;Akuntabilitas untuk kinerja proses pengembangan arsitektur ditegakkan dan keberhasilan arsitektur informasi sedang diukur
-49;PO;PO2;3;4;Akuntabilitas untuk kinerja proses pengembangan arsitektur ditegakkan dan keberhasilan arsitektur informasi sedang diukur
-50;PO;PO2;3;4;Metrik dasar telah diidentifikasi dan sistem pengukuran telah tersedia
-51;PO;PO2;3;4;Proses definisi arsitektur informasi bersifat proaktif dan berfokus pada pemenuhan kebutuhan bisnis masa depan
-52;PO;PO2;3;4;Organisasi administrasi data secara aktif terlibat dalam semua upaya pengembangan aplikasi, untuk memastikan konsistensi
-53;PO;PO2;3;4;Repositori otomatis sepenuhnya diimplementasikan
-54;PO;PO2;3;4;Model data yang lebih kompleks sedang diimplementasikan untuk memanfaatkan konten informasi dari database
-55;PO;PO2;3;4;Sistem informasi eksekutif dan sistem pendukung keputusan memanfaatkan informasi yang tersedia
-56;PO;PO2;4;5;Arsitektur informasi diterapkan secara konsisten di semua tingkatan
-57;PO;PO2;4;5;Nilai arsitektur informasi untuk bisnis terus ditekankan
-58;PO;PO2;4;5;Personil TI memiliki keahlian dan keterampilan yang diperlukan untuk mengembangkan dan memelihara arsitektur informasi yang kuat dan responsif yang mencerminkan semua kebutuhan bisnis
-59;PO;PO2;4;5;Informasi yang disediakan oleh arsitektur informasi diterapkan secara konsisten dan ekstensif
-60;PO;PO2;4;5;Penggunaan luas dibuat dari praktik industri yang baik dalam pengembangan dan pemeliharaan arsitektur informasi, termasuk proses peningkatan berkelanjutan
-61;PO;PO2;4;5;Strategi untuk memanfaatkan informasi melalui pergudangan data dan teknologi penambangan data didefinisikan
-62;PO;PO2;4;5;Arsitektur informasi terus meningkat dan mempertimbangkan informasi non-tradisional tentang proses, organisasi, dan sistem
-63;PO;PO3;0;1;Meningkatkan kesadaran akan pentingnya perencanaan infrastruktur teknologi untuk entitas
-64;PO;PO3;0;1;Pengetahuan dan keahlian yang diperlukan untuk mengembangkan rencana infrastruktur teknologi seperti itu tidak ada
-65;PO;PO3;0;1;Meningkatkan pemahaman bahwa perencanaan untuk perubahan teknologi sangat penting untuk mengalokasikan sumber daya secara efektif
-66;PO;PO3;0;1;Manajemen menyadari perlunya perencanaan infrastruktur teknologi
-67;PO;PO3;0;1;Perkembangan komponen teknologi dan implementasi teknologi yang muncul bersifat ad hoc dan terisolasi
-68;PO;PO3;0;1;Ada pendekatan reaktif dan fokus operasional untuk perencanaan infrastruktur
-69;PO;PO3;0;1;Arah teknologi didorong oleh rencana evolusi produk yang sering bertentangan dari vendor perangkat keras, perangkat lunak sistem, dan perangkat lunak aplikasi
-70;PO;PO3;0;1;Membuat komunikasi tentang dampak potensial dari perubahan teknologi lebih konsisten
-71;PO;PO3;1;2;Kebutuhan dan pentingnya perencanaan teknologi dikomunikasikan
-72;PO;PO3;1;2;Perencanaan bersifat taktis dan berfokus pada menghasilkan solusi untuk masalah teknis, bukan pada penggunaan teknologi untuk memenuhi kebutuhan bisnis
-73;PO;PO3;1;2;Evaluasi perubahan teknologi diserahkan kepada individu yang berbeda yang mengikuti proses intuitif, tetapi serupa
-74;PO;PO3;1;2;Orang-orang memperoleh keterampilan mereka dalam perencanaan teknologi melalui pembelajaran langsung dan penerapan teknik secara berulang
-75;PO;PO3;1;2;Teknik dan standar umum muncul untuk pengembangan komponen infrastruktur
-76;PO;PO3;2;3;Manajemen menyadari pentingnya rencana infrastruktur teknologi
-77;PO;PO3;2;3;Proses pengembangan rencana infrastruktur teknologi cukup baik dan selaras dengan rencana strategis TI
-78;PO;PO3;2;3;Ada rencana infrastruktur teknologi yang ditetapkan, didokumentasikan, dan dikomunikasikan dengan baik, tetapi diterapkan secara tidak konsisten
-79;PO;PO3;2;3;Arah infrastruktur teknologi mencakup pemahaman tentang ke mana organisasi ingin memimpin atau tertinggal dalam penggunaan teknologi, berdasarkan risiko dan keselarasan dengan strategi organisasi.
-80;PO;PO3;2;3;Vendor utama dipilih berdasarkan pemahaman tentang teknologi jangka panjang dan rencana pengembangan produk mereka, konsisten dengan arah organisasi
-81;PO;PO3;2;3;Pelatihan formal dan komunikasi peran dan tanggung jawab ada
-82;PO;PO3;3;4;Manajemen memastikan pengembangan dan pemeliharaan rencana infrastruktur teknologi
-83;PO;PO3;3;4;Anggota staf TI memiliki keahlian dan keterampilan yang diperlukan untuk mengembangkan rencana infrastruktur teknologi
-84;PO;PO3;3;4;Dampak potensial dari perubahan dan teknologi yang muncul diperhitungkan
-85;PO;PO3;3;4;Manajemen dapat mengidentifikasi penyimpangan dari rencana dan mengantisipasi masalah
-86;PO;PO3;3;4;Tanggung jawab untuk pengembangan dan pemeliharaan rencana infrastruktur teknologi telah ditetapkan
-87;PO;PO3;3;4;Proses pengembangan rencana infrastruktur teknologi canggih dan responsif terhadap perubahan
-88;PO;PO3;3;4;Praktik baik internal telah diperkenalkan ke dalam proses
-89;PO;PO3;3;4;Strategi sumber daya manusia selaras dengan arah teknologi, untuk memastikan bahwa anggota staf TI dapat mengelola perubahan teknologi
-90;PO;PO3;3;4;Rencana migrasi untuk memperkenalkan teknologi baru telah ditentukan
-91;PO;PO3;3;4;Outsourcing dan kemitraan sedang dimanfaatkan untuk mengakses keahlian dan keterampilan yang diperlukan
-92;PO;PO3;3;4;Manajemen telah menganalisis penerimaan risiko mengenai memimpin atau tertinggalnya penggunaan teknologi dalam mengembangkan peluang bisnis baru atau efisiensi operasional
-93;PO;PO3;4;5;Fungsi penelitian ada untuk meninjau teknologi yang muncul dan berkembang dan membandingkan organisasi dengan norma-norma industri
-94;PO;PO3;4;5;Arah rencana infrastruktur teknologi dipandu oleh standar dan perkembangan industri dan internasional, bukan didorong oleh vendor teknologi
-95;PO;PO3;4;5;Dampak bisnis potensial dari perubahan teknologi ditinjau di tingkat manajemen senior
-96;PO;PO3;4;5;Ada persetujuan eksekutif formal untuk arah teknologi baru dan yang diubah
-97;PO;PO3;4;5;Entitas memiliki rencana infrastruktur teknologi yang kuat yang mencerminkan kebutuhan bisnis, responsif, dan dapat dimodifikasi untuk mencerminkan perubahan dalam lingkungan bisnis
-98;PO;PO3;4;5;Ada proses yang berkelanjutan dan diterapkan untuk meningkatkan rencana infrastruktur teknologi
-99;PO;PO3;4;5;Praktik industri yang baik banyak digunakan dalam menentukan arah teknologi technological
-100;PO;PO4;0;1;Mendirikan Organisasi TI secara efektif untuk fokus pada pencapaian tujuan bisnis
-101;PO;PO4;0;1;Membuat aktivitas dan fungsi TI bersifat proaktif dan diimplementasikan secara konsisten
-102;PO;PO4;0;1;Melibatkan TI dalam proyek bisnis pada tahap awal
-103;PO;PO4;0;1;Fungsi TI dianggap sebagai fungsi pendukung, tanpa perspektif organisasi secara keseluruhan
-104;PO;PO4;0;1;"Ada pemahaman implisit tentang kebutuhan organisasi TI; namun, peran dan tanggung jawab tidak diformalkan atau ditegakkan"
-105;PO;PO4;1;2;Fungsi TI diatur untuk merespons secara taktis, tetapi tidak konsisten, terhadap kebutuhan pelanggan dan hubungan vendor
-106;PO;PO4;1;2;Kebutuhan akan organisasi terstruktur dan manajemen vendor dikomunikasikan, tetapi keputusan masih bergantung pada pengetahuan dan keterampilan individu kunci
-107;PO;PO4;1;2;Ada munculnya teknik umum untuk mengelola organisasi TI dan hubungan vendor
-108;PO;PO4;2;3;Peran dan tanggung jawab yang ditetapkan untuk organisasi TI dan pihak ketiga ada
-109;PO;PO4;2;3;Organisasi TI dikembangkan, didokumentasikan, dikomunikasikan, dan diselaraskan dengan strategi TI
-110;PO;PO4;2;3;Lingkungan pengendalian internal didefinisikan
-111;PO;PO4;2;3;Ada formalisasi hubungan dengan pihak lain, termasuk komite pengarah, audit internal dan manajemen vendor
-112;PO;PO4;2;3;Organisasi TI secara fungsional lengkap
-113;PO;PO4;2;3;Ada definisi fungsi yang harus dilakukan oleh personel TI dan yang akan dilakukan oleh pengguna
-114;PO;PO4;2;3;Persyaratan dan keahlian staf TI yang penting ditentukan dan dipenuhi
-115;PO;PO4;2;3;Ada definisi formal tentang hubungan dengan pengguna dan pihak ketiga
-116;PO;PO4;2;3;Pembagian peran dan tanggung jawab ditetapkan dan dilaksanakan
-117;PO;PO4;3;4;Organisasi TI secara proaktif merespons perubahan dan mencakup semua peran yang diperlukan untuk memenuhi persyaratan bisnis
-118;PO;PO4;3;4;Manajemen TI, kepemilikan proses, akuntabilitas, dan tanggung jawab didefinisikan dan diseimbangkan
-119;PO;PO4;3;4;Praktik baik internal telah diterapkan dalam organisasi fungsi TI
-120;PO;PO4;3;4;Manajemen TI memiliki keahlian dan keterampilan yang sesuai untuk mendefinisikan, menerapkan, dan memantau organisasi dan hubungan yang disukai
-121;PO;PO4;3;4;Metrik terukur untuk mendukung tujuan bisnis dan faktor keberhasilan kritis yang ditentukan pengguna (CSF) distandarisasi
-122;PO;PO4;3;4;Inventaris keterampilan tersedia untuk mendukung staf proyek dan pengembangan profesional professional
-123;PO;PO4;3;4;Keseimbangan antara keterampilan dan sumber daya yang tersedia secara internal dan yang dibutuhkan dari organisasi eksternal ditentukan dan ditegakkan
-124;PO;PO4;3;4;Struktur organisasi TI secara tepat mencerminkan kebutuhan bisnis dengan menyediakan layanan yang selaras dengan proses bisnis strategis, bukan dengan teknologi yang terisolasi
-125;PO;PO4;4;5;Struktur organisasi TI fleksibel dan adaptif
-126;PO;PO4;4;5;Praktik industri yang baik diterapkan
-127;PO;PO4;4;5;Ada penggunaan teknologi yang ekstensif untuk membantu memantau kinerja organisasi dan proses TI
-128;PO;PO4;4;5;Teknologi dimanfaatkan sejalan untuk mendukung kompleksitas dan distribusi geografis organisasi
-129;PO;PO4;4;5;Ada proses perbaikan terus-menerus di tempat
-130;PO;PO5;0;1;Perlunya kesadaran akan pentingnya pemilihan dan penganggaran investasi TI
-131;PO;PO5;0;1;Perlunya pelacakan atau pemantauan investasi dan pengeluaran TI
-132;PO;PO5;0;1;Organisasi menyadari kebutuhan untuk mengelola investasi TI dan kebutuhan ini dikomunikasikan secara konsisten
-133;PO;PO5;0;1;Alokasi tanggung jawab untuk pemilihan investasi TI dan pengembangan anggaran dilakukan secara ad hoc
-134;PO;PO5;0;1;Implementasi terisolasi dari pemilihan dan penganggaran investasi TI terjadi, dengan dokumentasi informal
-135;PO;PO5;0;1;Investasi TI dibenarkan secara ad hoc
-136;PO;PO5;0;1;Keputusan penganggaran yang reaktif dan terfokus secara operasional terjadi
-137;PO;PO5;1;2;Ada pemahaman implisit tentang perlunya pemilihan dan penganggaran investasi TI
-138;PO;PO5;1;2;Kebutuhan untuk proses seleksi dan penganggaran dikomunikasikan
-139;PO;PO5;1;2;Kepatuhan tergantung pada inisiatif individu dalam organisasi
-140;PO;PO5;1;2;Munculnya teknik umum untuk mengembangkan komponen anggaran TI
-141;PO;PO5;1;2;Keputusan penganggaran reaktif dan taktis terjadi
-142;PO;PO5;2;3;Kebijakan dan proses untuk investasi dan penganggaran ditetapkan, didokumentasikan dan dikomunikasikan, dan mencakup masalah bisnis dan teknologi utama
-143;PO;PO5;2;3;Anggaran TI selaras dengan TI strategis dan rencana bisnis
-144;PO;PO5;2;3;Proses penganggaran dan pemilihan investasi TI diformalkan, didokumentasikan, dan dikomunikasikan
-145;PO;PO5;2;3;Pelatihan formal sedang muncul tetapi masih didasarkan terutama pada inisiatif individu
-146;PO;PO5;2;3;Persetujuan formal atas pilihan dan anggaran investasi TI sedang berlangsung
-147;PO;PO5;2;3;Anggota staf TI memiliki keahlian dan keterampilan yang diperlukan untuk mengembangkan anggaran TI dan merekomendasikan investasi TI yang sesuai
-148;PO;PO5;3;4;Tanggung jawab dan akuntabilitas untuk pemilihan investasi dan penganggaran ditugaskan kepada individu tertentu
-149;PO;PO5;3;4;Varians anggaran diidentifikasi dan diselesaikan
-150;PO;PO5;3;4;Analisis penetapan biaya formal dilakukan, mencakup biaya langsung dan tidak langsung dari operasi yang ada, serta investasi yang diusulkan, dengan mempertimbangkan semua biaya selama siklus hidup total
-151;PO;PO5;3;4;Proses penganggaran yang proaktif dan standar digunakan
-152;PO;PO5;3;4;Dampak pergeseran biaya pengembangan dan operasi dari perangkat keras dan perangkat lunak ke integrasi sistem dan sumber daya manusia TI diakui dalam rencana investasi
-153;PO;PO5;3;4;Manfaat dan pengembalian dihitung dalam istilah keuangan dan non-keuangan
-154;PO;PO5;4;5;Praktik industri yang baik digunakan untuk membandingkan biaya dan mengidentifikasi pendekatan untuk meningkatkan efektivitas investasi
-155;PO;PO5;4;5;Analisis perkembangan teknologi digunakan dalam proses pemilihan investasi dan penganggaran
-156;PO;PO5;4;5;Proses manajemen investasi terus ditingkatkan berdasarkan pelajaran dari analisis kinerja investasi aktual
-157;PO;PO5;4;5;Keputusan investasi menggabungkan tren peningkatan harga/kinerja
-158;PO;PO5;4;5;Alternatif pendanaan diselidiki dan dievaluasi secara formal dalam konteks struktur modal organisasi yang ada, menggunakan metode evaluasi formal
-159;PO;PO5;4;5;Ada identifikasi varians secara proaktif
-160;PO;PO5;4;5;Analisis biaya dan manfaat jangka panjang dari siklus hidup total dimasukkan dalam keputusan investasi investment
-161;PO;PO6;0;1;Manajemen membentuk lingkungan kontrol TI yang positif
-162;PO;PO6;0;1;Perlunya pengakuan kebutuhan untuk menetapkan serangkaian kebijakan, rencana dan prosedur, dan proses kepatuhan compliance
-163;PO;PO6;0;1;Manajemen proaktif dalam menangani persyaratan lingkungan pengendalian informasi
-164;PO;PO6;0;1;Kebijakan, prosedur, dan standar dikembangkan dan dikomunikasikan secara ad hoc sebagaimana didorong oleh masalah
-165;PO;PO6;0;1;Proses pengembangan, komunikasi, dan kepatuhan bersifat formal dan konsisten
-166;PO;PO6;1;2;Kebutuhan dan persyaratan lingkungan pengendalian informasi yang efektif secara implisit dipahami oleh manajemen
-167;PO;PO6;1;2;Kebutuhan akan kebijakan, rencana, dan prosedur pengendalian dikomunikasikan oleh manajemen, tetapi pengembangan diserahkan kepada kebijaksanaan masing-masing manajer dan area bisnis
-168;PO;PO6;1;2;Kualitas diakui sebagai filosofi yang diinginkan untuk diikuti, tetapi praktiknya diserahkan kepada kebijaksanaan masing-masing manajer
-169;PO;PO6;1;2;Pelatihan dilakukan secara individu, sesuai kebutuhan
-170;PO;PO6;2;3;Kontrol informasi dan lingkungan manajemen mutu yang lengkap dikembangkan, didokumentasikan, dan dikomunikasikan oleh manajemen dan mencakup kerangka kerja untuk kebijakan, rencana, dan prosedur
-171;PO;PO6;2;3;Proses pengembangan kebijakan terstruktur, dipelihara dan diketahui oleh staf, dan kebijakan, rencana, dan prosedur yang ada cukup masuk akal dan mencakup isu-isu utama
-172;PO;PO6;2;3;Manajemen membahas pentingnya kesadaran keamanan TI dan memulai program kesadaran
-173;PO;PO6;2;3;Pelatihan formal tersedia untuk mendukung lingkungan pengendalian informasi tetapi tidak diterapkan secara ketat
-174;PO;PO6;2;3;Meskipun ada kerangka pengembangan keseluruhan untuk kebijakan dan prosedur pengendalian, ada pemantauan yang tidak konsisten terhadap kepatuhan terhadap kebijakan dan prosedur ini
-175;PO;PO6;2;3;Ada kerangka pengembangan keseluruhan
-176;PO;PO6;2;3;Teknik untuk mempromosikan kesadaran keamanan telah distandarisasi dan diformalkan
-177;PO;PO6;3;4;Manajemen menerima tanggung jawab untuk mengkomunikasikan kebijakan pengendalian internal dan mendelegasikan tanggung jawab dan mengalokasikan sumber daya yang cukup untuk memelihara lingkungan sejalan dengan perubahan signifikan
-178;PO;PO6;3;4;Lingkungan kontrol informasi yang positif dan proaktif, termasuk komitmen terhadap kualitas dan kesadaran keamanan TI, telah ditetapkan
-179;PO;PO6;3;4;Satu set lengkap kebijakan, rencana dan prosedur dikembangkan, dipelihara dan dikomunikasikan dan merupakan gabungan dari praktik baik internal
-180;PO;PO6;3;4;Kerangka kerja untuk peluncuran dan pemeriksaan kepatuhan selanjutnya telah ditetapkan
-181;PO;PO6;4;5;The information control environment is aligned with the strategic management framework and vision and is frequently reviewed, updated and continuously improved
-182;PO;PO6;4;5;Pakar internal dan eksternal ditugaskan untuk memastikan bahwa praktik industri yang baik diadopsi sehubungan dengan panduan kontrol dan teknik komunikasi
-183;PO;PO6;4;5;Pemantauan, penilaian diri, dan pemeriksaan kepatuhan meresap dalam organisasi
-184;PO;PO6;4;5;Teknologi digunakan untuk mempertahankan basis pengetahuan kebijakan dan kesadaran dan untuk mengoptimalkan komunikasi, menggunakan otomatisasi kantor dan alat pelatihan berbasis komputer
-185;PO;PO7;0;1;Perlunya kesadaran tentang pentingnya menyelaraskan manajemen sumber daya manusia TI dengan proses perencanaan teknologi untuk organisasi
-186;PO;PO7;0;1;Perlunya orang atau kelompok yang secara formal bertanggung jawab atas manajemen sumber daya manusia TI
-187;PO;PO7;0;1;Manajemen menyadari perlunya manajemen sumber daya manusia TI
-188;PO;PO7;0;1;Proses manajemen sumber daya manusia TI bersifat formal dan proaktif
-189;PO;PO7;0;1;Proses sumber daya manusia TI secara operasional berfokus pada perekrutan dan pengelolaan personel TI
-190;PO;PO7;0;1;Kesadaran berkembang mengenai dampak perubahan bisnis dan teknologi yang cepat serta solusi yang semakin kompleks terhadap kebutuhan akan tingkat keterampilan dan kompetensi baru
-191;PO;PO7;1;2;Ada pendekatan taktis untuk merekrut dan mengelola personel TI, didorong oleh kebutuhan spesifik proyek, bukan oleh keseimbangan yang dipahami antara ketersediaan staf terampil internal dan eksternal
-192;PO;PO7;1;2;Pelatihan informal dilakukan untuk personel baru, yang kemudian menerima pelatihan sesuai kebutuhan
-193;PO;PO7;2;3;Ada proses yang ditetapkan dan didokumentasikan untuk mengelola sumber daya manusia TI
-194;PO;PO7;2;3;Ada rencana manajemen sumber daya manusia TI. Ada pendekatan strategis untuk merekrut dan mengelola personel TI
-195;PO;PO7;2;3;Rencana pelatihan formal dirancang untuk memenuhi kebutuhan sumber daya manusia TI
-196;PO;PO7;2;3;Sebuah program rotasi, yang dirancang untuk memperluas keterampilan manajemen teknis dan bisnis, didirikan
-197;PO;PO7;3;4;Tanggung jawab untuk pengembangan dan pemeliharaan rencana manajemen sumber daya manusia TI ditugaskan kepada individu atau kelompok tertentu dengan keahlian dan keterampilan yang diperlukan untuk mengembangkan dan memelihara rencana tersebut.
-198;PO;PO7;3;4;Proses pengembangan dan pengelolaan rencana manajemen sumber daya manusia TI responsif terhadap perubahan
-199;PO;PO7;3;4;Langkah-langkah standar ada dalam organisasi untuk memungkinkannya mengidentifikasi penyimpangan dari rencana manajemen sumber daya manusia TI, dengan penekanan khusus pada pengelolaan pertumbuhan dan pergantian personel TI
-200;PO;PO7;3;4;Kompensasi dan tinjauan kinerja sedang dibuat dan dibandingkan dengan organisasi TI lainnya dan praktik industri yang baik
-201;PO;PO7;3;4;Manajemen sumber daya manusia TI proaktif, dengan mempertimbangkan pengembangan jalur karier
-202;PO;PO7;4;5;Rencana manajemen sumber daya manusia TI terus diperbarui untuk memenuhi perubahan kebutuhan bisnis
-203;PO;PO7;4;5;Manajemen sumber daya manusia TI terintegrasi dengan perencanaan teknologi, memastikan pengembangan optimal dan penggunaan keterampilan TI yang tersedia
-204;PO;PO7;4;5;Manajemen sumber daya manusia TI terintegrasi dengan dan responsif terhadap arah strategis entitas
-205;PO;PO7;4;5;Komponen manajemen sumber daya manusia TI konsisten dengan praktik industri yang baik, seperti kompensasi, tinjauan kinerja, partisipasi dalam forum industri, transfer pengetahuan, pelatihan dan pendampingan
-206;PO;PO7;4;5;Program pelatihan dikembangkan untuk semua standar dan produk teknologi baru sebelum diterapkan di organisasi
-207;PO;PO8;0;1;Organisasi memiliki proses perencanaan QMS dan metodologi siklus hidup pengembangan sistem (SDLC).
-208;PO;PO8;0;1;Manajemen senior dan anggota staf TI menyadari bahwa program berkualitas diperlukan
-209;PO;PO8;0;1;Proyek dan operasi tidak pernah ditinjau kualitasnya
-210;PO;PO8;0;1;Ada kesadaran manajemen tentang perlunya QMS
-211;PO;PO8;0;1;QMS didorong oleh individu di mana itu terjadi
-212;PO;PO8;0;1;Manajemen membuat penilaian informal tentang kualitas
-213;PO;PO8;1;2;Sebuah program sedang dibuat untuk mendefinisikan dan memantau aktivitas QMS dalam TI
-214;PO;PO8;1;2;Kegiatan QMS yang terjadi difokuskan pada proyek TI dan inisiatif yang berorientasi pada proses, bukan pada proses di seluruh organisasi
-215;PO;PO8;2;3;Proses QMS yang ditentukan dikomunikasikan ke seluruh perusahaan oleh manajemen dan melibatkan manajemen TI dan pengguna akhir
-216;PO;PO8;2;3;Program pendidikan dan pelatihan muncul untuk mengajarkan semua tingkatan organisasi tentang kualitas
-217;PO;PO8;2;3;Harapan kualitas dasar didefinisikan dan dibagikan di antara proyek dan di dalam organisasi TI
-218;PO;PO8;2;3;Alat dan praktik umum untuk manajemen mutu sedang muncul
-219;PO;PO8;2;3;Survei kepuasan kualitas direncanakan dan kadang-kadang dilakukan
-220;PO;PO8;3;4;QMS ditangani dalam semua proses, termasuk proses dengan ketergantungan pada pihak ketiga
-221;PO;PO8;3;4;Basis pengetahuan standar sedang dibangun untuk metrik kualitas
-222;PO;PO8;3;4;Metode analisis biaya-manfaat digunakan untuk membenarkan inisiatif QMS
-223;PO;PO8;3;4;Pembandingan terhadap industri dan pesaing muncul
-224;PO;PO8;3;4;Sebuah program pendidikan dan pelatihan dilembagakan untuk mengajarkan semua tingkatan organisasi tentang kualitas
-225;PO;PO8;3;4;Alat dan praktik sedang distandarisasi, dan analisis akar masalah diterapkan secara berkala
-226;PO;PO8;3;4;Survei kepuasan kualitas dilakukan secara konsisten
-227;PO;PO8;3;4;Program standar untuk mengukur kualitas sudah ada dan terstruktur dengan baik
-228;PO;PO8;3;4;Manajemen TI sedang membangun basis pengetahuan untuk metrik kualitas
-229;PO;PO8;4;5;QMS terintegrasi dan diterapkan di semua aktivitas TI
-230;PO;PO8;4;5;Proses QMS fleksibel dan mudah beradaptasi dengan perubahan di lingkungan TI
-231;PO;PO8;4;5;Basis pengetahuan untuk metrik kualitas ditingkatkan dengan praktik baik eksternal
-232;PO;PO8;4;5;Benchmarking terhadap standar eksternal dilakukan secara rutin
-233;PO;PO8;4;5;Survei kepuasan kualitas adalah proses yang berkelanjutan dan mengarah pada analisis akar masalah dan tindakan perbaikan
-234;PO;PO8;4;5;Ada jaminan formal pada tingkat proses manajemen mutu
-235;PO;PO9;0;1;Perlunya penilaian risiko untuk proses dan keputusan bisnis
-236;PO;PO9;0;1;Organisasi mempertimbangkan dampak bisnis yang terkait dengan kerentanan keamanan dan ketidakpastian proyek pengembangan
-237;PO;PO9;0;1;Manajemen risiko perlu diidentifikasi sebagai relevan untuk memperoleh solusi TI dan memberikan layanan TI
-238;PO;PO9;0;1;Risiko TI dipertimbangkan secara ad hoc
-239;PO;PO9;0;1;Penilaian informal risiko proyek dilakukan sebagaimana ditentukan oleh setiap proyek
-240;PO;PO9;0;1;Penilaian risiko kadang-kadang diidentifikasi dalam rencana proyek tetapi jarang ditugaskan kepada manajer tertentu
-241;PO;PO9;0;1;Risiko spesifik terkait TI, seperti keamanan, ketersediaan, dan integritas, terkadang dipertimbangkan berdasarkan proyek per proyek
-242;PO;PO9;0;1;Risiko terkait TI yang memengaruhi operasi sehari-hari jarang dibahas dalam rapat manajemen
-243;PO;PO9;0;1;Dimana risiko telah dipertimbangkan, mitigasi tidak konsisten
-244;PO;PO9;0;1;Ada pemahaman yang muncul bahwa risiko TI itu penting dan perlu dipertimbangkan
-245;PO;PO9;1;2;Pendekatan penilaian risiko yang berkembang ada dan diimplementasikan atas kebijaksanaan manajer proyek
-246;PO;PO9;1;2;Manajemen risiko biasanya pada tingkat tinggi dan biasanya diterapkan hanya untuk proyek-proyek besar atau dalam menanggapi masalah
-247;PO;PO9;1;2;Proses mitigasi risiko mulai diterapkan di mana risiko diidentifikasi
-248;PO;PO9;2;3;Kebijakan manajemen risiko di seluruh organisasi menentukan kapan dan bagaimana melakukan penilaian risiko
-249;PO;PO9;2;3;Manajemen risiko mengikuti proses yang ditetapkan yang didokumentasikan
-250;PO;PO9;2;3;Pelatihan manajemen risiko tersedia untuk semua anggota staf
-251;PO;PO9;2;3;Keputusan untuk mengikuti proses manajemen risiko dan menerima pelatihan diserahkan kepada kebijaksanaan individu
-252;PO;PO9;2;3;Metodologi untuk penilaian risiko meyakinkan dan masuk akal dan memastikan bahwa risiko utama untuk bisnis diidentifikasi
-253;PO;PO9;2;3;Sebuah proses untuk mengurangi risiko utama biasanya dilembagakan setelah risiko diidentifikasi
-254;PO;PO9;2;3;Deskripsi pekerjaan mempertimbangkan tanggung jawab manajemen risiko
-255;PO;PO9;3;4;Penilaian dan pengelolaan risiko adalah prosedur standar
-256;PO;PO9;3;4;Pengecualian untuk proses manajemen risiko dilaporkan ke manajemen TI
-257;PO;PO9;3;4;Pengecualian untuk proses manajemen risiko dilaporkan ke manajemen TI
-258;PO;PO9;3;4;Risiko dinilai dan dimitigasi pada tingkat proyek individu dan juga secara teratur berkaitan dengan operasi TI secara keseluruhan
-259;PO;PO9;3;4;Manajemen disarankan tentang perubahan dalam bisnis dan lingkungan TI yang dapat secara signifikan mempengaruhi skenario risiko terkait TI
-260;PO;PO9;3;4;Manajemen mampu memantau posisi risiko dan membuat keputusan yang tepat mengenai eksposur yang bersedia diterimanya
-261;PO;PO9;3;4;Semua risiko yang teridentifikasi memiliki pemilik yang ditunjuk, dan manajemen senior serta manajemen TI menentukan tingkat risiko yang akan ditoleransi oleh organisasi
-262;PO;PO9;3;4;Manajemen TI mengembangkan ukuran standar untuk menilai risiko dan menentukan rasio risiko/pengembalian
-263;PO;PO9;3;4;Anggaran manajemen untuk proyek manajemen risiko operasional untuk menilai kembali risiko secara teratur
-264;PO;PO9;3;4;Database manajemen risiko dibuat, dan bagian dari proses manajemen risiko mulai diotomatisasi
-265;PO;PO9;3;4;Manajemen TI mempertimbangkan strategi mitigasi risiko
-266;PO;PO9;4;5;Manajemen risiko berkembang ke tahap di mana proses organisasi yang terstruktur ditegakkan dan dikelola dengan baik
-267;PO;PO9;4;5;Praktik yang baik diterapkan di seluruh organisasi
-268;PO;PO9;4;5;Pengambilan, analisis, dan pelaporan data manajemen risiko sangat otomatis
-269;PO;PO9;4;5;Bimbingan diambil dari para pemimpin di lapangan, dan organisasi TI mengambil bagian dalam kelompok sebaya untuk bertukar pengalaman
-270;PO;PO9;4;5;Manajemen risiko benar-benar terintegrasi ke dalam semua bisnis dan operasi TI, diterima dengan baik dan secara luas melibatkan pengguna layanan TI
-271;PO;PO9;4;5;Manajemen mendeteksi dan bertindak ketika keputusan operasional dan investasi TI utama dibuat tanpa mempertimbangkan rencana manajemen risiko
-272;PO;PO9;4;5;Manajemen terus menilai strategi mitigasi risiko
-273;PO;PO10;0;1;Teknik manajemen proyek perlu digunakan dan organisasi perlu mempertimbangkan dampak bisnis yang terkait dengan salah urus proyek dan kegagalan proyek pengembangan
-274;PO;PO10;0;1;Penggunaan teknik dan pendekatan manajemen proyek dalam TI adalah keputusan yang diserahkan kepada manajer TI individu
-275;PO;PO10;0;1;Perlunya komitmen manajemen untuk kepemilikan proyek dan manajemen proyek
-276;PO;PO10;0;1;Keputusan penting tentang manajemen proyek dibuat perlu manajemen pengguna atau masukan pelanggan
-277;PO;PO10;0;1;Perlunya keterlibatan pelanggan dan pengguna dalam mendefinisikan proyek TI
-278;PO;PO10;0;1;Perlunya organisasi yang jelas di dalam TI untuk pengelolaan proyek
-279;PO;PO10;0;1;Peran dan tanggung jawab untuk manajemen proyek perlu ditentukan
-280;PO;PO10;0;1;Proyek, jadwal, dan pencapaian terdefinisi dengan baik
-281;PO;PO10;0;1;Waktu dan pengeluaran staf proyek tidak dilacak dan dibandingkan dengan anggaran
-282;PO;PO10;1;2;Manajemen senior memperoleh dan mengomunikasikan kesadaran akan perlunya manajemen proyek TI
-283;PO;PO10;1;2;Organisasi sedang dalam proses mengembangkan dan memanfaatkan beberapa teknik dan metode dari proyek ke proyek
-284;PO;PO10;1;2;Proyek TI memiliki tujuan bisnis dan teknis yang ditetapkan secara formal
-285;PO;PO10;1;2;Keterlibatan pemangku kepentingan terbatas dalam manajemen proyek TI
-286;PO;PO10;1;2;Pedoman awal dikembangkan untuk banyak aspek manajemen proyek
-287;PO;PO10;1;2;Penerapan pedoman manajemen proyek diserahkan kepada kebijaksanaan manajer proyek individu
-288;PO;PO10;2;3;Proses dan metodologi manajemen proyek TI ditetapkan dan dikomunikasikan
-289;PO;PO10;2;3;Proyek TI didefinisikan dengan tujuan bisnis dan teknis yang sesuai
-290;PO;PO10;2;3;Senior TI dan manajemen bisnis mulai berkomitmen dan terlibat dalam pengelolaan proyek TI
-291;PO;PO10;2;3;Kantor manajemen proyek didirikan di dalam TI, dengan peran dan tanggung jawab awal yang ditentukan
-292;PO;PO10;2;3;Proyek TI dipantau, dengan pencapaian, jadwal, anggaran, dan pengukuran kinerja yang ditetapkan dan diperbarui
-293;PO;PO10;2;3;Pelatihan manajemen proyek tersedia dan terutama merupakan hasil dari inisiatif staf individu
-294;PO;PO10;2;3;Prosedur QA dan aktivitas implementasi pasca sistem didefinisikan, tetapi tidak diterapkan secara luas oleh manajer TI
-295;PO;PO10;2;3;Proyek mulai dikelola sebagai portofolio
-296;PO;PO10;3;4;Manajemen membutuhkan metrik proyek formal dan standar dan pelajaran yang dipetik untuk ditinjau setelah penyelesaian proyek
-297;PO;PO10;3;4;Manajemen proyek diukur dan dievaluasi di seluruh organisasi dan tidak hanya di dalam TI
-298;PO;PO10;3;4;Peningkatan proses manajemen proyek diformalkan dan dikomunikasikan dengan anggota tim proyek yang dilatih tentang peningkatan
-299;PO;PO10;3;4;Manajemen TI menerapkan struktur organisasi proyek dengan peran, tanggung jawab, dan kriteria kinerja staf yang terdokumentasi
-300;PO;PO10;3;4;Kriteria untuk mengevaluasi keberhasilan di setiap tonggak ditetapkan
-301;PO;PO10;3;4;Nilai dan risiko diukur dan dikelola sebelum, selama dan setelah penyelesaian proyek
-302;PO;PO10;3;4;Proyek semakin membahas tujuan organisasi, bukan hanya yang spesifik TI
-303;PO;PO10;3;4;Ada dukungan proyek yang kuat dan aktif dari sponsor manajemen senior serta pemangku kepentingan
-304;PO;PO10;3;4;Pelatihan manajemen proyek yang relevan direncanakan untuk staf di kantor manajemen proyek dan di seluruh fungsi TI
-305;PO;PO10;4;5;Metodologi proyek dan program siklus hidup yang terbukti dan lengkap diterapkan, ditegakkan, dan diintegrasikan ke dalam budaya seluruh organisasi
-306;PO;PO10;4;5;Inisiatif berkelanjutan untuk mengidentifikasi dan melembagakan praktik manajemen proyek terbaik diimplementasikan
-307;PO;PO10;4;5;Strategi TI untuk pengembangan sumber dan proyek operasional didefinisikan dan diimplementasikan
-308;PO;PO10;4;5;Kantor manajemen proyek terintegrasi bertanggung jawab atas proyek dan program dari awal hingga pasca implementasi
-309;PO;PO10;4;5;Perencanaan program dan proyek di seluruh organisasi memastikan bahwa pengguna dan sumber daya TI dimanfaatkan sebaik mungkin untuk mendukung inisiatif strategis
-310;AI;AI1;0;1;Meningkatkan kesadaran dalam menentukan kebutuhan serta mengidentifikasi solusi teknologi
-311;AI;AI1;0;1;Melakukan pertemuan diantar Manajemen untuk membahas kebutuhan informal dan melakukan dokumentasi mengenai kebutuhan tersebut
-312;AI;AI1;0;1;Melakukan riset terstruktur mengenai teknologi yang tersedia saat ini
-313;AI;AI1;1;2;Melaksanakan pendekatan intuitif untuk mengidentifikasi ketersediaan solusi Teknologi Informasi yang dibutuhkan
-314;AI;AI1;1;2;Mengidentifikasi pemanfaatan Teknologi Informasi berdasarkan pengalaman dan pengetahuan internal tentang fungsi Teknologi Informasi
-315;AI;AI1;1;2;Memiliki individu yang keahliannya menjadi kunci keberhasilan proyek
-316;AI;AI1;1;2;Memiliki variasi dalam kualitas dokumentasi dan pengambilan keputusan
-317;AI;AI1;1;2;Melakukan pendekatan yang  terstruktur untuk mendefinisikan persyaratan dan mengidentifikasi solusi teknologi
-318;AI;AI1;2;3;Melakukan pendekatan yang jelas dan terstruktur dalam menentukan solusi TI
-319;AI;AI1;2;3;Membutuhkan pertimbangan alternatif yang dievaluasi terhadap faktor kebutuhan bisnis atau pengguna dalam melakukan pendekatan untuk menentukan solusi TI 
-320;AI;AI1;2;3;Menerapkan solusi TI untuk beberapa proyek berdasarkan keputusan yang dibuat oleh masing-masing anggota staf yang terlibat
-321;AI;AI1;2;3;Melakukan pendekatan terstruktur untuk menentukan persyaratan dan mengidentifikasi solusi TI pada PIKTI
-322;AI;AI1;3;4;Melakukan identifikasi dan menilai solusi TI dengan metodologi yang mapan untuk digunakan pada sebagian besar proyek
-323;AI;AI1;3;4;Mendokumentasikan proyek dengan berkualitas dan disetujui di setiap tingkatnya
-324;AI;AI1;3;4;Menyiapkan kebutuhan dengan jelas dan sesuai dengan struktur yang sudah didefinisikan sebelumnya
-325;AI;AI1;3;4;Memiliki alternatif solusi yang dapat dipertimbangkan, termasuk analisis mengenai biaya dan manfaatnya
-326;AI;AI1;3;4;Memiliki metodologi yang jelas, dapat didefinisikan, dan dipahami secara umum serta dapat diukur
-327;AI;AI1;3;4;Mempunyai antarmuka yang didefinisikan dengan jelas antara manajemen TI dan bisnis pada identifikasi dan penilaian solusi TI
-328;AI;AI1;4;5;Melakukan peningkatan berkelanjutan pada metodologi yang digunakan untuk identifikasi dan penilaian solusi TI
-329;AI;AI1;4;5;Mengakuisisi dan mengimplementasi metodologi yang memiliki fleksibilitas untuk proyek skala besar maupun kecil
-330;AI;AI1;4;5;Memiliki metodologi yang didukung oleh internal dan database pengetahuan eksternal yang berisi materi referensi tentang solusi teknologi
-331;AI;AI1;4;5;Memiliki metodologi yang menghasilkan dokumentasi dalam struktur yang telah ditentukan sebelumnya agar membuat produksi dan pemeliharaan menjadi efisien
-332;AI;AI1;4;5;Memiliki peluang baru yang sering kali diidentifikasi untuk memanfaatkan teknologi agar mendapatkan keunggulan kompetitif, memengaruhi rekayasa ulang proses bisnis, dan meningkatkan efisiensi secara keseluruhan
-333;AI;AI1;4;5;Memiliki regulasi bahwa manajemen dapat mendeteksi dan bertindak jika solusi TI disetujui tanpa mempertimbangkan teknologi alternatif atau kebutuhan fungsional bisnis
-334;AI;AI2;0;1;Memiliki kesadaran bahwa diperlukan proses untuk memperoleh dan mempertahankan aplikasi
-335;AI;AI2;0;1;Melakukan pendekatan untuk memperoleh dan memelihara perangkat lunak yang bervariasi dari proyek ke proyek
-336;AI;AI2;0;1;Memiliki beberapa solusi individu untuk kebutuhan bisnis tertentu yang diperoleh secara independen, sehingga menjadi efisien dengan pemeliharaan dan dukungan
-337;AI;AI2;1;2;Memiliki proses yang berbeda, tetapi serupa, untuk memperoleh dan memelihara aplikasi berdasarkan keahlian dalam fungsi TI
-338;AI;AI2;1;2;Melakukan peningkatan pada keterampilan dan tingkat pengalaman di dalam IT, karena tingkat keberhasilan aplikasi sangat bergantung  pada hal tersebut
-339;AI;AI2;1;2;Menjaga pengetahuan internal tidak sampai hilang dari organisasi, karena perawatan biasanya bermasalah dan menderita ketika hal tersebut terjadi
-340;AI;AI2;1;2;Memiliki sedikit pertimbangan keamanan aplikasi dan ketersediaan dalam desain atau perolehan perangkat lunak aplikasi
-341;AI;AI2;2;3;Memiliki proses yang jelas, sudah ditentukan dan umumnya dapat dipahami untuk perolehan dan pemeliharaan perangkat lunak aplikasi
-342;AI;AI2;2;3;Melakukan suatu upaya untuk menerapkan proses yang terdokumentasi secara konsisten di seluruh berbeda aplikasi dan proyek
-343;AI;AI2;2;3;Memiliki metodologi yang umumnya harus fleksibel dan sulit diterapkan dalam semua kasus, sehingga langkah-langkahnya mungkin dilewati
-344;AI;AI2;2;3;Melakukan kegiatan perawatan yang telah direncanakan, dijadwalkan dan dikoordinasikan
-345;AI;AI2;3;4;Memiliki metodologi formal dan dipahami dengan baik yang mencakup proses desain dan spesifikasi, kriteria untuk akuisisi, proses untuk pengujian dan persyaratan dokumentasi
-346;AI;AI2;3;4;Memiliki mekanisme persetujuan yang didokumentasikan dan disetujui untuk memastikan semuanya langkah-langkah diikuti dan pengecualian yang diizinkan
-347;AI;AI2;3;4;Memiliki praktik dan prosedur yang berevolusi dan cocok untuk organisasi, digunakan oleh semua staf dan berlaku untuk sebagian besar persyaratan aplikasi
-348;AI;AI2;4;5;Menyelaraskan perolehan perangkat lunak dan praktik pemeliharaan dengan proses yang ditentukan
-349;AI;AI2;4;5;Melakukan penerapan perangkat lunak akuisisi dan pemeliharaan sesuai dengan proses yang ditetapkan
-350;AI;AI2;4;5;Memiliki akuisisi dan metodologi pemeliharaan yang canggih dan memungkinkan penyebaran cepat, memungkinkan responsif dan fleksibilitas yang tinggi menanggapi kebutuhan bisnis yang berubah
-351;AI;AI2;4;5;Melakukan perbaikan terus menerus pada akuisisi perangkat lunak aplikasi dan metodologi implementasi. Serta didukung oleh database pengetahuan internal dan eksternal yang mengandung referensi bahan dan praktik yang baik
-352;AI;AI2;4;5;Memiliki metodologi menciptakan dokumentasi dalam struktur yang telah ditentukan agar membuat produksi dan pemeliharaan efisien
-353;AI;AI3;0;1;Memiliki rencana keseluruhan apabila ada perubahan yang dilakukan pada infrastruktur TI untuk setiap aplikasi baru
-354;AI;AI3;0;1;Memiliki pendekatan keseluruhan yang konsisten
-355;AI;AI3;0;1;Memastikan aktivitas pemeliharaan TI bereaksi terhadap kebutuhan jangka pendek
-356;AI;AI3;0;1;Menciptakan lingkungan produksi adalah lingkungan pengujian
-357;AI;AI3;1;2;Memiliki konsistensi diantara pendekatan taktis saat memperoleh dan memelihara infrastruktur TI
-358;AI;AI3;1;2;Memiliki akuisisi dan pemeliharaan infrastruktur TI, didasarkan pada strategi yang ditentukan dan mempertimbangkan kebutuhan aplikasi bisnis yang harus didukung
-359;AI;AI3;1;2;Meningkatkan pemahaman bahwa infrastruktur TI PIKTI itu penting, didukung oleh beberapa praktik formal
-360;AI;AI3;1;2;Melakukan penjadwalan dan koordinasi ketika pemeliharaan TI
-361;AI;AI3;1;2;Memikili lingkungan pengujian yang terpisah pada beberapa lingkungan
-362;AI;AI3;2;3;Memiliki proses yang jelas, terdefinisi, dan dipahami secara umum untuk memperoleh dan memelihara infrastruktur TI
-363;AI;AI3;2;3;Memiliki proses yang mendukung kebutuhan aplikasi bisnis yang penting dan sejalan dengan TI dan startegi bisnis, yang diterapkan secara konsisten
-364;AI;AI3;2;3;Memastikan sudah terlaksana perencanaan, penjadwalan, dan pengkoordinasian pada pemeliharaan
-365;AI;AI3;2;3;Memiliki lingkungan yang terpisah untuk pengujian dan produksi
-366;AI;AI3;3;4;Memiliki proses akuisisi dan pemeliharaan infrastruktur teknologi yang telah berkembang ke titik di mana ia bekerja dengan baik untuk sebagian besar situasi, diikuti secara konsisten dan difokuskan pada dapat digunakan kembali
-367;AI;AI3;3;4;Memastikan infrastruktur TI cukup mendukung aplikasi bisnis
-368;AI;AI3;3;4;Melakukan proses yang terorganisir dengan baik dan proaktif
-369;AI;AI3;3;4;Mengoptimalkan sebagian biaya dan waktu tunggu untuk mencapai tingkat skalabilitas, fleksibilitas, dan integrasi yang diharapkan
-370;AI;AI3;4;5;Memastikan proses akuisisi dan pemeliharaan infrastruktur teknologi bersifat proaktif dan selaras dengan aplikasi bisnis penting dan arsitektur teknologi
-371;AI;AI3;4;5;Memastikan praktik yang baik terkait solusi teknologi diikuti, dan organisasi mengetahui perkembangan platform dan alat manajemen terbaru
-372;AI;AI3;4;5;Memastikan adanya pengurangian biaya pengeluaran dengan merasionalisasi dan menstandarisasi komponen infrastruktur dan dengan menggunakan otomatisasi
-373;AI;AI3;4;5;Memiliki tingkat kesadaran teknis yang tinggi dapat mengidentifikasi cara optimal untuk secara proaktif meningkatkan kinerja, termasuk pertimbangan opsi pengalihdayaan
-374;AI;AI3;4;5;Memastikan infrastruktur TI dipandang sebagai pendorong utama untuk memanfaatkan penggunaan TI
-375;AI;AI4;0;1;Memiliki kesadaran akan pembuatan dokumentasi pengoperasian aplikasi yang dibutuhkan
-376;AI;AI4;0;1;Membuat dokumentasi pengoperasian aplikasi yang bersifat sementara dan tidak berkala serta hanya diperuntukkan untuk bagian staff tertentu
-377;AI;AI4;0;1;Meng-update sebagian dokumen-dokumen pengoperasian aplikasi dan berpedoman pada dokumen lama
-378;AI;AI4;0;1;Melakukan pelatihan pada pengoperasian aplikasi hanya sesekali/jarang dilakukan kepada pengguna
-379;AI;AI4;0;1;Memiliki sebagian SOP yang terintegrasi antara sistem yang dibangun dengan unit bisnis
-380;AI;AI4;0;1;Memiliki sedikit masukan dari unit bisnis untuk meningkatkan rancangan program pelatihan pengoperasian aplikasi
-381;AI;AI4;1;2;Memiliki SOP dan dokumentasi pada pengoperasian aplikasi, akan tetapi tidak melalui pendekatan berdasarkan kerangka kerja yang dibangun secara terstruktur
-382;AI;AI4;1;2;Melakukan sedikit pengembangan SOP dan dokumentasi pengoperasian aplikasi pada pengguna
-383;AI;AI4;1;2;Memiliki materi pelatihan pengoperasian aplikasi yang dibuat oleh tim tertentu. Tetapi tanpa pengawasan dari Koordinator Staff IT
-384;AI;AI4;1;2;Memiliki penilaian pengguna terhadap SOP dan dokumentasi pengoperasian aplikasi hanya pada tingkat cukup
-385;AI;AI4;1;2;Menyediakan program pelatihan pengoperasian aplikasi kepada pengguna, akan tetapi tidak ada rencana berkelanjutan yang dilakukan
-386;AI;AI4;2;3;Memiliki SOP dan dokumentasi pengoperasian aplikasi kepada pengguna dapat diterima dan dipahami secara jelas
-387;AI;AI4;2;3;Menyimpan SOP dan dokumentasi pengoperasian aplikasi dengan baik di Drive dan bisa diakses oleh seluruh Staff
-388;AI;AI4;2;3;"Membuat SOP dan dokumentasi pengoperasian aplikasi berdasarkan respon pengguna		"
-389;AI;AI4;2;3;Membuka akses SOP dan dokumentasi pengoperasian aplikasi secara offline ketika terjadi keadaan yang darurat
-390;AI;AI4;2;3;Melakukan pembaruan SOP dan materi pelatihan pengoperasian aplikasi ketika aplikasi tersebut terdapat perubahan
-391;AI;AI4;2;3;Menyimpan materi pelatihan pengoperasian aplikasi dengan baik di Drive dan bisa diakses oleh seluruh Staff sudah direncanakan dan terjadwal
-392;AI;AI4;3;4;Memiliki suatu kerangka kerja untuk me-maintain SOP dan materi pelatihan pengoperasian aplikasi dengan dukungan IT
-393;AI;AI4;3;4;Melakukan pendekatan untuk me-maintain SOP dan materi pelatihan pengoperasian aplikasi sehingga mencakup semua sistem dan unit bisnis
-394;AI;AI4;3;4;Memiliki SOP dan materi pelatihan pengoperasian aplikasi yang saling terintegrasi serta terdapat antarmuka yang interaktif
-395;AI;AI4;3;4;Mengawasi SOP dan materi pelatihan pengoperasian aplikasi yang dikembangkan
-396;AI;AI4;3;4;Memiliki umpan balik dari pengguna dan unit bisnis pada dokumentasi dan program pelatihan pengoperasian aplikasi
-397;AI;AI4;3;4;Memiliki dokumentasi bahan ajar dan pelatihan pengoperasian aplikasi pada tingkat kehandalan dan ketersediaan yang baik
-398;AI;AI4;3;4;Memiliki pengembangan SOP dan dokumen bahan ajar pelatihan yang terintegrasi pada sistem aplikasi dan memungkinkan akses terhadap pengguna
-399;AI;AI4;3;4;Melakukan pelatihan pengoperasian aplikasi kepada unit bisnis dan pengguna berpartisipasi secara aktif sesuai dengan kebutuhan bisnis
-400;AI;AI4;3;4;Mengembangkan metrik perangkat lunak oleh manajemen TI untuk mengukur pengembangan dan penyampaian bahan ajar dan program pelatihan pengguna
-401;AI;AI4;4;5;Memiliki peningkatan yang berkala terhadap user manual dan dokumentasi pengoperasian aplikasiseiring dengan metode baru yang digunakan
-402;AI;AI4;4;5;Melakukan peningkatan SOP dan materi pelatihan pengoperasian aplikasi secara bekelanjutan berdasarkan ilmu terkini sehingga melibatkan alur kerja, distribusi teknologi, dan kemudahan pengaksesan
-403;AI;AI4;4;5;Melakukan pengembangan dari dokumentasi dan materi pelatihan pengoperasian aplikasi serta penyampaian program pelatihan terintegrasi penuh dengan proses bisnis sehingga mendukung kebutuhan organisasi yang berorientasi TI
-404;AI;AI5;0;1;Menyadari bahwa harus memiliki kebutuhan untuk mendokumentasikan kebijakan dan prosedur yang menghubungkan akuisisi IT dengan proses pengadaan organisasi bisnis secara keseluruhan
-405;AI;AI5;0;1;Mengembangkan dan mengelola kontrak untuk perolehan sumber daya IT oleh manajer proyek dan individu lain yang melaksanakan penilaian profesional mereka daripada sebagai hasil dari prosedur dan kebijakan formal
-406;AI;AI5;0;1;Mengelola kontrak untuk akuisisi pada akhir proyek
-407;AI;AI5;0;1;Memiliki hubungan ad hoc antara akuisisi perusahaan dan proses manajemen kontrak dan IT
-408;AI;AI5;1;2;Memiliki kesadaran organisasi tentang perlunya memiliki kebijakan dan prosedur dasar untuk akuisisi IT
-409;AI;AI5;1;2;Mengintegrasi sebagian kebijakan-kebijakan dan prosedur dengan proses pengadaan organisasi bisnis secara keseluruhan
-410;AI;AI5;1;2;Memproses sebagian besar pengadaan sumber daya IT yang digunakan untuk proyek besar dan terlihat
-411;AI;AI5;1;2;Memiliki tanggung jawab dan akuntabilitas untuk pengadaan IT dan manajemen kontrak ditentukan oleh pengalaman masing-masing manajer kontrak
-412;AI;AI5;1;2;Menyadari pentingnya manajemen pemasok dan mengakui manajemen hubungan, tapi ditangani berdasarkan inisiatif individu
-413;AI;AI5;1;2;Memproses sebagian besar kontrak yang digunakan oleh proyek-proyek besar atau yang sangat terlihat
-414;AI;AI5;2;3;Menerapkan kebijakan dan prosedur untuk akuisisi IT oleh manajemen
-415;AI;AI5;2;3;Memandu kebijakan dan prosedur oleh keseluruhan proses pengadaan organisasi bisnis
-416;AI;AI5;2;3;Memiliki standar IT untuk perolehan sumber daya IT
-417;AI;AI5;2;3;Mengintegrasikan pemasok sumber daya IT ke dalam mekanisme manajemen proyek organisasi dari perspektif manajemen kontrak
-418;AI;AI5;2;3;Mengintegrasikan sebagian besar sistem pengadaan bisnis dengan akuisisi TI secara keseluruhan
-419;AI;AI5;2;3;Mengkomunikasikan kebutuhan akuisisi yang sesuai serta manajemen kontrak pada seluruh fungsi IT
-420;AI;AI5;3;4;Mengintegrasi sistem pengadaan bisnis dengan akuisisi TI secara keseluruhan
-421;AI;AI5;3;4;Menggunakan standar IT untuk akuisisi sumber daya IT untuk semua pengadaan
-422;AI;AI5;3;4;Mengambil pengukuran pada kontrak dan manajemen pengadaan secara relevan dengan kasus bisnis untuk akuisisi IT
-423;AI;AI5;3;4;Menyediakan pelaporan aktivitas akuisisi TI yang mendukung tujuan bisnis
-424;AI;AI5;3;4;Mengetahui pengecualian terhadap kebijakan serta prosedur akuisisi IT
-425;AI;AI5;3;4;Mengembangkan manajemen strategis hubungan
-426;AI;AI5;3;4;Melakukan manajemen TI dengan menggunakan manajemen kontrak dan proses akuisisi untuk semua akuisisi dengan memonitor pengukuran kinerja
-427;AI;AI5;4;5;Menjadikan manajemen sebagai lembaga yang menyusun sumber daya dengan melakukan secara menyeluruh untuk akuisisi TI
-428;AI;AI5;4;5;Menetapkan kesesuaian terhadap kebijakan dan metode akuisisi TI yang harus dipatuhi
-429;AI;AI5;4;5;Mengambil hal berguna dari hasil evaluasi pada kontrak dan manajemen penyusunan dengan kasus bisnis untuk akuisisi TI
-430;AI;AI5;4;5;Memiliki koneksi yang sehat, akan menjadikan waktu dengan kebanyakan penyalur dan mitra. Dan memiliki koneksi yang baik dengan cara diukur dan dipantau
-431;AI;AI5;4;5;Mengelola dan merencanakan koneksi secara strategis?
-432;AI;AI5;4;5;Melakukan taraf kebijakan dan prosedur IT untuk akuisisi dengan cara strategis dan melakukan pengukuran proses
-433;AI;AI5;4;5;Menghubungkan kepentingan dengan cara strategis dari akuisisi yang sesuai dan manajemen kontrak yang ada di seluruh fungsi IT
-434;AI;AI6;0;1;Mengetahui bahwa setiap perubahan yang ada harus dikelola dan diawasi
-435;AI;AI6;0;1;Mengetahui jika terdapat keberagaman bidang urusan pada organisasi yang memungkinkan terjadinya perubahan yang tidak terkelola atau tidak sah
-436;AI;AI6;0;1;Memiliki dokumentasi dari perubahan yang pernah terjadi, minimal relatif sedikit atau tidak ada dan konfigurasi cenderung tidak lengkap dan tidak dapat dipercaya
-437;AI;AI6;0;1;Mengurangi kesalahan karena buruknya manajemen perubahan yang ada
-438;AI;AI6;1;2;Memiliki proses manajemen perubahan secara informal namun belum terstruktur, mendasar dan cenderung terjadi kesalahan
-439;AI;AI6;1;2;Memiliki konfigurasi dari akurasi dokumentasi, minimal masih inkonsisten dan perencanaan serta perhitungan dampak terhadap perubahan masih terbatas
-440;AI;AI6;2;3;Memiliki proses manajemen perubahan formal yang baik yang mencakup kategorisasi, prioritasisasi, prosedur-prosedur darurat, autorisasi perubahan dan manajemen pelepasan yang sesuai dengan perkembangan organisasi
-441;AI;AI6;2;3;Mengurangi kesalahan dan perubahan-perubahan tak terkelola yang masih terjadi
-442;AI;AI6;2;3;Mulai membentuk analisis dampak perubahan IT pada operasi bisnis untuk mendukung perencanaan teknologi dan aplikasi baru
-443;AI;AI6;3;4;Mengembangkan proses manajemen perubahan dengan baik dan secara konsisten diikuti untuk segala perubahan yang ada
-444;AI;AI6;3;4;Memiliki proses yang berjalan dengan efisien dan efektif tetapi tetap bersandar pada prosedur manual dan kontrol untuk memastikan bahwa mutu tercapai
-445;AI;AI6;3;4;Memiliki proses persetujuan untuk perubahan sudah sesuai aturan
-446;AI;AI6;3;4;Membuat dokumentasi manajemen perubahan dengan tepat dan umumnya akurat
-447;AI;AI6;3;4;Mengintegrasi perencanaan menejemen perubahan IT dengan perubahan dalam proses bisnis untuk menjamin training, perubahan organisasi dan persoalan kelancaran bisnis terkelola
-448;AI;AI6;3;4;Melakukan peningkatan koordinasi antara manajemen perubahan IT dan perancangan proses bisnis baru
-449;AI;AI6;3;4;Memiliki proses yang konsisten untuk mengawasi mutu dan kinerja proses manajemen perubahan organisasi
-450;AI;AI6;4;5;Melakukan proses manajemen perubahan secara teratur, ditinjau dan diperbaharui untuk tetap sejalan dengan visi dan misi organisasi
-451;AI;AI6;4;5;Memiliki informasi konfigurasi yang sudah berbasis komputer dan menyediakan version control
-452;AI;AI6;4;5;Mengintegrasi manajemen perubahan IT dengan manajemen perubahan bisnis untuk memastikan bahwa IT adalah aspek penting dalam peningkatan produktivitas dan penciptaan kesempatan bisnis baru bagi organisasi
-453;AI;AI6;4;5;Memiliki Dokumentasi konfigurasi yang akurat
-454;AI;AI7;0;1;Memiliki kesadaran terhadap kebutuhan untuk memverifikasi dan mengkonfirmasi solusi yang diterapkan sudah memenuhi tujuan yang diinginkan
-455;AI;AI7;0;1;Melakukan inisiatif untuk melakukan pengujian dengan pendekatan yang tepat oleh setiap tim proyek
-456;AI;AI7;0;1;Memiliki akreditasi dan persetujuan formal
-457;AI;AI7;1;2;Melakukan pendekatan pengujian dan akreditasi dengan tidak didasarkan pada metodologi apa pun
-458;AI;AI7;1;2;Memutuskan pendekatan pengujian oleh tim pengembangan individu, dan tidak perlu termasuk pengujian integrasi
-459;AI;AI7;1;2;Memiliki proses persetujuan informal
-460;AI;AI7;2;3;Memiliki metodologi formal yang berkaitan dengan pemasangan, migrasi, konversi, dan penerimaan
-461;AI;AI7;2;3;Mengintegrasi proses instalasi dan akreditasi IT ke dalam siklus hidup sistem dan diotomatisasi sampai batas tertentu
-462;AI;AI7;2;3;Memiliki pelatihan, pengujian dan transisi ke status produksi dan akreditasi yang berbeda dari proses yang ditentukan karena berdasarkan keputusan individu
-463;AI;AI7;2;3;Memiliki kualitas sistem yang memasuki produksi, minimal tidak konsisten, namun dengan sistem baru sering kali menimbulkan masalah pasca implementasi yang signifikan
-464;AI;AI7;3;4;Memformalkan dan mengembangkan prosedur agar terorganisir dengan baik dan praktis dengan lingkungan pengujian dan prosedur akreditasi yang ditentukan
-465;AI;AI7;3;4;Memastikan perubahan besar pada sistem mengikuti pendekatan formal prosedur tersebut
-466;AI;AI7;3;4;Mengevaluasi pemenuhan kebutuhan pengguna dengan standarisasi dan ukuran, menghasilkan metrik yang dapat ditinjau dan dianalisis secara efektif oleh manajemen
-467;AI;AI7;3;4;Memiliki kualitas sistem yang memasuki produksi memuaskan manajemen bahkan dengan tingkat masalah pasca implementasi yang wajar
-468;AI;AI7;3;4;Memiliki otomatisasi proses bersifat ad hoc dan bergantung pada proyek
-469;AI;AI7;3;4;Merasa puas dengan tingkat efisiensi saat ini meskipun masih terdapat kekurangan evaluasi pasca-implementasi
-470;AI;AI7;3;4;Memastikan sistem pengujian mencerminkan lingkungan hidup yang memadai
-471;AI;AI7;3;4;Memiliki pengujian stres untuk sistem baru dan pengujian regresi untuk sistem yang ada diterapkan untuk proyek-proyek besar
-472;AI;AI7;4;5;Menyempurnakan proses pemasangan dan akreditasi ke tingkat praktik yang baik, berdasarkan hasil penyempurnaan dan penyempurnaan yang berkelanjutan
-473;AI;AI7;4;5;Mengintegrasikan sepenuhnya proses instalasi dan akreditasi TI ke dalam siklus hidup sistem dan diotomatiskan jika sesuai, memfasilitasi pelatihan, pengujian, dan transisi yang paling efisien ke status produksi sistem baru
-474;AI;AI7;4;5;Mengembangkan lingkungan pengujian dengan baik, register masalah, dan proses penyelesaian kesalahan dapat memastikan transisi yang efisien dan efektif ke lingkungan produksi
-475;AI;AI7;4;5;Memastikan dapat melakukan akreditasi tanpa pengerjaan ulang, dan masalah pasca implementasi biasanya terbatas pada koreksi kecil
-476;AI;AI7;4;5;Menstandarisasi tinjauan pasca-implementasi, dengan pelajaran yang dipetik disalurkan kembali ke dalam proses untuk memastikan peningkatan kualitas yang berkelanjutan
-477;AI;AI7;4;5;Menerapkan pengujian stres untuk sistem baru dan pengujian regresi untuk sistem yang dimodifikasi secara konsisten
-478;ME;ME1;0;1;Menyadari kebutuhan untuk mengumpulkan dan menilai informasi tentang proses pemantauan
-479;ME;ME1;0;1;Mengidentifikasi proses pengumpulan dan penilaian standar
-480;ME;ME1;0;1;Mengimplementasi pemantauan dan memilih metrik berdasarkan kasus per kasus, sesuai dengan kebutuhan proyek dan proses TI tertentu
-481;ME;ME1;0;1;Menerapkan pemantauan umum secara reaktif terhadap insiden yang menyebabkan kerugian atau rasa malu bagi organisasi
-482;ME;ME1;0;1;Memiliki fungsi akuntansi untuk memantau ukuran keuangan dasar untuk TI
-483;ME;ME1;1;2;Mengidentifikasi pengukuran dasar yang akan dipantau
-484;ME;ME1;1;2;Memiliki metode dan teknik pengumpulan serta penilaian, tetapi tidak harus diadopsi pada seluruh organisasi 
-485;ME;ME1;1;2;Menginterpretasi hasil pemantauan berdasarkan keahlian individu kunci
-486;ME;ME1;1;2;Memilih dan menerapkan peralatan terbatas untuk mengumpulkan informasi, tetapi pengumpulannya tidak harus berdasarkan pada pendekatan yang direncanakan
-487;ME;ME1;2;3;Mengkomunikasikan dan melembagakan proses pemantauan standar
-488;ME;ME1;2;3;Melaksanakan program pendidikan dan pelatihan untuk pemantauan
-489;ME;ME1;2;3;Mengembangkan basis pengetahuan formal dari informasi kinerja historis
-490;ME;ME1;2;3;Melakukan penilaian pada proses TI individu dan tingkat proyek, namun tidak perlu terintegrasi diantara semua proses
-491;ME;ME1;2;3;Menentukan alat untuk memantau proses TI dan tingkat layanan
-492;ME;ME1;2;3;Menentukan pengukuran kontribusi fungsi layanan informasi terhadap kinerja organisasi, menggunakan kriteria keuangan dan operasional tradisional
-493;ME;ME1;2;3;Menentukan pengukuran kinerja khusus TI, pengukuran non-keuangan, pengukuran strategis, pengukuran kepuasan pelanggan, dan tingkat layanan
-494;ME;ME1;2;3;Mendefinisikan kerangka kerja untuk mengukur kinerja
-495;ME;ME1;3;4;Mendefinikan toleransi di mana proses harus beroperasi
-496;ME;ME1;3;4;Menstandarisasi dan menormalisasi pelaporan hasil pemantauan
-497;ME;ME1;3;4;Memiliki integrasi metrik di semua proyek dan proses TI
-498;ME;ME1;3;4;Memformalkan sistem pelaporan manajemen organisasi TI
-499;ME;ME1;3;4;Mengintegrasi dan memanfaatkan alat otomatis di seluruh organisasi untuk mengumpulkan dan memantau informasi operasional pada aplikasi, sistem, dan proses
-500;ME;ME1;3;4;Mengevaluasi kinerja berdasarkan kriteria yang disepakati, yang disetujui oleh para pemangku kepentingan
-501;ME;ME1;3;4;Menyelaraskan pengukuran fungsi TI dengan tujuan organisasi
-502;ME;ME2;4;5;Mengembangkan proses peningkatan kualitas berkelanjutan untuk memperbarui standar dan kebijakan pemantauan di seluruh organisasi dan menggabungkan praktik industri yang baik
-503;ME;ME3;4;5;Mengoptimalkan semua proses pemantauan dan mendukung tujuan di seluruh organisasi
-504;ME;ME4;4;5;Menggunakan metrik berbasis bisnis secara rutin untuk mengukur kinerja dan diintegrasikan ke dalam kerangka penilaian strategis, seperti kartu skor seimbang TI
-505;ME;ME5;4;5;Melakukan pemantuan proses dan desain ulang berkelanjutan konsisten dengan rencana peningkatan proses bisnis di seluruh organisasi
-506;ME;ME1;4;5;Melakukan pembandingan terhadap industri dan pesaing utama menjadi formal, dengan kriteria perbandingan yang dipahami dengan baik
-507;ME;ME2;0;1;Menyadari akan pentingnya memiliki manajemen dan jaminan pengendalian IT yang teratur
-508;ME;ME2;0;1;Menerapkan penilaian kelengkapan pengendalian internal secara ad hoc (tidak permanen dan pembentukannya sejak semula dimaksudkan hanya untuk sementara waktu dan untuk menangani peristiwa tertentu)
-509;ME;ME2;0;1;Memiliki tanggungjawab secara formal dalam memantau efektivitas pengendalian internal
-510;ME;ME2;0;1;Mendefinisikan secara jelas standar pengkajian informasi yang dibutuhkan terkait pemantauan efektivitas pengendalian internal
-511;ME;ME2;0;1;Melakukan penilaian pengendalian internal IT sebagai bagian dari audit keuangan tradisional, dengan metodologi dan keahlian yang tidak mencerminkan kebutuhan fungsi layanan informasi
-512;ME;ME2;1;2;Memiliki laporan pengendalian secara informal pada organisasi untuk memulai inisiatif tindakan perbaikan/korektif terhadap aktivitas pengendalian internal
-513;ME;ME2;1;2;Memiliki penilaian pengendalian internal pada organisasi bergantung pada keahlian SDM kunci
-514;ME;ME2;1;2;Meningkatkan kesadaran dari pemantauan pengendalian internal
-515;ME;ME2;1;2;Memiliki layanan informasi manajemen organisasi untuk memantau efektifitas dari pengendalian internal yang bersifat kritis secara teratur
-516;ME;ME2;1;2;Memiliki metodologi dan alat bantu/sistem yang mulai digunakan untuk pengendalian internal, tetapI tidak digunakan sesuai rencana
-517;ME;ME2;1;2;Memastikan jika keterampilan SDM menentukan teknologi yang digunakan
-518;ME;ME2;2;3;Memiliki lembaga khusus untuk melakukan pemantauan pengendalian internal
-519;ME;ME2;2;3;Memiliki kebijakan dan prosedur yang dikembangkan untuk menilai dan melaporkan aktivitas pemantauan pengendalian internal
-520;ME;ME2;2;3;Memiliki program pendidikan dan pelatihan untuk pemantauan pengendalian internal
-521;ME;ME2;2;3;Memiliki sebuah aktivitas/proses yang digunakan untuk penilaian diri dan tinjauan jaminan pengendalian internal, dengan peranan untuk bisnis yang bertanggung jawab dan manajer IT
-522;ME;ME2;2;3;Memiliki alat yang sedang digunakan untuk pengendalian internal tetapi belum tentu diintegrasikan ke dalam keseluruhan proses
-523;ME;ME2;2;3;Memiliki kebijakan penilaian risiko proses IT yang sedang digunakan dalam framework pengendalian yang dikembangkan khusus untuk organisasi IT
-524;ME;ME2;2;3;Memiliki penetapan kebijakan manajemen risiko meliputi penerapan kebijakan dan prosedur
-525;ME;ME2;3;4;Memiliki framework yang digunakan untuk untuk pemantauan pengendalian internal IT
-526;ME;ME2;3;4;Memiliki standar tingkat toleransi yang ditetapkan untuk proses pemantauan pengendalian internal
-527;ME;ME2;3;4;Memiliki alat diterapkan untuk membakukan penilaian dan secara otomatis mendeteksi pengecualian kontrol
-528;ME;ME2;3;4;Menetapkan fungsi pengendalian internal IT formal dengan profesional yang terspesialisasi dan bersertifikat yang menggunakan framework kontrol formal yang didukung oleh manajemen senior
-529;ME;ME2;3;4;Memiliki partisipasi secara rutin dari anggota staf IT dalam penilaian pengendalian internal
-530;ME;ME2;3;4;Memiliki penetapan basis pengetahuan metrik untuk informasi historis pada pemantauan pengendalian internal
-531;ME;ME2;3;4;Memiliki tinjauan sejawat untuk pemantauan pengendalian internal
-532;ME;ME2;4;5;Memiliki program peningkatan berkelanjutan di seluruh organisasi yang memperhitungkan pembelajaran dan praktik industri yang baik untuk pemantauan pengendalian internal
-533;ME;ME2;4;5;Melakukan upaya pembaruan alat yang terintegrasi, yang memungkinkan penilaian efektif atas kontrol IT kritis dan deteksi cepat insiden pemantauan pengendalian IT
-534;ME;ME2;4;5;Melakukan benchmarking terhadap industri atau perusahaan lain dengan bidang yang sama untuk fungsi layanan informasi
-535;ME;ME2;4;5;Melakukan pembandingan terhadap standar industri dan praktik yang baik
-536;ME;ME3;0;1;Meningkatkan kesadaran akan kepatuhan peraturan, persyaratan kontrak dan hukum yang berdampak pada organisasi
-537;ME;ME3;0;1;Memiliki proses informal diikuti untuk menjaga kepatuhan, tetapi hanya jika diperlukan dalam proyek baru atau sebagai tanggapan atas audit atau tinjauan pada organisasi
-538;ME;ME3;1;2;Memiliki tingkat pemahaman tentang perlunya untuk mematuhi persyaratan eksternal, yang mana kebutuhan tersebut perlu untuk dikomunikasikan?
-539;ME;ME3;1;2;Meningkatkan prosedur kepatuhan individu telah dikembangkan dan diikuti setiap tahun, yang mana hal tsb adalah sebuah persyaratan berulang, seperti dalam peraturan keuangan atau undang-undang privasi
-540;ME;ME3;1;2;Memiliki pendekatan standar yang ada dalam organisasi
-541;ME;ME3;1;2;Meningkatkan ketergantungan pada pengetahuan dan tanggung jawab individu, dan kemungkinan terjadinya kesalahan
-542;ME;ME3;1;2;Memiliki pelatihan informal mengenai persyaratan eksternal dan masalah kepatuhan
-543;ME;ME3;2;3;Mengembangkan, mendokumentasikan dan mengkomunikasikan kebijakan, rencana dan prosedur untuk memastikan kepatuhan terhadap peraturan, persyaratan kontrak dan kewajiban hukum
-544;ME;ME3;2;3;Meningkatkan pemantauan yang dilakukan dan persyaratan kepatuhan yang telah ditangani
-545;ME;ME3;2;3;Menyediakan pelatihan dalam persyaratan hukum dan peraturan eksternal yang mempengaruhi organisasi dan proses kepatuhan yang ditetapkan
-546;ME;ME3;2;3;Mengoptimalkan efek adanya kontrak pro forma standar dan proses hukum untuk meminimalkan risiko yang terkait dengan kewajiban kontraktual
-547;ME;ME3;3;4;Memahami sepenuhnya masalah dan paparan dari persyaratan eksternal dan kebutuhan kepatuhan pada semua tingkatan
-548;ME;ME3;3;4;Meningkatkan kesadaran semua anggota staf mengenai kewajiban kepatuhan dari skema pelatihan formal yang diberlakukan
-549;ME;ME3;3;4;Memiliki rasa tanggung jawab dan kepemilikan proses dipahami
-550;ME;ME3;3;4;Melakukan proses peninjauan lingkungan untuk mengidentifikasi persyaratan eksternal dan perubahan yang sedang berlangsung
-551;ME;ME3;3;4;Memiliki mekanisme untuk memantau ketidakpatuhan terhadap persyaratan eksternal, melaksanakan praktik internal, dan melakukan tindakan korektif dilakukan
-552;ME;ME3;3;4;Menganalisis masalah ketidakpatuhan untuk mencari akar permasalahannya dengan cara standar, dengan tujuan untuk mengidentifikasi solusi yang berkelanjutan
-553;ME;ME3;3;4;Menggunakan praktik internal baik yang terstandardisasi untuk kebutuhan khusus, seperti peraturan tetap dan layanan kontrak yang berulang
-554;ME;ME3;4;5;Memiliki proses yang terorganisir dengan baik, efisien dan diberlakukan untuk mematuhi persyaratan eksternal, berdasarkan sebuah fungsi pusat yang memberikan bimbingan dan koordinasi kepada seluruh organisasi
-555;ME;ME3;4;5;Memiliki pengetahuan luas tentang persyaratan eksternal yang berlaku, termasuk tren masa depan dan perubahan yang diantisipasi, dan kebutuhan terhadap solusi baru yang ada
-556;ME;ME3;4;5;Mengambil bagian dalam diskusi eksternal dengan regulator dan kelompok industri untuk memahami dan mempengaruhi persyaratan eksternal yang mempengaruhi mereka
-557;ME;ME3;4;5;Mengembangkan praktik baik untuk memastikan kepatuhan yang efisien dengan persyaratan eksternal, menghasilkan sangat sedikit kasus pengecualian kepatuhan
-558;ME;ME3;4;5;Memiliki sistem organisasi yang luas dan terpusat, yang memungkinkan manajemen untuk mendokumentasikan alur kerja dan untuk mengukur serta meningkatkan kualitas dan efektivitas proses pemantauan kepatuhan
-559;ME;ME3;4;5;Meningkatkan penerapan dan penyempurnaan proses penilaian diri persyaratan eksternal
-560;ME;ME3;4;5;Melakukan pengembangan gaya manajemen dan budaya organisasi yang berkaitan dengan kepatuhan, serta pelatihan terbatas pada personel baru 
-561;ME;ME4;0;1;Menyadari adanya permasalahan yang harus ditindaklanjuti
-562;ME;ME4;0;1;Melakukan pendekatan sementara yang diaplikasikan pada masing - masing kasus
-563;ME;ME4;0;1;Melakukan manajemen pendekatan masalah secara reaktif
-564;ME;ME4;0;1;Melakukan komunikasi dan pendekatan terhadap masalah bersifat tidak konsisten dan jarang dilakukan
-565;ME;ME4;0;1;Memperkirakan indikasi bagaimana IT berkontribusi pada performance bisnis
-566;ME;ME4;0;1;Merespon secara reaktif terhadap masalah yang memengaruhi nama baik institusi
-567;ME;ME4;1;2;Memiliki kesadaran terhadap adanya masalah Tata Kelola Teknologi Informasi
-568;ME;ME4;1;2;Melakukan pengembangan aktivitas Tata Kelola Teknologi Informasi serta indikator performa
-569;ME;ME4;1;2;Mengidentifikasi proses IT yang terpilih untuk pengembangan
-570;ME;ME4;1;2;Mengidentifikasi pengukuran TKTI dasar dan metode beserta teknik penilaiannya, namun proses tidak diterapkan di seluruh organisasi
-571;ME;ME4;1;2;Mengelola proses manajemen dengan project dan proses yang bervariasi
-572;ME;ME4;1;2;Memiliki proses, peralatan, dan ukuran untuk mengukur tata kelola TI, meskipun terbatas dan mungkin tidak bisa digunakan sebaik mungkin akibat kurangnya ahli pada tiap fungsionalitasnya
-573;ME;ME4;2;3;Memahami kepentingan dan kebutuhan adanya manajemen tata kelola TI dan mengkomunikasikannya dengan organisasi
-574;ME;ME4;2;3;Mengembangkan sekumpulan baseline indikator manajemen tata kelola TI
-575;ME;ME4;2;3;Mendefinikan dan membuat dokumentasi hubungan antara ukuran keluaran dan indikator performa
-576;ME;ME4;2;3;Menyampaikan prosedur standar dan pelatihan yang diberikan
-577;ME;ME4;2;3;Mendefinisikan instrumen sebagai catatan keseimbangan bisnis IT
-578;ME;ME4;2;3;Mengidentifikasi peralatan untuk membantu pengawasan tata kelola TI
-579;ME;ME4;3;4;Memahami secara penuh semua permasalahan tata kelola IT pada berbagai level
-580;ME;ME4;3;4;Mendefinisikan tanggung jawab dan penanggung jawab proses secara jelas
-581;ME;ME4;3;4;Menghubungkan dan mengintegrasikan proses IT dan tata kelola IT ke dalam bisnis serta strategi IT
-582;ME;ME4;3;4;Menyadari akan risiko, pentingnya IT, dan kesempatan yang dapat dimanfaatkan oleh semua penanggung jawab proses pada manajemen
-583;ME;ME4;3;4;Memberikan apresiasi berdasarkan pengukuran performa utama pada manajemen organisasi, dan secara keseluruhan, akuntabilitas performa proses yang utama sudah jelas
-584;ME;ME4;4;5;Mempunyai pemahaman yang maju dan berorientasi pada masa depan terhadap permasalahan tata kelola TI beserta solusinya
-585;ME;ME4;4;5;Mendukung pelatihan dan komunikasi dengan konsep dan teknik yang terdepan
-586;ME;ME4;4;5;Memperbaiki semua proses manajemen hingga pada tingkat praktik bisnis yang baik
-587;ME;ME4;4;5;Mengimplementasikan aturan IT sehingga organisasi, stakeholder, dan proses cepat beradaptasi serta mendukung kebutuhan tata kelola TI secara penuh
-588;ME;ME4;4;5;Menganalisa semua permasalahan dan penyimpangan manajemen organisasi sampai ke akar serta solusi yang efisien diberikan
+ID;IT_Process;IT_ProcessD;Keterangan;Current;Goal;Task
+1;PO;PO1;Define a Strategic IT Plan;0;1;Melakukan perencanaan strategis TI
+2;PO;PO1;Define a Strategic IT Plan;0;1;Meningkatan kesadaran manajemen bahwa perencanaan strategis TI diperlukan
+3;PO;PO1;Define a Strategic IT Plan;0;1;Melakukan perencanaan TI berdasarkan kebutuhan sebagai tanggapan terhadap kebutuhan bisnis
+4;PO;PO1;Define a Strategic IT Plan;0;1;Merutinkan rapat manajemen TI yang membahas perencanaan strategis TI
+5;PO;PO1;Define a Strategic IT Plan;0;1;Melakukan penyelarasan kebutuhan bisnis, aplikasi, dan teknologi berlangsung secara reaktif
+6;PO;PO1;Define a Strategic IT Plan;0;1;Melakukan identifikasi secara informal pada posisi Strategic Risk berdasarkan proyek per proyek
+7;PO;PO1;Define a Strategic IT Plan;1;2;Membagikan perencanaan strategis TI kepada manajemen bisnis berdasarkan kebutuhan
+8;PO;PO1;Define a Strategic IT Plan;1;2;Melakukan pembaruan rencana TI terjadi sebagai tanggapan atas permintaan oleh manajemen
+9;PO;PO1;Define a Strategic IT Plan;1;2;Membuat keputusan strategis didorong berdasarkan proyek demi proyek tanpa konsistensi dengan strategi organisasi secara keseluruhan
+10;PO;PO1;Define a Strategic IT Plan;1;2;Mengenali secara intuitif risiko dan manfaat pengguna dari keputusan strategis utama
+11;PO;PO1;Define a Strategic IT Plan;2;3;Membuat kebijakan yang menentukan kapan dan bagaimana melakukan perencanaan strategis TI
+12;PO;PO1;Define a Strategic IT Plan;2;3;Melakukan perencanaan strategis TI mengikuti pendekatan terstruktur yang didokumentasikan dan diketahui oleh semua staf
+13;PO;PO1;Define a Strategic IT Plan;2;3;Memonitori proses perencanaan TI dan memastikan bahwa perencanaan yang tepat mungkin dilakukan
+14;PO;PO1;Define a Strategic IT Plan;2;3;Memberikan kebijaksanaan kepada manajer individu sehubungan dengan implementasi proses dan tidak ada prosedur untuk memeriksa prosesnya
+15;PO;PO1;Define a Strategic IT Plan;2;3;Membuat strategi TI yang secara keseluruhan mencakup definisi risiko yang konsisten yang bersedia diambil oleh organisasi sebagai inovator atau pengikut
+16;PO;PO1;Define a Strategic IT Plan;2;3;Membuat strategi keuangan, teknis, dan sumber daya manusia TI semakin memengaruhi perolehan produk dan teknologi baru
+17;PO;PO1;Define a Strategic IT Plan;2;3;Membahas perencanaan strategis TI pada setiap pertemuan manajemen bisnis
+18;PO;PO1;Define a Strategic IT Plan;3;4;Membuat perencanaan strategis TI yang bersifat praktik standar dan pengecualian dan akan diperhatikan oleh manajemen
+19;PO;PO1;Define a Strategic IT Plan;3;4;Menetapkan perencanaan strategis TI adalah fungsi manajemen dengan tanggung jawab tingkat senior
+20;PO;PO1;Define a Strategic IT Plan;3;4;Manajemen memantau proses perencanaan strategis TI, membuat keputusan berdasarkan informasi tersebut dan mengukur efektivitasnya
+21;PO;PO1;Define a Strategic IT Plan;3;4;Melakukan perencanaan TI jangka pendek dan jangka panjang dan diturunkan ke dalam organisasi, dengan pembaruan yang dilakukan sesuai kebutuhan
+22;PO;PO1;Define a Strategic IT Plan;3;4;Membuat strategi TI dan strategi di seluruh organisasi semakin menjadi lebih terkoordinasi dengan menangani proses bisnis dan kemampuan nilai tambah dan memanfaatkan penggunaan aplikasi dan teknologi melalui rekayasa ulang proses bisnis
+23;PO;PO1;Define a Strategic IT Plan;3;4;Membuat proses yang terdefinisi dengan baik untuk menentukan penggunaan sumber daya internal dan eksternal yang diperlukan dalam pengembangan dan operasi sistem
+24;PO;PO1;Define a Strategic IT Plan;4;5;Mendokumentasi perencanaan strategis TI
+25;PO;PO1;Define a Strategic IT Plan;4;5;Memperbarui pertimbangan risiko dan nilai tambah dalam proses perencanaan strategis TI
+26;PO;PO1;Define a Strategic IT Plan;4;5;Mengembangkan rencana TI jangka panjang yang realistis dan terus diperbarui untuk mencerminkan perubahan teknologi dan perkembangan terkait bisnis
+27;PO;PO1;Define a Strategic IT Plan;4;5;Melakukan benchmarking terhadap norma-norma industri yang dipahami dengan baik dan andal
+28;PO;PO1;Define a Strategic IT Plan;4;5;Membuat rencana strategis yang mencakup bagaimana perkembangan teknologi baru dapat mendorong penciptaan kemampuan bisnis baru dan meningkatkan keunggulan kompetitif organisasi
+29;PO;PO1;Define a Strategic IT Plan;4;5;Mempertimbangkan penetapan tujuan bisnis
+30;PO;PO1;Define a Strategic IT Plan;4;5;Menghasilkan nilai bisnis yang dapat dilihat melalui investasi di bidang TI
+31;PO;PO1;Define a Strategic IT Plan;4;5;Mengintegrasi proses perumusan strategi
+32;PO;PO2;Define the Information Architecture;0;1;Meningkatkan kesadaran akan pentingnya arsitektur informasi bagi organisasi
+33;PO;PO2;Define the Information Architecture;0;1;Perlunya pengetahuan, keahlian, dan tanggung jawab untuk mengembangkan arsitektur
+34;PO;PO2;Define the Information Architecture;0;1;Meningkatkan kesadaran kebutuhan akan arsitektur informasi pada Manajemen
+35;PO;PO2;Define the Information Architecture;0;1;Mengembangkan beberapa komponen arsitektur informasi terjadi secara ad hoc
+36;PO;PO2;Define the Information Architecture;0;1;Definisi alamat data, bukan informasi, dan didorong oleh penawaran vendor perangkat lunak aplikasi
+37;PO;PO2;Define the Information Architecture;0;1;Perlunya komunikasi yang konsisten dan tidak sporadis tentang kebutuhan akan arsitektur informasi
+38;PO;PO2;Define the Information Architecture;1;2;Membuat proses arsitektur informasi meskipun informal dan intuitif, prosedur dapat diikuti oleh individu yang berbeda dalam organisasi
+39;PO;PO2;Define the Information Architecture;1;2;Staf perlu memperoleh keterampilan mereka dalam membangun arsitektur informasi melalui pengalaman langsung dan penerapan teknik yang berulang
+40;PO;PO2;Define the Information Architecture;1;2;Perlunya persyaratan taktis mendorong pengembangan komponen arsitektur informasi oleh anggota staf individu
+41;PO;PO2;Define the Information Architecture;2;3;Membuat arsitektur informasi yang dipahami dan diterima, dan tanggung jawab untuk pengirimannya ditetapkan dan dikomunikasikan dengan jelas
+42;PO;PO2;Define the Information Architecture;2;3;Prosedur, alat dan teknik terkait, meskipun tidak canggih, telah distandarisasi dan didokumentasikan dan merupakan bagian dari kegiatan pelatihan informal
+43;PO;PO2;Define the Information Architecture;2;3;Mengembangkan kebijakan arsitektur informasi dasar, termasuk beberapa persyaratan strategis, tetapi kepatuhan terhadap kebijakan, standar, dan alat tidak ditegakkan secara konsisten
+44;PO;PO2;Define the Information Architecture;2;3;Mendefinisikan secara formal fungsi administrasi data yang sudah ada, menetapkan standar organisasi yang luas, dan mulai melaporkan pengiriman dan penggunaan arsitektur informasi
+45;PO;PO2;Define the Information Architecture;2;3;Alat otomatis mulai digunakan, tetapi proses dan aturan yang digunakan ditentukan oleh penawaran vendor perangkat lunak basis data
+46;PO;PO2;Define the Information Architecture;2;3;Mengembangkan rencana pelatihan formal, tetapi pelatihan formal masih didasarkan pada inisiatif individu
+47;PO;PO2;Define the Information Architecture;3;4;Pengembangan dan penegakan arsitektur informasi didukung penuh oleh metode dan teknik formal
+48;PO;PO2;Define the Information Architecture;3;4;Akuntabilitas untuk kinerja proses pengembangan arsitektur ditegakkan dan keberhasilan arsitektur informasi sedang diukur
+49;PO;PO2;Define the Information Architecture;3;4;Akuntabilitas untuk kinerja proses pengembangan arsitektur ditegakkan dan keberhasilan arsitektur informasi sedang diukur
+50;PO;PO2;Define the Information Architecture;3;4;Metrik dasar telah diidentifikasi dan sistem pengukuran telah tersedia
+51;PO;PO2;Define the Information Architecture;3;4;Proses definisi arsitektur informasi bersifat proaktif dan berfokus pada pemenuhan kebutuhan bisnis masa depan
+52;PO;PO2;Define the Information Architecture;3;4;Organisasi administrasi data secara aktif terlibat dalam semua upaya pengembangan aplikasi, untuk memastikan konsistensi
+53;PO;PO2;Define the Information Architecture;3;4;Repositori otomatis sepenuhnya diimplementasikan
+54;PO;PO2;Define the Information Architecture;3;4;Model data yang lebih kompleks sedang diimplementasikan untuk memanfaatkan konten informasi dari database
+55;PO;PO2;Define the Information Architecture;3;4;Sistem informasi eksekutif dan sistem pendukung keputusan memanfaatkan informasi yang tersedia
+56;PO;PO2;Define the Information Architecture;4;5;Arsitektur informasi diterapkan secara konsisten di semua tingkatan
+57;PO;PO2;Define the Information Architecture;4;5;Nilai arsitektur informasi untuk bisnis terus ditekankan
+58;PO;PO2;Define the Information Architecture;4;5;Personil TI memiliki keahlian dan keterampilan yang diperlukan untuk mengembangkan dan memelihara arsitektur informasi yang kuat dan responsif yang mencerminkan semua kebutuhan bisnis
+59;PO;PO2;Define the Information Architecture;4;5;Informasi yang disediakan oleh arsitektur informasi diterapkan secara konsisten dan ekstensif
+60;PO;PO2;Define the Information Architecture;4;5;Penggunaan luas dibuat dari praktik industri yang baik dalam pengembangan dan pemeliharaan arsitektur informasi, termasuk proses peningkatan berkelanjutan
+61;PO;PO2;Define the Information Architecture;4;5;Strategi untuk memanfaatkan informasi melalui pergudangan data dan teknologi penambangan data didefinisikan
+62;PO;PO2;Define the Information Architecture;4;5;Arsitektur informasi terus meningkat dan mempertimbangkan informasi non-tradisional tentang proses, organisasi, dan sistem
+63;PO;PO3;Determine Technological Direction;0;1;Meningkatkan kesadaran akan pentingnya perencanaan infrastruktur teknologi untuk entitas
+64;PO;PO3;Determine Technological Direction;0;1;Pengetahuan dan keahlian yang diperlukan untuk mengembangkan rencana infrastruktur teknologi seperti itu tidak ada
+65;PO;PO3;Determine Technological Direction;0;1;Meningkatkan pemahaman bahwa perencanaan untuk perubahan teknologi sangat penting untuk mengalokasikan sumber daya secara efektif
+66;PO;PO3;Determine Technological Direction;0;1;Manajemen menyadari perlunya perencanaan infrastruktur teknologi
+67;PO;PO3;Determine Technological Direction;0;1;Perkembangan komponen teknologi dan implementasi teknologi yang muncul bersifat ad hoc dan terisolasi
+68;PO;PO3;Determine Technological Direction;0;1;Ada pendekatan reaktif dan fokus operasional untuk perencanaan infrastruktur
+69;PO;PO3;Determine Technological Direction;0;1;Arah teknologi didorong oleh rencana evolusi produk yang sering bertentangan dari vendor perangkat keras, perangkat lunak sistem, dan perangkat lunak aplikasi
+70;PO;PO3;Determine Technological Direction;0;1;Membuat komunikasi tentang dampak potensial dari perubahan teknologi lebih konsisten
+71;PO;PO3;Determine Technological Direction;1;2;Kebutuhan dan pentingnya perencanaan teknologi dikomunikasikan
+72;PO;PO3;Determine Technological Direction;1;2;Perencanaan bersifat taktis dan berfokus pada menghasilkan solusi untuk masalah teknis, bukan pada penggunaan teknologi untuk memenuhi kebutuhan bisnis
+73;PO;PO3;Determine Technological Direction;1;2;Evaluasi perubahan teknologi diserahkan kepada individu yang berbeda yang mengikuti proses intuitif, tetapi serupa
+74;PO;PO3;Determine Technological Direction;1;2;Orang-orang memperoleh keterampilan mereka dalam perencanaan teknologi melalui pembelajaran langsung dan penerapan teknik secara berulang
+75;PO;PO3;Determine Technological Direction;1;2;Teknik dan standar umum muncul untuk pengembangan komponen infrastruktur
+76;PO;PO3;Determine Technological Direction;2;3;Manajemen menyadari pentingnya rencana infrastruktur teknologi
+77;PO;PO3;Determine Technological Direction;2;3;Proses pengembangan rencana infrastruktur teknologi cukup baik dan selaras dengan rencana strategis TI
+78;PO;PO3;Determine Technological Direction;2;3;Ada rencana infrastruktur teknologi yang ditetapkan, didokumentasikan, dan dikomunikasikan dengan baik, tetapi diterapkan secara tidak konsisten
+79;PO;PO3;Determine Technological Direction;2;3;Arah infrastruktur teknologi mencakup pemahaman tentang ke mana organisasi ingin memimpin atau tertinggal dalam penggunaan teknologi, berdasarkan risiko dan keselarasan dengan strategi organisasi.
+80;PO;PO3;Determine Technological Direction;2;3;Vendor utama dipilih berdasarkan pemahaman tentang teknologi jangka panjang dan rencana pengembangan produk mereka, konsisten dengan arah organisasi
+81;PO;PO3;Determine Technological Direction;2;3;Pelatihan formal dan komunikasi peran dan tanggung jawab ada
+82;PO;PO3;Determine Technological Direction;3;4;Manajemen memastikan pengembangan dan pemeliharaan rencana infrastruktur teknologi
+83;PO;PO3;Determine Technological Direction;3;4;Anggota staf TI memiliki keahlian dan keterampilan yang diperlukan untuk mengembangkan rencana infrastruktur teknologi
+84;PO;PO3;Determine Technological Direction;3;4;Dampak potensial dari perubahan dan teknologi yang muncul diperhitungkan
+85;PO;PO3;Determine Technological Direction;3;4;Manajemen dapat mengidentifikasi penyimpangan dari rencana dan mengantisipasi masalah
+86;PO;PO3;Determine Technological Direction;3;4;Tanggung jawab untuk pengembangan dan pemeliharaan rencana infrastruktur teknologi telah ditetapkan
+87;PO;PO3;Determine Technological Direction;3;4;Proses pengembangan rencana infrastruktur teknologi canggih dan responsif terhadap perubahan
+88;PO;PO3;Determine Technological Direction;3;4;Praktik baik internal telah diperkenalkan ke dalam proses
+89;PO;PO3;Determine Technological Direction;3;4;Strategi sumber daya manusia selaras dengan arah teknologi, untuk memastikan bahwa anggota staf TI dapat mengelola perubahan teknologi
+90;PO;PO3;Determine Technological Direction;3;4;Rencana migrasi untuk memperkenalkan teknologi baru telah ditentukan
+91;PO;PO3;Determine Technological Direction;3;4;Outsourcing dan kemitraan sedang dimanfaatkan untuk mengakses keahlian dan keterampilan yang diperlukan
+92;PO;PO3;Determine Technological Direction;3;4;Manajemen telah menganalisis penerimaan risiko mengenai memimpin atau tertinggalnya penggunaan teknologi dalam mengembangkan peluang bisnis baru atau efisiensi operasional
+93;PO;PO3;Determine Technological Direction;4;5;Fungsi penelitian ada untuk meninjau teknologi yang muncul dan berkembang dan membandingkan organisasi dengan norma-norma industri
+94;PO;PO3;Determine Technological Direction;4;5;Arah rencana infrastruktur teknologi dipandu oleh standar dan perkembangan industri dan internasional, bukan didorong oleh vendor teknologi
+95;PO;PO3;Determine Technological Direction;4;5;Dampak bisnis potensial dari perubahan teknologi ditinjau di tingkat manajemen senior
+96;PO;PO3;Determine Technological Direction;4;5;Ada persetujuan eksekutif formal untuk arah teknologi baru dan yang diubah
+97;PO;PO3;Determine Technological Direction;4;5;Entitas memiliki rencana infrastruktur teknologi yang kuat yang mencerminkan kebutuhan bisnis, responsif, dan dapat dimodifikasi untuk mencerminkan perubahan dalam lingkungan bisnis
+98;PO;PO3;Determine Technological Direction;4;5;Ada proses yang berkelanjutan dan diterapkan untuk meningkatkan rencana infrastruktur teknologi
+99;PO;PO3;Determine Technological Direction;4;5;Praktik industri yang baik banyak digunakan dalam menentukan arah teknologi technological
+100;PO;PO4;Define the IT Processes, Organisation and Relationships;0;1;Mendirikan Organisasi TI secara efektif untuk fokus pada pencapaian tujuan bisnis
+101;PO;PO4;Define the IT Processes, Organisation and Relationships;0;1;Membuat aktivitas dan fungsi TI bersifat proaktif dan diimplementasikan secara konsisten
+102;PO;PO4;Define the IT Processes, Organisation and Relationships;0;1;Melibatkan TI dalam proyek bisnis pada tahap awal
+103;PO;PO4;Define the IT Processes, Organisation and Relationships;0;1;Fungsi TI dianggap sebagai fungsi pendukung, tanpa perspektif organisasi secara keseluruhan
+104;PO;PO4;Define the IT Processes, Organisation and Relationships;0;1;"Ada pemahaman implisit tentang kebutuhan organisasi TI; namun, peran dan tanggung jawab tidak diformalkan atau ditegakkan"
+105;PO;PO4;Define the IT Processes, Organisation and Relationships;1;2;Fungsi TI diatur untuk merespons secara taktis, tetapi tidak konsisten, terhadap kebutuhan pelanggan dan hubungan vendor
+106;PO;PO4;Define the IT Processes, Organisation and Relationships;1;2;Kebutuhan akan organisasi terstruktur dan manajemen vendor dikomunikasikan, tetapi keputusan masih bergantung pada pengetahuan dan keterampilan individu kunci
+107;PO;PO4;Define the IT Processes, Organisation and Relationships;1;2;Ada munculnya teknik umum untuk mengelola organisasi TI dan hubungan vendor
+108;PO;PO4;Define the IT Processes, Organisation and Relationships;2;3;Peran dan tanggung jawab yang ditetapkan untuk organisasi TI dan pihak ketiga ada
+109;PO;PO4;Define the IT Processes, Organisation and Relationships;2;3;Organisasi TI dikembangkan, didokumentasikan, dikomunikasikan, dan diselaraskan dengan strategi TI
+110;PO;PO4;Define the IT Processes, Organisation and Relationships;2;3;Lingkungan pengendalian internal didefinisikan
+111;PO;PO4;Define the IT Processes, Organisation and Relationships;2;3;Ada formalisasi hubungan dengan pihak lain, termasuk komite pengarah, audit internal dan manajemen vendor
+112;PO;PO4;Define the IT Processes, Organisation and Relationships;2;3;Organisasi TI secara fungsional lengkap
+113;PO;PO4;Define the IT Processes, Organisation and Relationships;2;3;Ada definisi fungsi yang harus dilakukan oleh personel TI dan yang akan dilakukan oleh pengguna
+114;PO;PO4;Define the IT Processes, Organisation and Relationships;2;3;Persyaratan dan keahlian staf TI yang penting ditentukan dan dipenuhi
+115;PO;PO4;Define the IT Processes, Organisation and Relationships;2;3;Ada definisi formal tentang hubungan dengan pengguna dan pihak ketiga
+116;PO;PO4;Define the IT Processes, Organisation and Relationships;2;3;Pembagian peran dan tanggung jawab ditetapkan dan dilaksanakan
+117;PO;PO4;Define the IT Processes, Organisation and Relationships;3;4;Organisasi TI secara proaktif merespons perubahan dan mencakup semua peran yang diperlukan untuk memenuhi persyaratan bisnis
+118;PO;PO4;Define the IT Processes, Organisation and Relationships;3;4;Manajemen TI, kepemilikan proses, akuntabilitas, dan tanggung jawab didefinisikan dan diseimbangkan
+119;PO;PO4;Define the IT Processes, Organisation and Relationships;3;4;Praktik baik internal telah diterapkan dalam organisasi fungsi TI
+120;PO;PO4;Define the IT Processes, Organisation and Relationships;3;4;Manajemen TI memiliki keahlian dan keterampilan yang sesuai untuk mendefinisikan, menerapkan, dan memantau organisasi dan hubungan yang disukai
+121;PO;PO4;Define the IT Processes, Organisation and Relationships;3;4;Metrik terukur untuk mendukung tujuan bisnis dan faktor keberhasilan kritis yang ditentukan pengguna (CSF) distandarisasi
+122;PO;PO4;Define the IT Processes, Organisation and Relationships;3;4;Inventaris keterampilan tersedia untuk mendukung staf proyek dan pengembangan profesional professional
+123;PO;PO4;Define the IT Processes, Organisation and Relationships;3;4;Keseimbangan antara keterampilan dan sumber daya yang tersedia secara internal dan yang dibutuhkan dari organisasi eksternal ditentukan dan ditegakkan
+124;PO;PO4;Define the IT Processes, Organisation and Relationships;3;4;Struktur organisasi TI secara tepat mencerminkan kebutuhan bisnis dengan menyediakan layanan yang selaras dengan proses bisnis strategis, bukan dengan teknologi yang terisolasi
+125;PO;PO4;Define the IT Processes, Organisation and Relationships;4;5;Struktur organisasi TI fleksibel dan adaptif
+126;PO;PO4;Define the IT Processes, Organisation and Relationships;4;5;Praktik industri yang baik diterapkan
+127;PO;PO4;Define the IT Processes, Organisation and Relationships;4;5;Ada penggunaan teknologi yang ekstensif untuk membantu memantau kinerja organisasi dan proses TI
+128;PO;PO4;Define the IT Processes, Organisation and Relationships;4;5;Teknologi dimanfaatkan sejalan untuk mendukung kompleksitas dan distribusi geografis organisasi
+129;PO;PO4;Define the IT Processes, Organisation and Relationships;4;5;Ada proses perbaikan terus-menerus di tempat
+130;PO;PO5;Manage the IT Investment;0;1;Perlunya kesadaran akan pentingnya pemilihan dan penganggaran investasi TI
+131;PO;PO5;Manage the IT Investment;0;1;Perlunya pelacakan atau pemantauan investasi dan pengeluaran TI
+132;PO;PO5;Manage the IT Investment;0;1;Organisasi menyadari kebutuhan untuk mengelola investasi TI dan kebutuhan ini dikomunikasikan secara konsisten
+133;PO;PO5;Manage the IT Investment;0;1;Alokasi tanggung jawab untuk pemilihan investasi TI dan pengembangan anggaran dilakukan secara ad hoc
+134;PO;PO5;Manage the IT Investment;0;1;Implementasi terisolasi dari pemilihan dan penganggaran investasi TI terjadi, dengan dokumentasi informal
+135;PO;PO5;Manage the IT Investment;0;1;Investasi TI dibenarkan secara ad hoc
+136;PO;PO5;Manage the IT Investment;0;1;Keputusan penganggaran yang reaktif dan terfokus secara operasional terjadi
+137;PO;PO5;Manage the IT Investment;1;2;Ada pemahaman implisit tentang perlunya pemilihan dan penganggaran investasi TI
+138;PO;PO5;Manage the IT Investment;1;2;Kebutuhan untuk proses seleksi dan penganggaran dikomunikasikan
+139;PO;PO5;Manage the IT Investment;1;2;Kepatuhan tergantung pada inisiatif individu dalam organisasi
+140;PO;PO5;Manage the IT Investment;1;2;Munculnya teknik umum untuk mengembangkan komponen anggaran TI
+141;PO;PO5;Manage the IT Investment;1;2;Keputusan penganggaran reaktif dan taktis terjadi
+142;PO;PO5;Manage the IT Investment;2;3;Kebijakan dan proses untuk investasi dan penganggaran ditetapkan, didokumentasikan dan dikomunikasikan, dan mencakup masalah bisnis dan teknologi utama
+143;PO;PO5;Manage the IT Investment;2;3;Anggaran TI selaras dengan TI strategis dan rencana bisnis
+144;PO;PO5;Manage the IT Investment;2;3;Proses penganggaran dan pemilihan investasi TI diformalkan, didokumentasikan, dan dikomunikasikan
+145;PO;PO5;Manage the IT Investment;2;3;Pelatihan formal sedang muncul tetapi masih didasarkan terutama pada inisiatif individu
+146;PO;PO5;Manage the IT Investment;2;3;Persetujuan formal atas pilihan dan anggaran investasi TI sedang berlangsung
+147;PO;PO5;Manage the IT Investment;2;3;Anggota staf TI memiliki keahlian dan keterampilan yang diperlukan untuk mengembangkan anggaran TI dan merekomendasikan investasi TI yang sesuai
+148;PO;PO5;Manage the IT Investment;3;4;Tanggung jawab dan akuntabilitas untuk pemilihan investasi dan penganggaran ditugaskan kepada individu tertentu
+149;PO;PO5;Manage the IT Investment;3;4;Varians anggaran diidentifikasi dan diselesaikan
+150;PO;PO5;Manage the IT Investment;3;4;Analisis penetapan biaya formal dilakukan, mencakup biaya langsung dan tidak langsung dari operasi yang ada, serta investasi yang diusulkan, dengan mempertimbangkan semua biaya selama siklus hidup total
+151;PO;PO5;Manage the IT Investment;3;4;Proses penganggaran yang proaktif dan standar digunakan
+152;PO;PO5;Manage the IT Investment;3;4;Dampak pergeseran biaya pengembangan dan operasi dari perangkat keras dan perangkat lunak ke integrasi sistem dan sumber daya manusia TI diakui dalam rencana investasi
+153;PO;PO5;Manage the IT Investment;3;4;Manfaat dan pengembalian dihitung dalam istilah keuangan dan non-keuangan
+154;PO;PO5;Manage the IT Investment;4;5;Praktik industri yang baik digunakan untuk membandingkan biaya dan mengidentifikasi pendekatan untuk meningkatkan efektivitas investasi
+155;PO;PO5;Manage the IT Investment;4;5;Analisis perkembangan teknologi digunakan dalam proses pemilihan investasi dan penganggaran
+156;PO;PO5;Manage the IT Investment;4;5;Proses manajemen investasi terus ditingkatkan berdasarkan pelajaran dari analisis kinerja investasi aktual
+157;PO;PO5;Manage the IT Investment;4;5;Keputusan investasi menggabungkan tren peningkatan harga/kinerja
+158;PO;PO5;Manage the IT Investment;4;5;Alternatif pendanaan diselidiki dan dievaluasi secara formal dalam konteks struktur modal organisasi yang ada, menggunakan metode evaluasi formal
+159;PO;PO5;Manage the IT Investment;4;5;Ada identifikasi varians secara proaktif
+160;PO;PO5;Manage the IT Investment;4;5;Analisis biaya dan manfaat jangka panjang dari siklus hidup total dimasukkan dalam keputusan investasi investment
+161;PO;PO6;Communicate Management Aims and Direction;0;1;Manajemen membentuk lingkungan kontrol TI yang positif
+162;PO;PO6;Communicate Management Aims and Direction;0;1;Perlunya pengakuan kebutuhan untuk menetapkan serangkaian kebijakan, rencana dan prosedur, dan proses kepatuhan compliance
+163;PO;PO6;Communicate Management Aims and Direction;0;1;Manajemen proaktif dalam menangani persyaratan lingkungan pengendalian informasi
+164;PO;PO6;Communicate Management Aims and Direction;0;1;Kebijakan, prosedur, dan standar dikembangkan dan dikomunikasikan secara ad hoc sebagaimana didorong oleh masalah
+165;PO;PO6;Communicate Management Aims and Direction;0;1;Proses pengembangan, komunikasi, dan kepatuhan bersifat formal dan konsisten
+166;PO;PO6;Communicate Management Aims and Direction;1;2;Kebutuhan dan persyaratan lingkungan pengendalian informasi yang efektif secara implisit dipahami oleh manajemen
+167;PO;PO6;Communicate Management Aims and Direction;1;2;Kebutuhan akan kebijakan, rencana, dan prosedur pengendalian dikomunikasikan oleh manajemen, tetapi pengembangan diserahkan kepada kebijaksanaan masing-masing manajer dan area bisnis
+168;PO;PO6;Communicate Management Aims and Direction;1;2;Kualitas diakui sebagai filosofi yang diinginkan untuk diikuti, tetapi praktiknya diserahkan kepada kebijaksanaan masing-masing manajer
+169;PO;PO6;Communicate Management Aims and Direction;1;2;Pelatihan dilakukan secara individu, sesuai kebutuhan
+170;PO;PO6;Communicate Management Aims and Direction;2;3;Kontrol informasi dan lingkungan manajemen mutu yang lengkap dikembangkan, didokumentasikan, dan dikomunikasikan oleh manajemen dan mencakup kerangka kerja untuk kebijakan, rencana, dan prosedur
+171;PO;PO6;Communicate Management Aims and Direction;2;3;Proses pengembangan kebijakan terstruktur, dipelihara dan diketahui oleh staf, dan kebijakan, rencana, dan prosedur yang ada cukup masuk akal dan mencakup isu-isu utama
+172;PO;PO6;Communicate Management Aims and Direction;2;3;Manajemen membahas pentingnya kesadaran keamanan TI dan memulai program kesadaran
+173;PO;PO6;Communicate Management Aims and Direction;2;3;Pelatihan formal tersedia untuk mendukung lingkungan pengendalian informasi tetapi tidak diterapkan secara ketat
+174;PO;PO6;Communicate Management Aims and Direction;2;3;Meskipun ada kerangka pengembangan keseluruhan untuk kebijakan dan prosedur pengendalian, ada pemantauan yang tidak konsisten terhadap kepatuhan terhadap kebijakan dan prosedur ini
+175;PO;PO6;Communicate Management Aims and Direction;2;3;Ada kerangka pengembangan keseluruhan
+176;PO;PO6;Communicate Management Aims and Direction;2;3;Teknik untuk mempromosikan kesadaran keamanan telah distandarisasi dan diformalkan
+177;PO;PO6;Communicate Management Aims and Direction;3;4;Manajemen menerima tanggung jawab untuk mengkomunikasikan kebijakan pengendalian internal dan mendelegasikan tanggung jawab dan mengalokasikan sumber daya yang cukup untuk memelihara lingkungan sejalan dengan perubahan signifikan
+178;PO;PO6;Communicate Management Aims and Direction;3;4;Lingkungan kontrol informasi yang positif dan proaktif, termasuk komitmen terhadap kualitas dan kesadaran keamanan TI, telah ditetapkan
+179;PO;PO6;Communicate Management Aims and Direction;3;4;Satu set lengkap kebijakan, rencana dan prosedur dikembangkan, dipelihara dan dikomunikasikan dan merupakan gabungan dari praktik baik internal
+180;PO;PO6;Communicate Management Aims and Direction;3;4;Kerangka kerja untuk peluncuran dan pemeriksaan kepatuhan selanjutnya telah ditetapkan
+181;PO;PO6;Communicate Management Aims and Direction;4;5;The information control environment is aligned with the strategic management framework and vision and is frequently reviewed, updated and continuously improved
+182;PO;PO6;Communicate Management Aims and Direction;4;5;Pakar internal dan eksternal ditugaskan untuk memastikan bahwa praktik industri yang baik diadopsi sehubungan dengan panduan kontrol dan teknik komunikasi
+183;PO;PO6;Communicate Management Aims and Direction;4;5;Pemantauan, penilaian diri, dan pemeriksaan kepatuhan meresap dalam organisasi
+184;PO;PO6;Communicate Management Aims and Direction;4;5;Teknologi digunakan untuk mempertahankan basis pengetahuan kebijakan dan kesadaran dan untuk mengoptimalkan komunikasi, menggunakan otomatisasi kantor dan alat pelatihan berbasis komputer
+185;PO;PO7;Manage IT Human Resources;0;1;Perlunya kesadaran tentang pentingnya menyelaraskan manajemen sumber daya manusia TI dengan proses perencanaan teknologi untuk organisasi
+186;PO;PO7;Manage IT Human Resources;0;1;Perlunya orang atau kelompok yang secara formal bertanggung jawab atas manajemen sumber daya manusia TI
+187;PO;PO7;Manage IT Human Resources;0;1;Manajemen menyadari perlunya manajemen sumber daya manusia TI
+188;PO;PO7;Manage IT Human Resources;0;1;Proses manajemen sumber daya manusia TI bersifat formal dan proaktif
+189;PO;PO7;Manage IT Human Resources;0;1;Proses sumber daya manusia TI secara operasional berfokus pada perekrutan dan pengelolaan personel TI
+190;PO;PO7;Manage IT Human Resources;0;1;Kesadaran berkembang mengenai dampak perubahan bisnis dan teknologi yang cepat serta solusi yang semakin kompleks terhadap kebutuhan akan tingkat keterampilan dan kompetensi baru
+191;PO;PO7;Manage IT Human Resources;1;2;Ada pendekatan taktis untuk merekrut dan mengelola personel TI, didorong oleh kebutuhan spesifik proyek, bukan oleh keseimbangan yang dipahami antara ketersediaan staf terampil internal dan eksternal
+192;PO;PO7;Manage IT Human Resources;1;2;Pelatihan informal dilakukan untuk personel baru, yang kemudian menerima pelatihan sesuai kebutuhan
+193;PO;PO7;Manage IT Human Resources;2;3;Ada proses yang ditetapkan dan didokumentasikan untuk mengelola sumber daya manusia TI
+194;PO;PO7;Manage IT Human Resources;2;3;Ada rencana manajemen sumber daya manusia TI. Ada pendekatan strategis untuk merekrut dan mengelola personel TI
+195;PO;PO7;Manage IT Human Resources;2;3;Rencana pelatihan formal dirancang untuk memenuhi kebutuhan sumber daya manusia TI
+196;PO;PO7;Manage IT Human Resources;2;3;Sebuah program rotasi, yang dirancang untuk memperluas keterampilan manajemen teknis dan bisnis, didirikan
+197;PO;PO7;Manage IT Human Resources;3;4;Tanggung jawab untuk pengembangan dan pemeliharaan rencana manajemen sumber daya manusia TI ditugaskan kepada individu atau kelompok tertentu dengan keahlian dan keterampilan yang diperlukan untuk mengembangkan dan memelihara rencana tersebut.
+198;PO;PO7;Manage IT Human Resources;3;4;Proses pengembangan dan pengelolaan rencana manajemen sumber daya manusia TI responsif terhadap perubahan
+199;PO;PO7;Manage IT Human Resources;3;4;Langkah-langkah standar ada dalam organisasi untuk memungkinkannya mengidentifikasi penyimpangan dari rencana manajemen sumber daya manusia TI, dengan penekanan khusus pada pengelolaan pertumbuhan dan pergantian personel TI
+200;PO;PO7;Manage IT Human Resources;3;4;Kompensasi dan tinjauan kinerja sedang dibuat dan dibandingkan dengan organisasi TI lainnya dan praktik industri yang baik
+201;PO;PO7;Manage IT Human Resources;3;4;Manajemen sumber daya manusia TI proaktif, dengan mempertimbangkan pengembangan jalur karier
+202;PO;PO7;Manage IT Human Resources;4;5;Rencana manajemen sumber daya manusia TI terus diperbarui untuk memenuhi perubahan kebutuhan bisnis
+203;PO;PO7;Manage IT Human Resources;4;5;Manajemen sumber daya manusia TI terintegrasi dengan perencanaan teknologi, memastikan pengembangan optimal dan penggunaan keterampilan TI yang tersedia
+204;PO;PO7;Manage IT Human Resources;4;5;Manajemen sumber daya manusia TI terintegrasi dengan dan responsif terhadap arah strategis entitas
+205;PO;PO7;Manage IT Human Resources;4;5;Komponen manajemen sumber daya manusia TI konsisten dengan praktik industri yang baik, seperti kompensasi, tinjauan kinerja, partisipasi dalam forum industri, transfer pengetahuan, pelatihan dan pendampingan
+206;PO;PO7;Manage IT Human Resources;4;5;Program pelatihan dikembangkan untuk semua standar dan produk teknologi baru sebelum diterapkan di organisasi
+207;PO;PO8;Manage Quality;0;1;Organisasi memiliki proses perencanaan QMS dan metodologi siklus hidup pengembangan sistem (SDLC).
+208;PO;PO8;Manage Quality;0;1;Manajemen senior dan anggota staf TI menyadari bahwa program berkualitas diperlukan
+209;PO;PO8;Manage Quality;0;1;Proyek dan operasi tidak pernah ditinjau kualitasnya
+210;PO;PO8;Manage Quality;0;1;Ada kesadaran manajemen tentang perlunya QMS
+211;PO;PO8;Manage Quality;0;1;QMS didorong oleh individu di mana itu terjadi
+212;PO;PO8;Manage Quality;0;1;Manajemen membuat penilaian informal tentang kualitas
+213;PO;PO8;Manage Quality;1;2;Sebuah program sedang dibuat untuk mendefinisikan dan memantau aktivitas QMS dalam TI
+214;PO;PO8;Manage Quality;1;2;Kegiatan QMS yang terjadi difokuskan pada proyek TI dan inisiatif yang berorientasi pada proses, bukan pada proses di seluruh organisasi
+215;PO;PO8;Manage Quality;2;3;Proses QMS yang ditentukan dikomunikasikan ke seluruh perusahaan oleh manajemen dan melibatkan manajemen TI dan pengguna akhir
+216;PO;PO8;Manage Quality;2;3;Program pendidikan dan pelatihan muncul untuk mengajarkan semua tingkatan organisasi tentang kualitas
+217;PO;PO8;Manage Quality;2;3;Harapan kualitas dasar didefinisikan dan dibagikan di antara proyek dan di dalam organisasi TI
+218;PO;PO8;Manage Quality;2;3;Alat dan praktik umum untuk manajemen mutu sedang muncul
+219;PO;PO8;Manage Quality;2;3;Survei kepuasan kualitas direncanakan dan kadang-kadang dilakukan
+220;PO;PO8;Manage Quality;3;4;QMS ditangani dalam semua proses, termasuk proses dengan ketergantungan pada pihak ketiga
+221;PO;PO8;Manage Quality;3;4;Basis pengetahuan standar sedang dibangun untuk metrik kualitas
+222;PO;PO8;Manage Quality;3;4;Metode analisis biaya-manfaat digunakan untuk membenarkan inisiatif QMS
+223;PO;PO8;Manage Quality;3;4;Pembandingan terhadap industri dan pesaing muncul
+224;PO;PO8;Manage Quality;3;4;Sebuah program pendidikan dan pelatihan dilembagakan untuk mengajarkan semua tingkatan organisasi tentang kualitas
+225;PO;PO8;Manage Quality;3;4;Alat dan praktik sedang distandarisasi, dan analisis akar masalah diterapkan secara berkala
+226;PO;PO8;Manage Quality;3;4;Survei kepuasan kualitas dilakukan secara konsisten
+227;PO;PO8;Manage Quality;3;4;Program standar untuk mengukur kualitas sudah ada dan terstruktur dengan baik
+228;PO;PO8;Manage Quality;3;4;Manajemen TI sedang membangun basis pengetahuan untuk metrik kualitas
+229;PO;PO8;Manage Quality;4;5;QMS terintegrasi dan diterapkan di semua aktivitas TI
+230;PO;PO8;Manage Quality;4;5;Proses QMS fleksibel dan mudah beradaptasi dengan perubahan di lingkungan TI
+231;PO;PO8;Manage Quality;4;5;Basis pengetahuan untuk metrik kualitas ditingkatkan dengan praktik baik eksternal
+232;PO;PO8;Manage Quality;4;5;Benchmarking terhadap standar eksternal dilakukan secara rutin
+233;PO;PO8;Manage Quality;4;5;Survei kepuasan kualitas adalah proses yang berkelanjutan dan mengarah pada analisis akar masalah dan tindakan perbaikan
+234;PO;PO8;Manage Quality;4;5;Ada jaminan formal pada tingkat proses manajemen mutu
+235;PO;PO9;Assess and Manage IT Risks;0;1;Perlunya penilaian risiko untuk proses dan keputusan bisnis
+236;PO;PO9;Assess and Manage IT Risks;0;1;Organisasi mempertimbangkan dampak bisnis yang terkait dengan kerentanan keamanan dan ketidakpastian proyek pengembangan
+237;PO;PO9;Assess and Manage IT Risks;0;1;Manajemen risiko perlu diidentifikasi sebagai relevan untuk memperoleh solusi TI dan memberikan layanan TI
+238;PO;PO9;Assess and Manage IT Risks;0;1;Risiko TI dipertimbangkan secara ad hoc
+239;PO;PO9;Assess and Manage IT Risks;0;1;Penilaian informal risiko proyek dilakukan sebagaimana ditentukan oleh setiap proyek
+240;PO;PO9;Assess and Manage IT Risks;0;1;Penilaian risiko kadang-kadang diidentifikasi dalam rencana proyek tetapi jarang ditugaskan kepada manajer tertentu
+241;PO;PO9;Assess and Manage IT Risks;0;1;Risiko spesifik terkait TI, seperti keamanan, ketersediaan, dan integritas, terkadang dipertimbangkan berdasarkan proyek per proyek
+242;PO;PO9;Assess and Manage IT Risks;0;1;Risiko terkait TI yang memengaruhi operasi sehari-hari jarang dibahas dalam rapat manajemen
+243;PO;PO9;Assess and Manage IT Risks;0;1;Dimana risiko telah dipertimbangkan, mitigasi tidak konsisten
+244;PO;PO9;Assess and Manage IT Risks;0;1;Ada pemahaman yang muncul bahwa risiko TI itu penting dan perlu dipertimbangkan
+245;PO;PO9;Assess and Manage IT Risks;1;2;Pendekatan penilaian risiko yang berkembang ada dan diimplementasikan atas kebijaksanaan manajer proyek
+246;PO;PO9;Assess and Manage IT Risks;1;2;Manajemen risiko biasanya pada tingkat tinggi dan biasanya diterapkan hanya untuk proyek-proyek besar atau dalam menanggapi masalah
+247;PO;PO9;Assess and Manage IT Risks;1;2;Proses mitigasi risiko mulai diterapkan di mana risiko diidentifikasi
+248;PO;PO9;Assess and Manage IT Risks;2;3;Kebijakan manajemen risiko di seluruh organisasi menentukan kapan dan bagaimana melakukan penilaian risiko
+249;PO;PO9;Assess and Manage IT Risks;2;3;Manajemen risiko mengikuti proses yang ditetapkan yang didokumentasikan
+250;PO;PO9;Assess and Manage IT Risks;2;3;Pelatihan manajemen risiko tersedia untuk semua anggota staf
+251;PO;PO9;Assess and Manage IT Risks;2;3;Keputusan untuk mengikuti proses manajemen risiko dan menerima pelatihan diserahkan kepada kebijaksanaan individu
+252;PO;PO9;Assess and Manage IT Risks;2;3;Metodologi untuk penilaian risiko meyakinkan dan masuk akal dan memastikan bahwa risiko utama untuk bisnis diidentifikasi
+253;PO;PO9;Assess and Manage IT Risks;2;3;Sebuah proses untuk mengurangi risiko utama biasanya dilembagakan setelah risiko diidentifikasi
+254;PO;PO9;Assess and Manage IT Risks;2;3;Deskripsi pekerjaan mempertimbangkan tanggung jawab manajemen risiko
+255;PO;PO9;Assess and Manage IT Risks;3;4;Penilaian dan pengelolaan risiko adalah prosedur standar
+256;PO;PO9;Assess and Manage IT Risks;3;4;Pengecualian untuk proses manajemen risiko dilaporkan ke manajemen TI
+257;PO;PO9;Assess and Manage IT Risks;3;4;Pengecualian untuk proses manajemen risiko dilaporkan ke manajemen TI
+258;PO;PO9;Assess and Manage IT Risks;3;4;Risiko dinilai dan dimitigasi pada tingkat proyek individu dan juga secara teratur berkaitan dengan operasi TI secara keseluruhan
+259;PO;PO9;Assess and Manage IT Risks;3;4;Manajemen disarankan tentang perubahan dalam bisnis dan lingkungan TI yang dapat secara signifikan mempengaruhi skenario risiko terkait TI
+260;PO;PO9;Assess and Manage IT Risks;3;4;Manajemen mampu memantau posisi risiko dan membuat keputusan yang tepat mengenai eksposur yang bersedia diterimanya
+261;PO;PO9;Assess and Manage IT Risks;3;4;Semua risiko yang teridentifikasi memiliki pemilik yang ditunjuk, dan manajemen senior serta manajemen TI menentukan tingkat risiko yang akan ditoleransi oleh organisasi
+262;PO;PO9;Assess and Manage IT Risks;3;4;Manajemen TI mengembangkan ukuran standar untuk menilai risiko dan menentukan rasio risiko/pengembalian
+263;PO;PO9;Assess and Manage IT Risks;3;4;Anggaran manajemen untuk proyek manajemen risiko operasional untuk menilai kembali risiko secara teratur
+264;PO;PO9;Assess and Manage IT Risks;3;4;Database manajemen risiko dibuat, dan bagian dari proses manajemen risiko mulai diotomatisasi
+265;PO;PO9;Assess and Manage IT Risks;3;4;Manajemen TI mempertimbangkan strategi mitigasi risiko
+266;PO;PO9;Assess and Manage IT Risks;4;5;Manajemen risiko berkembang ke tahap di mana proses organisasi yang terstruktur ditegakkan dan dikelola dengan baik
+267;PO;PO9;Assess and Manage IT Risks;4;5;Praktik yang baik diterapkan di seluruh organisasi
+268;PO;PO9;Assess and Manage IT Risks;4;5;Pengambilan, analisis, dan pelaporan data manajemen risiko sangat otomatis
+269;PO;PO9;Assess and Manage IT Risks;4;5;Bimbingan diambil dari para pemimpin di lapangan, dan organisasi TI mengambil bagian dalam kelompok sebaya untuk bertukar pengalaman
+270;PO;PO9;Assess and Manage IT Risks;4;5;Manajemen risiko benar-benar terintegrasi ke dalam semua bisnis dan operasi TI, diterima dengan baik dan secara luas melibatkan pengguna layanan TI
+271;PO;PO9;Assess and Manage IT Risks;4;5;Manajemen mendeteksi dan bertindak ketika keputusan operasional dan investasi TI utama dibuat tanpa mempertimbangkan rencana manajemen risiko
+272;PO;PO9;Assess and Manage IT Risks;4;5;Manajemen terus menilai strategi mitigasi risiko
+273;PO;PO10;Manage Projects;0;1;Teknik manajemen proyek perlu digunakan dan organisasi perlu mempertimbangkan dampak bisnis yang terkait dengan salah urus proyek dan kegagalan proyek pengembangan
+274;PO;PO10;Manage Projects;0;1;Penggunaan teknik dan pendekatan manajemen proyek dalam TI adalah keputusan yang diserahkan kepada manajer TI individu
+275;PO;PO10;Manage Projects;0;1;Perlunya komitmen manajemen untuk kepemilikan proyek dan manajemen proyek
+276;PO;PO10;Manage Projects;0;1;Keputusan penting tentang manajemen proyek dibuat perlu manajemen pengguna atau masukan pelanggan
+277;PO;PO10;Manage Projects;0;1;Perlunya keterlibatan pelanggan dan pengguna dalam mendefinisikan proyek TI
+278;PO;PO10;Manage Projects;0;1;Perlunya organisasi yang jelas di dalam TI untuk pengelolaan proyek
+279;PO;PO10;Manage Projects;0;1;Peran dan tanggung jawab untuk manajemen proyek perlu ditentukan
+280;PO;PO10;Manage Projects;0;1;Proyek, jadwal, dan pencapaian terdefinisi dengan baik
+281;PO;PO10;Manage Projects;0;1;Waktu dan pengeluaran staf proyek tidak dilacak dan dibandingkan dengan anggaran
+282;PO;PO10;Manage Projects;1;2;Manajemen senior memperoleh dan mengomunikasikan kesadaran akan perlunya manajemen proyek TI
+283;PO;PO10;Manage Projects;1;2;Organisasi sedang dalam proses mengembangkan dan memanfaatkan beberapa teknik dan metode dari proyek ke proyek
+284;PO;PO10;Manage Projects;1;2;Proyek TI memiliki tujuan bisnis dan teknis yang ditetapkan secara formal
+285;PO;PO10;Manage Projects;1;2;Keterlibatan pemangku kepentingan terbatas dalam manajemen proyek TI
+286;PO;PO10;Manage Projects;1;2;Pedoman awal dikembangkan untuk banyak aspek manajemen proyek
+287;PO;PO10;Manage Projects;1;2;Penerapan pedoman manajemen proyek diserahkan kepada kebijaksanaan manajer proyek individu
+288;PO;PO10;Manage Projects;2;3;Proses dan metodologi manajemen proyek TI ditetapkan dan dikomunikasikan
+289;PO;PO10;Manage Projects;2;3;Proyek TI didefinisikan dengan tujuan bisnis dan teknis yang sesuai
+290;PO;PO10;Manage Projects;2;3;Senior TI dan manajemen bisnis mulai berkomitmen dan terlibat dalam pengelolaan proyek TI
+291;PO;PO10;Manage Projects;2;3;Kantor manajemen proyek didirikan di dalam TI, dengan peran dan tanggung jawab awal yang ditentukan
+292;PO;PO10;Manage Projects;2;3;Proyek TI dipantau, dengan pencapaian, jadwal, anggaran, dan pengukuran kinerja yang ditetapkan dan diperbarui
+293;PO;PO10;Manage Projects;2;3;Pelatihan manajemen proyek tersedia dan terutama merupakan hasil dari inisiatif staf individu
+294;PO;PO10;Manage Projects;2;3;Prosedur QA dan aktivitas implementasi pasca sistem didefinisikan, tetapi tidak diterapkan secara luas oleh manajer TI
+295;PO;PO10;Manage Projects;2;3;Proyek mulai dikelola sebagai portofolio
+296;PO;PO10;Manage Projects;3;4;Manajemen membutuhkan metrik proyek formal dan standar dan pelajaran yang dipetik untuk ditinjau setelah penyelesaian proyek
+297;PO;PO10;Manage Projects;3;4;Manajemen proyek diukur dan dievaluasi di seluruh organisasi dan tidak hanya di dalam TI
+298;PO;PO10;Manage Projects;3;4;Peningkatan proses manajemen proyek diformalkan dan dikomunikasikan dengan anggota tim proyek yang dilatih tentang peningkatan
+299;PO;PO10;Manage Projects;3;4;Manajemen TI menerapkan struktur organisasi proyek dengan peran, tanggung jawab, dan kriteria kinerja staf yang terdokumentasi
+300;PO;PO10;Manage Projects;3;4;Kriteria untuk mengevaluasi keberhasilan di setiap tonggak ditetapkan
+301;PO;PO10;Manage Projects;3;4;Nilai dan risiko diukur dan dikelola sebelum, selama dan setelah penyelesaian proyek
+302;PO;PO10;Manage Projects;3;4;Proyek semakin membahas tujuan organisasi, bukan hanya yang spesifik TI
+303;PO;PO10;Manage Projects;3;4;Ada dukungan proyek yang kuat dan aktif dari sponsor manajemen senior serta pemangku kepentingan
+304;PO;PO10;Manage Projects;3;4;Pelatihan manajemen proyek yang relevan direncanakan untuk staf di kantor manajemen proyek dan di seluruh fungsi TI
+305;PO;PO10;Manage Projects;4;5;Metodologi proyek dan program siklus hidup yang terbukti dan lengkap diterapkan, ditegakkan, dan diintegrasikan ke dalam budaya seluruh organisasi
+306;PO;PO10;Manage Projects;4;5;Inisiatif berkelanjutan untuk mengidentifikasi dan melembagakan praktik manajemen proyek terbaik diimplementasikan
+307;PO;PO10;Manage Projects;4;5;Strategi TI untuk pengembangan sumber dan proyek operasional didefinisikan dan diimplementasikan
+308;PO;PO10;Manage Projects;4;5;Kantor manajemen proyek terintegrasi bertanggung jawab atas proyek dan program dari awal hingga pasca implementasi
+309;PO;PO10;Manage Projects;4;5;Perencanaan program dan proyek di seluruh organisasi memastikan bahwa pengguna dan sumber daya TI dimanfaatkan sebaik mungkin untuk mendukung inisiatif strategis
+310;AI;AI1;Identify Automated Solutions;0;1;Meningkatkan kesadaran dalam menentukan kebutuhan serta mengidentifikasi solusi teknologi
+311;AI;AI1;Identify Automated Solutions;0;1;Melakukan pertemuan diantar Manajemen untuk membahas kebutuhan informal dan melakukan dokumentasi mengenai kebutuhan tersebut
+312;AI;AI1;Identify Automated Solutions;0;1;Melakukan riset terstruktur mengenai teknologi yang tersedia saat ini
+313;AI;AI1;Identify Automated Solutions;1;2;Melaksanakan pendekatan intuitif untuk mengidentifikasi ketersediaan solusi Teknologi Informasi yang dibutuhkan
+314;AI;AI1;Identify Automated Solutions;1;2;Mengidentifikasi pemanfaatan Teknologi Informasi berdasarkan pengalaman dan pengetahuan internal tentang fungsi Teknologi Informasi
+315;AI;AI1;Identify Automated Solutions;1;2;Memiliki individu yang keahliannya menjadi kunci keberhasilan proyek
+316;AI;AI1;Identify Automated Solutions;1;2;Memiliki variasi dalam kualitas dokumentasi dan pengambilan keputusan
+317;AI;AI1;Identify Automated Solutions;1;2;Melakukan pendekatan yang  terstruktur untuk mendefinisikan persyaratan dan mengidentifikasi solusi teknologi
+318;AI;AI1;Identify Automated Solutions;2;3;Melakukan pendekatan yang jelas dan terstruktur dalam menentukan solusi TI
+319;AI;AI1;Identify Automated Solutions;2;3;Membutuhkan pertimbangan alternatif yang dievaluasi terhadap faktor kebutuhan bisnis atau pengguna dalam melakukan pendekatan untuk menentukan solusi TI 
+320;AI;AI1;Identify Automated Solutions;2;3;Menerapkan solusi TI untuk beberapa proyek berdasarkan keputusan yang dibuat oleh masing-masing anggota staf yang terlibat
+321;AI;AI1;Identify Automated Solutions;2;3;Melakukan pendekatan terstruktur untuk menentukan persyaratan dan mengidentifikasi solusi TI
+322;AI;AI1;Identify Automated Solutions;3;4;Melakukan identifikasi dan menilai solusi TI dengan metodologi yang mapan untuk digunakan pada sebagian besar proyek
+323;AI;AI1;Identify Automated Solutions;3;4;Mendokumentasikan proyek dengan berkualitas dan disetujui di setiap tingkatnya
+324;AI;AI1;Identify Automated Solutions;3;4;Menyiapkan kebutuhan dengan jelas dan sesuai dengan struktur yang sudah didefinisikan sebelumnya
+325;AI;AI1;Identify Automated Solutions;3;4;Memiliki alternatif solusi yang dapat dipertimbangkan, termasuk analisis mengenai biaya dan manfaatnya
+326;AI;AI1;Identify Automated Solutions;3;4;Memiliki metodologi yang jelas, dapat didefinisikan, dan dipahami secara umum serta dapat diukur
+327;AI;AI1;Identify Automated Solutions;3;4;Mempunyai antarmuka yang didefinisikan dengan jelas antara manajemen TI dan bisnis pada identifikasi dan penilaian solusi TI
+328;AI;AI1;Identify Automated Solutions;4;5;Melakukan peningkatan berkelanjutan pada metodologi yang digunakan untuk identifikasi dan penilaian solusi TI
+329;AI;AI1;Identify Automated Solutions;4;5;Mengakuisisi dan mengimplementasi metodologi yang memiliki fleksibilitas untuk proyek skala besar maupun kecil
+330;AI;AI1;Identify Automated Solutions;4;5;Memiliki metodologi yang didukung oleh internal dan database pengetahuan eksternal yang berisi materi referensi tentang solusi teknologi
+331;AI;AI1;Identify Automated Solutions;4;5;Memiliki metodologi yang menghasilkan dokumentasi dalam struktur yang telah ditentukan sebelumnya agar membuat produksi dan pemeliharaan menjadi efisien
+332;AI;AI1;Identify Automated Solutions;4;5;Memiliki peluang baru yang sering kali diidentifikasi untuk memanfaatkan teknologi agar mendapatkan keunggulan kompetitif, memengaruhi rekayasa ulang proses bisnis, dan meningkatkan efisiensi secara keseluruhan
+333;AI;AI1;Identify Automated Solutions;4;5;Memiliki regulasi bahwa manajemen dapat mendeteksi dan bertindak jika solusi TI disetujui tanpa mempertimbangkan teknologi alternatif atau kebutuhan fungsional bisnis
+334;AI;AI2;Acquire and Maintain Application Software;0;1;Memiliki kesadaran bahwa diperlukan proses untuk memperoleh dan mempertahankan aplikasi
+335;AI;AI2;Acquire and Maintain Application Software;0;1;Melakukan pendekatan untuk memperoleh dan memelihara perangkat lunak yang bervariasi dari proyek ke proyek
+336;AI;AI2;Acquire and Maintain Application Software;0;1;Memiliki beberapa solusi individu untuk kebutuhan bisnis tertentu yang diperoleh secara independen, sehingga menjadi efisien dengan pemeliharaan dan dukungan
+337;AI;AI2;Acquire and Maintain Application Software;1;2;Memiliki proses yang berbeda, tetapi serupa, untuk memperoleh dan memelihara aplikasi berdasarkan keahlian dalam fungsi TI
+338;AI;AI2;Acquire and Maintain Application Software;1;2;Melakukan peningkatan pada keterampilan dan tingkat pengalaman di dalam IT, karena tingkat keberhasilan aplikasi sangat bergantung  pada hal tersebut
+339;AI;AI2;Acquire and Maintain Application Software;1;2;Menjaga pengetahuan internal tidak sampai hilang dari organisasi, karena perawatan biasanya bermasalah dan menderita ketika hal tersebut terjadi
+340;AI;AI2;Acquire and Maintain Application Software;1;2;Memiliki sedikit pertimbangan keamanan aplikasi dan ketersediaan dalam desain atau perolehan perangkat lunak aplikasi
+341;AI;AI2;Acquire and Maintain Application Software;2;3;Memiliki proses yang jelas, sudah ditentukan dan umumnya dapat dipahami untuk perolehan dan pemeliharaan perangkat lunak aplikasi
+342;AI;AI2;Acquire and Maintain Application Software;2;3;Melakukan suatu upaya untuk menerapkan proses yang terdokumentasi secara konsisten di seluruh berbeda aplikasi dan proyek
+343;AI;AI2;Acquire and Maintain Application Software;2;3;Memiliki metodologi yang umumnya harus fleksibel dan sulit diterapkan dalam semua kasus, sehingga langkah-langkahnya mungkin dilewati
+344;AI;AI2;Acquire and Maintain Application Software;2;3;Melakukan kegiatan perawatan yang telah direncanakan, dijadwalkan dan dikoordinasikan
+345;AI;AI2;Acquire and Maintain Application Software;3;4;Memiliki metodologi formal dan dipahami dengan baik yang mencakup proses desain dan spesifikasi, kriteria untuk akuisisi, proses untuk pengujian dan persyaratan dokumentasi
+346;AI;AI2;Acquire and Maintain Application Software;3;4;Memiliki mekanisme persetujuan yang didokumentasikan dan disetujui untuk memastikan semuanya langkah-langkah diikuti dan pengecualian yang diizinkan
+347;AI;AI2;Acquire and Maintain Application Software;3;4;Memiliki praktik dan prosedur yang berevolusi dan cocok untuk organisasi, digunakan oleh semua staf dan berlaku untuk sebagian besar persyaratan aplikasi
+348;AI;AI2;Acquire and Maintain Application Software;4;5;Menyelaraskan perolehan perangkat lunak dan praktik pemeliharaan dengan proses yang ditentukan
+349;AI;AI2;Acquire and Maintain Application Software;4;5;Melakukan penerapan perangkat lunak akuisisi dan pemeliharaan sesuai dengan proses yang ditetapkan
+350;AI;AI2;Acquire and Maintain Application Software;4;5;Memiliki akuisisi dan metodologi pemeliharaan yang canggih dan memungkinkan penyebaran cepat, memungkinkan responsif dan fleksibilitas yang tinggi menanggapi kebutuhan bisnis yang berubah
+351;AI;AI2;Acquire and Maintain Application Software;4;5;Melakukan perbaikan terus menerus pada akuisisi perangkat lunak aplikasi dan metodologi implementasi. Serta didukung oleh database pengetahuan internal dan eksternal yang mengandung referensi bahan dan praktik yang baik
+352;AI;AI2;Acquire and Maintain Application Software;4;5;Memiliki metodologi menciptakan dokumentasi dalam struktur yang telah ditentukan agar membuat produksi dan pemeliharaan efisien
+353;AI;AI3;Acquire and Maintain Technology Infrastructure;0;1;Memiliki rencana keseluruhan apabila ada perubahan yang dilakukan pada infrastruktur TI untuk setiap aplikasi baru
+354;AI;AI3;Acquire and Maintain Technology Infrastructure;0;1;Memiliki pendekatan keseluruhan yang konsisten
+355;AI;AI3;Acquire and Maintain Technology Infrastructure;0;1;Memastikan aktivitas pemeliharaan TI bereaksi terhadap kebutuhan jangka pendek
+356;AI;AI3;Acquire and Maintain Technology Infrastructure;0;1;Menciptakan lingkungan produksi adalah lingkungan pengujian
+357;AI;AI3;Acquire and Maintain Technology Infrastructure;1;2;Memiliki konsistensi diantara pendekatan taktis saat memperoleh dan memelihara infrastruktur TI
+358;AI;AI3;Acquire and Maintain Technology Infrastructure;1;2;Memiliki akuisisi dan pemeliharaan infrastruktur TI, didasarkan pada strategi yang ditentukan dan mempertimbangkan kebutuhan aplikasi bisnis yang harus didukung
+359;AI;AI3;Acquire and Maintain Technology Infrastructure;1;2;Meningkatkan pemahaman bahwa infrastruktur TI PIKTI itu penting, didukung oleh beberapa praktik formal
+360;AI;AI3;Acquire and Maintain Technology Infrastructure;1;2;Melakukan penjadwalan dan koordinasi ketika pemeliharaan TI
+361;AI;AI3;Acquire and Maintain Technology Infrastructure;1;2;Memikili lingkungan pengujian yang terpisah pada beberapa lingkungan
+362;AI;AI3;Acquire and Maintain Technology Infrastructure;2;3;Memiliki proses yang jelas, terdefinisi, dan dipahami secara umum untuk memperoleh dan memelihara infrastruktur TI
+363;AI;AI3;Acquire and Maintain Technology Infrastructure;2;3;Memiliki proses yang mendukung kebutuhan aplikasi bisnis yang penting dan sejalan dengan TI dan startegi bisnis, yang diterapkan secara konsisten
+364;AI;AI3;Acquire and Maintain Technology Infrastructure;2;3;Memastikan sudah terlaksana perencanaan, penjadwalan, dan pengkoordinasian pada pemeliharaan
+365;AI;AI3;Acquire and Maintain Technology Infrastructure;2;3;Memiliki lingkungan yang terpisah untuk pengujian dan produksi
+366;AI;AI3;Acquire and Maintain Technology Infrastructure;3;4;Memiliki proses akuisisi dan pemeliharaan infrastruktur teknologi yang telah berkembang ke titik di mana ia bekerja dengan baik untuk sebagian besar situasi, diikuti secara konsisten dan difokuskan pada dapat digunakan kembali
+367;AI;AI3;Acquire and Maintain Technology Infrastructure;3;4;Memastikan infrastruktur TI cukup mendukung aplikasi bisnis
+368;AI;AI3;Acquire and Maintain Technology Infrastructure;3;4;Melakukan proses yang terorganisir dengan baik dan proaktif
+369;AI;AI3;Acquire and Maintain Technology Infrastructure;3;4;Mengoptimalkan sebagian biaya dan waktu tunggu untuk mencapai tingkat skalabilitas, fleksibilitas, dan integrasi yang diharapkan
+370;AI;AI3;Acquire and Maintain Technology Infrastructure;4;5;Memastikan proses akuisisi dan pemeliharaan infrastruktur teknologi bersifat proaktif dan selaras dengan aplikasi bisnis penting dan arsitektur teknologi
+371;AI;AI3;Acquire and Maintain Technology Infrastructure;4;5;Memastikan praktik yang baik terkait solusi teknologi diikuti, dan organisasi mengetahui perkembangan platform dan alat manajemen terbaru
+372;AI;AI3;Acquire and Maintain Technology Infrastructure;4;5;Memastikan adanya pengurangian biaya pengeluaran dengan merasionalisasi dan menstandarisasi komponen infrastruktur dan dengan menggunakan otomatisasi
+373;AI;AI3;Acquire and Maintain Technology Infrastructure;4;5;Memiliki tingkat kesadaran teknis yang tinggi dapat mengidentifikasi cara optimal untuk secara proaktif meningkatkan kinerja, termasuk pertimbangan opsi pengalihdayaan
+374;AI;AI3;Acquire and Maintain Technology Infrastructure;4;5;Memastikan infrastruktur TI dipandang sebagai pendorong utama untuk memanfaatkan penggunaan TI
+375;AI;AI4;Enable Operation and Use;0;1;Memiliki kesadaran akan pembuatan dokumentasi pengoperasian aplikasi yang dibutuhkan
+376;AI;AI4;Enable Operation and Use;0;1;Membuat dokumentasi pengoperasian aplikasi yang bersifat sementara dan tidak berkala serta hanya diperuntukkan untuk bagian staff tertentu
+377;AI;AI4;Enable Operation and Use;0;1;Meng-update sebagian dokumen-dokumen pengoperasian aplikasi dan berpedoman pada dokumen lama
+378;AI;AI4;Enable Operation and Use;0;1;Melakukan pelatihan pada pengoperasian aplikasi hanya sesekali/jarang dilakukan kepada pengguna
+379;AI;AI4;Enable Operation and Use;0;1;Memiliki sebagian SOP yang terintegrasi antara sistem yang dibangun dengan unit bisnis
+380;AI;AI4;Enable Operation and Use;0;1;Memiliki sedikit masukan dari unit bisnis untuk meningkatkan rancangan program pelatihan pengoperasian aplikasi
+381;AI;AI4;Enable Operation and Use;1;2;Memiliki SOP dan dokumentasi pada pengoperasian aplikasi, akan tetapi tidak melalui pendekatan berdasarkan kerangka kerja yang dibangun secara terstruktur
+382;AI;AI4;Enable Operation and Use;1;2;Melakukan sedikit pengembangan SOP dan dokumentasi pengoperasian aplikasi pada pengguna
+383;AI;AI4;Enable Operation and Use;1;2;Memiliki materi pelatihan pengoperasian aplikasi yang dibuat oleh tim tertentu. Tetapi tanpa pengawasan dari Koordinator Staff IT
+384;AI;AI4;Enable Operation and Use;1;2;Memiliki penilaian pengguna terhadap SOP dan dokumentasi pengoperasian aplikasi hanya pada tingkat cukup
+385;AI;AI4;Enable Operation and Use;1;2;Menyediakan program pelatihan pengoperasian aplikasi kepada pengguna, akan tetapi tidak ada rencana berkelanjutan yang dilakukan
+386;AI;AI4;Enable Operation and Use;2;3;Memiliki SOP dan dokumentasi pengoperasian aplikasi kepada pengguna dapat diterima dan dipahami secara jelas
+387;AI;AI4;Enable Operation and Use;2;3;Menyimpan SOP dan dokumentasi pengoperasian aplikasi dengan baik di Drive dan bisa diakses oleh seluruh Staff
+388;AI;AI4;Enable Operation and Use;2;3;"Membuat SOP dan dokumentasi pengoperasian aplikasi berdasarkan respon pengguna		"
+389;AI;AI4;Enable Operation and Use;2;3;Membuka akses SOP dan dokumentasi pengoperasian aplikasi secara offline ketika terjadi keadaan yang darurat
+390;AI;AI4;Enable Operation and Use;2;3;Melakukan pembaruan SOP dan materi pelatihan pengoperasian aplikasi ketika aplikasi tersebut terdapat perubahan
+391;AI;AI4;Enable Operation and Use;2;3;Menyimpan materi pelatihan pengoperasian aplikasi dengan baik di Drive dan bisa diakses oleh seluruh Staff sudah direncanakan dan terjadwal
+392;AI;AI4;Enable Operation and Use;3;4;Memiliki suatu kerangka kerja untuk me-maintain SOP dan materi pelatihan pengoperasian aplikasi dengan dukungan IT
+393;AI;AI4;Enable Operation and Use;3;4;Melakukan pendekatan untuk me-maintain SOP dan materi pelatihan pengoperasian aplikasi sehingga mencakup semua sistem dan unit bisnis
+394;AI;AI4;Enable Operation and Use;3;4;Memiliki SOP dan materi pelatihan pengoperasian aplikasi yang saling terintegrasi serta terdapat antarmuka yang interaktif
+395;AI;AI4;Enable Operation and Use;3;4;Mengawasi SOP dan materi pelatihan pengoperasian aplikasi yang dikembangkan
+396;AI;AI4;Enable Operation and Use;3;4;Memiliki umpan balik dari pengguna dan unit bisnis pada dokumentasi dan program pelatihan pengoperasian aplikasi
+397;AI;AI4;Enable Operation and Use;3;4;Memiliki dokumentasi bahan ajar dan pelatihan pengoperasian aplikasi pada tingkat kehandalan dan ketersediaan yang baik
+398;AI;AI4;Enable Operation and Use;3;4;Memiliki pengembangan SOP dan dokumen bahan ajar pelatihan yang terintegrasi pada sistem aplikasi dan memungkinkan akses terhadap pengguna
+399;AI;AI4;Enable Operation and Use;3;4;Melakukan pelatihan pengoperasian aplikasi kepada unit bisnis dan pengguna berpartisipasi secara aktif sesuai dengan kebutuhan bisnis
+400;AI;AI4;Enable Operation and Use;3;4;Mengembangkan metrik perangkat lunak oleh manajemen TI untuk mengukur pengembangan dan penyampaian bahan ajar dan program pelatihan pengguna
+401;AI;AI4;Enable Operation and Use;4;5;Memiliki peningkatan yang berkala terhadap user manual dan dokumentasi pengoperasian aplikasiseiring dengan metode baru yang digunakan
+402;AI;AI4;Enable Operation and Use;4;5;Melakukan peningkatan SOP dan materi pelatihan pengoperasian aplikasi secara bekelanjutan berdasarkan ilmu terkini sehingga melibatkan alur kerja, distribusi teknologi, dan kemudahan pengaksesan
+403;AI;AI4;Enable Operation and Use;4;5;Melakukan pengembangan dari dokumentasi dan materi pelatihan pengoperasian aplikasi serta penyampaian program pelatihan terintegrasi penuh dengan proses bisnis sehingga mendukung kebutuhan organisasi yang berorientasi TI
+404;AI;AI5;Procure IT Resources;0;1;Menyadari bahwa harus memiliki kebutuhan untuk mendokumentasikan kebijakan dan prosedur yang menghubungkan akuisisi IT dengan proses pengadaan organisasi bisnis secara keseluruhan
+405;AI;AI5;Procure IT Resources;0;1;Mengembangkan dan mengelola kontrak untuk perolehan sumber daya IT oleh manajer proyek dan individu lain yang melaksanakan penilaian profesional mereka daripada sebagai hasil dari prosedur dan kebijakan formal
+406;AI;AI5;Procure IT Resources;0;1;Mengelola kontrak untuk akuisisi pada akhir proyek
+407;AI;AI5;Procure IT Resources;0;1;Memiliki hubungan ad hoc antara akuisisi perusahaan dan proses manajemen kontrak dan IT
+408;AI;AI5;Procure IT Resources;1;2;Memiliki kesadaran organisasi tentang perlunya memiliki kebijakan dan prosedur dasar untuk akuisisi IT
+409;AI;AI5;Procure IT Resources;1;2;Mengintegrasi sebagian kebijakan-kebijakan dan prosedur dengan proses pengadaan organisasi bisnis secara keseluruhan
+410;AI;AI5;Procure IT Resources;1;2;Memproses sebagian besar pengadaan sumber daya IT yang digunakan untuk proyek besar dan terlihat
+411;AI;AI5;Procure IT Resources;1;2;Memiliki tanggung jawab dan akuntabilitas untuk pengadaan IT dan manajemen kontrak ditentukan oleh pengalaman masing-masing manajer kontrak
+412;AI;AI5;Procure IT Resources;1;2;Menyadari pentingnya manajemen pemasok dan mengakui manajemen hubungan, tapi ditangani berdasarkan inisiatif individu
+413;AI;AI5;Procure IT Resources;1;2;Memproses sebagian besar kontrak yang digunakan oleh proyek-proyek besar atau yang sangat terlihat
+414;AI;AI5;Procure IT Resources;2;3;Menerapkan kebijakan dan prosedur untuk akuisisi IT oleh manajemen
+415;AI;AI5;Procure IT Resources;2;3;Memandu kebijakan dan prosedur oleh keseluruhan proses pengadaan organisasi bisnis
+416;AI;AI5;Procure IT Resources;2;3;Memiliki standar IT untuk perolehan sumber daya IT
+417;AI;AI5;Procure IT Resources;2;3;Mengintegrasikan pemasok sumber daya IT ke dalam mekanisme manajemen proyek organisasi dari perspektif manajemen kontrak
+418;AI;AI5;Procure IT Resources;2;3;Mengintegrasikan sebagian besar sistem pengadaan bisnis dengan akuisisi TI secara keseluruhan
+419;AI;AI5;Procure IT Resources;2;3;Mengkomunikasikan kebutuhan akuisisi yang sesuai serta manajemen kontrak pada seluruh fungsi IT
+420;AI;AI5;Procure IT Resources;3;4;Mengintegrasi sistem pengadaan bisnis dengan akuisisi TI secara keseluruhan
+421;AI;AI5;Procure IT Resources;3;4;Menggunakan standar IT untuk akuisisi sumber daya IT untuk semua pengadaan
+422;AI;AI5;Procure IT Resources;3;4;Mengambil pengukuran pada kontrak dan manajemen pengadaan secara relevan dengan kasus bisnis untuk akuisisi IT
+423;AI;AI5;Procure IT Resources;3;4;Menyediakan pelaporan aktivitas akuisisi TI yang mendukung tujuan bisnis
+424;AI;AI5;Procure IT Resources;3;4;Mengetahui pengecualian terhadap kebijakan serta prosedur akuisisi IT
+425;AI;AI5;Procure IT Resources;3;4;Mengembangkan manajemen strategis hubungan
+426;AI;AI5;Procure IT Resources;3;4;Melakukan manajemen TI dengan menggunakan manajemen kontrak dan proses akuisisi untuk semua akuisisi dengan memonitor pengukuran kinerja
+427;AI;AI5;Procure IT Resources;4;5;Menjadikan manajemen sebagai lembaga yang menyusun sumber daya dengan melakukan secara menyeluruh untuk akuisisi TI
+428;AI;AI5;Procure IT Resources;4;5;Menetapkan kesesuaian terhadap kebijakan dan metode akuisisi TI yang harus dipatuhi
+429;AI;AI5;Procure IT Resources;4;5;Mengambil hal berguna dari hasil evaluasi pada kontrak dan manajemen penyusunan dengan kasus bisnis untuk akuisisi TI
+430;AI;AI5;Procure IT Resources;4;5;Memiliki koneksi yang sehat, akan menjadikan waktu dengan kebanyakan penyalur dan mitra. Dan memiliki koneksi yang baik dengan cara diukur dan dipantau
+431;AI;AI5;Procure IT Resources;4;5;Mengelola dan merencanakan koneksi secara strategis?
+432;AI;AI5;Procure IT Resources;4;5;Melakukan taraf kebijakan dan prosedur IT untuk akuisisi dengan cara strategis dan melakukan pengukuran proses
+433;AI;AI5;Procure IT Resources;4;5;Menghubungkan kepentingan dengan cara strategis dari akuisisi yang sesuai dan manajemen kontrak yang ada di seluruh fungsi IT
+434;AI;AI6;Manage Changes;0;1;Mengetahui bahwa setiap perubahan yang ada harus dikelola dan diawasi
+435;AI;AI6;Manage Changes;0;1;Mengetahui jika terdapat keberagaman bidang urusan pada organisasi yang memungkinkan terjadinya perubahan yang tidak terkelola atau tidak sah
+436;AI;AI6;Manage Changes;0;1;Memiliki dokumentasi dari perubahan yang pernah terjadi, minimal relatif sedikit atau tidak ada dan konfigurasi cenderung tidak lengkap dan tidak dapat dipercaya
+437;AI;AI6;Manage Changes;0;1;Mengurangi kesalahan karena buruknya manajemen perubahan yang ada
+438;AI;AI6;Manage Changes;1;2;Memiliki proses manajemen perubahan secara informal namun belum terstruktur, mendasar dan cenderung terjadi kesalahan
+439;AI;AI6;Manage Changes;1;2;Memiliki konfigurasi dari akurasi dokumentasi, minimal masih inkonsisten dan perencanaan serta perhitungan dampak terhadap perubahan masih terbatas
+440;AI;AI6;Manage Changes;2;3;Memiliki proses manajemen perubahan formal yang baik yang mencakup kategorisasi, prioritasisasi, prosedur-prosedur darurat, autorisasi perubahan dan manajemen pelepasan yang sesuai dengan perkembangan organisasi
+441;AI;AI6;Manage Changes;2;3;Mengurangi kesalahan dan perubahan-perubahan tak terkelola yang masih terjadi
+442;AI;AI6;Manage Changes;2;3;Mulai membentuk analisis dampak perubahan IT pada operasi bisnis untuk mendukung perencanaan teknologi dan aplikasi baru
+443;AI;AI6;Manage Changes;3;4;Mengembangkan proses manajemen perubahan dengan baik dan secara konsisten diikuti untuk segala perubahan yang ada
+444;AI;AI6;Manage Changes;3;4;Memiliki proses yang berjalan dengan efisien dan efektif tetapi tetap bersandar pada prosedur manual dan kontrol untuk memastikan bahwa mutu tercapai
+445;AI;AI6;Manage Changes;3;4;Memiliki proses persetujuan untuk perubahan sudah sesuai aturan
+446;AI;AI6;Manage Changes;3;4;Membuat dokumentasi manajemen perubahan dengan tepat dan umumnya akurat
+447;AI;AI6;Manage Changes;3;4;Mengintegrasi perencanaan menejemen perubahan IT dengan perubahan dalam proses bisnis untuk menjamin training, perubahan organisasi dan persoalan kelancaran bisnis terkelola
+448;AI;AI6;Manage Changes;3;4;Melakukan peningkatan koordinasi antara manajemen perubahan IT dan perancangan proses bisnis baru
+449;AI;AI6;Manage Changes;3;4;Memiliki proses yang konsisten untuk mengawasi mutu dan kinerja proses manajemen perubahan organisasi
+450;AI;AI6;Manage Changes;4;5;Melakukan proses manajemen perubahan secara teratur, ditinjau dan diperbaharui untuk tetap sejalan dengan visi dan misi organisasi
+451;AI;AI6;Manage Changes;4;5;Memiliki informasi konfigurasi yang sudah berbasis komputer dan menyediakan version control
+452;AI;AI6;Manage Changes;4;5;Mengintegrasi manajemen perubahan IT dengan manajemen perubahan bisnis untuk memastikan bahwa IT adalah aspek penting dalam peningkatan produktivitas dan penciptaan kesempatan bisnis baru bagi organisasi
+453;AI;AI6;Manage Changes;4;5;Memiliki Dokumentasi konfigurasi yang akurat
+454;AI;AI7;Install and Accredit Solutions and Changes;0;1;Memiliki kesadaran terhadap kebutuhan untuk memverifikasi dan mengkonfirmasi solusi yang diterapkan sudah memenuhi tujuan yang diinginkan
+455;AI;AI7;Install and Accredit Solutions and Changes;0;1;Melakukan inisiatif untuk melakukan pengujian dengan pendekatan yang tepat oleh setiap tim proyek
+456;AI;AI7;Install and Accredit Solutions and Changes;0;1;Memiliki akreditasi dan persetujuan formal
+457;AI;AI7;Install and Accredit Solutions and Changes;1;2;Melakukan pendekatan pengujian dan akreditasi dengan tidak didasarkan pada metodologi apa pun
+458;AI;AI7;Install and Accredit Solutions and Changes;1;2;Memutuskan pendekatan pengujian oleh tim pengembangan individu, dan tidak perlu termasuk pengujian integrasi
+459;AI;AI7;Install and Accredit Solutions and Changes;1;2;Memiliki proses persetujuan informal
+460;AI;AI7;Install and Accredit Solutions and Changes;2;3;Memiliki metodologi formal yang berkaitan dengan pemasangan, migrasi, konversi, dan penerimaan
+461;AI;AI7;Install and Accredit Solutions and Changes;2;3;Mengintegrasi proses instalasi dan akreditasi IT ke dalam siklus hidup sistem dan diotomatisasi sampai batas tertentu
+462;AI;AI7;Install and Accredit Solutions and Changes;2;3;Memiliki pelatihan, pengujian dan transisi ke status produksi dan akreditasi yang berbeda dari proses yang ditentukan karena berdasarkan keputusan individu
+463;AI;AI7;Install and Accredit Solutions and Changes;2;3;Memiliki kualitas sistem yang memasuki produksi, minimal tidak konsisten, namun dengan sistem baru sering kali menimbulkan masalah pasca implementasi yang signifikan
+464;AI;AI7;Install and Accredit Solutions and Changes;3;4;Memformalkan dan mengembangkan prosedur agar terorganisir dengan baik dan praktis dengan lingkungan pengujian dan prosedur akreditasi yang ditentukan
+465;AI;AI7;Install and Accredit Solutions and Changes;3;4;Memastikan perubahan besar pada sistem mengikuti pendekatan formal prosedur tersebut
+466;AI;AI7;Install and Accredit Solutions and Changes;3;4;Mengevaluasi pemenuhan kebutuhan pengguna dengan standarisasi dan ukuran, menghasilkan metrik yang dapat ditinjau dan dianalisis secara efektif oleh manajemen
+467;AI;AI7;Install and Accredit Solutions and Changes;3;4;Memiliki kualitas sistem yang memasuki produksi memuaskan manajemen bahkan dengan tingkat masalah pasca implementasi yang wajar
+468;AI;AI7;Install and Accredit Solutions and Changes;3;4;Memiliki otomatisasi proses bersifat ad hoc dan bergantung pada proyek
+469;AI;AI7;Install and Accredit Solutions and Changes;3;4;Merasa puas dengan tingkat efisiensi saat ini meskipun masih terdapat kekurangan evaluasi pasca-implementasi
+470;AI;AI7;Install and Accredit Solutions and Changes;3;4;Memastikan sistem pengujian mencerminkan lingkungan hidup yang memadai
+471;AI;AI7;Install and Accredit Solutions and Changes;3;4;Memiliki pengujian stres untuk sistem baru dan pengujian regresi untuk sistem yang ada diterapkan untuk proyek-proyek besar
+472;AI;AI7;Install and Accredit Solutions and Changes;4;5;Menyempurnakan proses pemasangan dan akreditasi ke tingkat praktik yang baik, berdasarkan hasil penyempurnaan dan penyempurnaan yang berkelanjutan
+473;AI;AI7;Install and Accredit Solutions and Changes;4;5;Mengintegrasikan sepenuhnya proses instalasi dan akreditasi TI ke dalam siklus hidup sistem dan diotomatiskan jika sesuai, memfasilitasi pelatihan, pengujian, dan transisi yang paling efisien ke status produksi sistem baru
+474;AI;AI7;Install and Accredit Solutions and Changes;4;5;Mengembangkan lingkungan pengujian dengan baik, register masalah, dan proses penyelesaian kesalahan dapat memastikan transisi yang efisien dan efektif ke lingkungan produksi
+475;AI;AI7;Install and Accredit Solutions and Changes;4;5;Memastikan dapat melakukan akreditasi tanpa pengerjaan ulang, dan masalah pasca implementasi biasanya terbatas pada koreksi kecil
+476;AI;AI7;Install and Accredit Solutions and Changes;4;5;Menstandarisasi tinjauan pasca-implementasi, dengan pelajaran yang dipetik disalurkan kembali ke dalam proses untuk memastikan peningkatan kualitas yang berkelanjutan
+477;AI;AI7;Install and Accredit Solutions and Changes;4;5;Menerapkan pengujian stres untuk sistem baru dan pengujian regresi untuk sistem yang dimodifikasi secara konsisten
+478;ME;ME1;Monitor and Evaluate IT Performance;0;1;Menyadari kebutuhan untuk mengumpulkan dan menilai informasi tentang proses pemantauan
+479;ME;ME1;Monitor and Evaluate IT Performance;0;1;Mengidentifikasi proses pengumpulan dan penilaian standar
+480;ME;ME1;Monitor and Evaluate IT Performance;0;1;Mengimplementasi pemantauan dan memilih metrik berdasarkan kasus per kasus, sesuai dengan kebutuhan proyek dan proses TI tertentu
+481;ME;ME1;Monitor and Evaluate IT Performance;0;1;Menerapkan pemantauan umum secara reaktif terhadap insiden yang menyebabkan kerugian atau rasa malu bagi organisasi
+482;ME;ME1;Monitor and Evaluate IT Performance;0;1;Memiliki fungsi akuntansi untuk memantau ukuran keuangan dasar untuk TI
+483;ME;ME1;Monitor and Evaluate IT Performance;1;2;Mengidentifikasi pengukuran dasar yang akan dipantau
+484;ME;ME1;Monitor and Evaluate IT Performance;1;2;Memiliki metode dan teknik pengumpulan serta penilaian, tetapi tidak harus diadopsi pada seluruh organisasi 
+485;ME;ME1;Monitor and Evaluate IT Performance;1;2;Menginterpretasi hasil pemantauan berdasarkan keahlian individu kunci
+486;ME;ME1;Monitor and Evaluate IT Performance;1;2;Memilih dan menerapkan peralatan terbatas untuk mengumpulkan informasi, tetapi pengumpulannya tidak harus berdasarkan pada pendekatan yang direncanakan
+487;ME;ME1;Monitor and Evaluate IT Performance;2;3;Mengkomunikasikan dan melembagakan proses pemantauan standar
+488;ME;ME1;Monitor and Evaluate IT Performance;2;3;Melaksanakan program pendidikan dan pelatihan untuk pemantauan
+489;ME;ME1;Monitor and Evaluate IT Performance;2;3;Mengembangkan basis pengetahuan formal dari informasi kinerja historis
+490;ME;ME1;Monitor and Evaluate IT Performance;2;3;Melakukan penilaian pada proses TI individu dan tingkat proyek, namun tidak perlu terintegrasi diantara semua proses
+491;ME;ME1;Monitor and Evaluate IT Performance;2;3;Menentukan alat untuk memantau proses TI dan tingkat layanan
+492;ME;ME1;Monitor and Evaluate IT Performance;2;3;Menentukan pengukuran kontribusi fungsi layanan informasi terhadap kinerja organisasi, menggunakan kriteria keuangan dan operasional tradisional
+493;ME;ME1;Monitor and Evaluate IT Performance;2;3;Menentukan pengukuran kinerja khusus TI, pengukuran non-keuangan, pengukuran strategis, pengukuran kepuasan pelanggan, dan tingkat layanan
+494;ME;ME1;Monitor and Evaluate IT Performance;2;3;Mendefinisikan kerangka kerja untuk mengukur kinerja
+495;ME;ME1;Monitor and Evaluate IT Performance;3;4;Mendefinikan toleransi di mana proses harus beroperasi
+496;ME;ME1;Monitor and Evaluate IT Performance;3;4;Menstandarisasi dan menormalisasi pelaporan hasil pemantauan
+497;ME;ME1;Monitor and Evaluate IT Performance;3;4;Memiliki integrasi metrik di semua proyek dan proses TI
+498;ME;ME1;Monitor and Evaluate IT Performance;3;4;Memformalkan sistem pelaporan manajemen organisasi TI
+499;ME;ME1;Monitor and Evaluate IT Performance;3;4;Mengintegrasi dan memanfaatkan alat otomatis di seluruh organisasi untuk mengumpulkan dan memantau informasi operasional pada aplikasi, sistem, dan proses
+500;ME;ME1;Monitor and Evaluate IT Performance;3;4;Mengevaluasi kinerja berdasarkan kriteria yang disepakati, yang disetujui oleh para pemangku kepentingan
+501;ME;ME1;Monitor and Evaluate IT Performance;3;4;Menyelaraskan pengukuran fungsi TI dengan tujuan organisasi
+502;ME;ME1;Monitor and Evaluate IT Performance;4;5;Mengembangkan proses peningkatan kualitas berkelanjutan untuk memperbarui standar dan kebijakan pemantauan di seluruh organisasi dan menggabungkan praktik industri yang baik
+503;ME;ME1;Monitor and Evaluate IT Performance;4;5;Mengoptimalkan semua proses pemantauan dan mendukung tujuan di seluruh organisasi
+504;ME;ME1;Monitor and Evaluate IT Performance;4;5;Menggunakan metrik berbasis bisnis secara rutin untuk mengukur kinerja dan diintegrasikan ke dalam kerangka penilaian strategis, seperti kartu skor seimbang TI
+505;ME;ME1;Monitor and Evaluate IT Performance;4;5;Melakukan pemantuan proses dan desain ulang berkelanjutan konsisten dengan rencana peningkatan proses bisnis di seluruh organisasi
+506;ME;ME1;Monitor and Evaluate IT Performance;4;5;Melakukan pembandingan terhadap industri dan pesaing utama menjadi formal, dengan kriteria perbandingan yang dipahami dengan baik
+507;ME;ME2;Monitor and Evaluate Internal Control;0;1;Menyadari akan pentingnya memiliki manajemen dan jaminan pengendalian IT yang teratur
+508;ME;ME2;Monitor and Evaluate Internal Control;0;1;Menerapkan penilaian kelengkapan pengendalian internal secara ad hoc (tidak permanen dan pembentukannya sejak semula dimaksudkan hanya untuk sementara waktu dan untuk menangani peristiwa tertentu)
+509;ME;ME2;Monitor and Evaluate Internal Control;0;1;Memiliki tanggungjawab secara formal dalam memantau efektivitas pengendalian internal
+510;ME;ME2;Monitor and Evaluate Internal Control;0;1;Mendefinisikan secara jelas standar pengkajian informasi yang dibutuhkan terkait pemantauan efektivitas pengendalian internal
+511;ME;ME2;Monitor and Evaluate Internal Control;0;1;Melakukan penilaian pengendalian internal IT sebagai bagian dari audit keuangan tradisional, dengan metodologi dan keahlian yang tidak mencerminkan kebutuhan fungsi layanan informasi
+512;ME;ME2;Monitor and Evaluate Internal Control;1;2;Memiliki laporan pengendalian secara informal pada organisasi untuk memulai inisiatif tindakan perbaikan/korektif terhadap aktivitas pengendalian internal
+513;ME;ME2;Monitor and Evaluate Internal Control;1;2;Memiliki penilaian pengendalian internal pada organisasi bergantung pada keahlian SDM kunci
+514;ME;ME2;Monitor and Evaluate Internal Control;1;2;Meningkatkan kesadaran dari pemantauan pengendalian internal
+515;ME;ME2;Monitor and Evaluate Internal Control;1;2;Memiliki layanan informasi manajemen organisasi untuk memantau efektifitas dari pengendalian internal yang bersifat kritis secara teratur
+516;ME;ME2;Monitor and Evaluate Internal Control;1;2;Memiliki metodologi dan alat bantu/sistem yang mulai digunakan untuk pengendalian internal, tetapI tidak digunakan sesuai rencana
+517;ME;ME2;Monitor and Evaluate Internal Control;1;2;Memastikan jika keterampilan SDM menentukan teknologi yang digunakan
+518;ME;ME2;Monitor and Evaluate Internal Control;2;3;Memiliki lembaga khusus untuk melakukan pemantauan pengendalian internal
+519;ME;ME2;Monitor and Evaluate Internal Control;2;3;Memiliki kebijakan dan prosedur yang dikembangkan untuk menilai dan melaporkan aktivitas pemantauan pengendalian internal
+520;ME;ME2;Monitor and Evaluate Internal Control;2;3;Memiliki program pendidikan dan pelatihan untuk pemantauan pengendalian internal
+521;ME;ME2;Monitor and Evaluate Internal Control;2;3;Memiliki sebuah aktivitas/proses yang digunakan untuk penilaian diri dan tinjauan jaminan pengendalian internal, dengan peranan untuk bisnis yang bertanggung jawab dan manajer IT
+522;ME;ME2;Monitor and Evaluate Internal Control;2;3;Memiliki alat yang sedang digunakan untuk pengendalian internal tetapi belum tentu diintegrasikan ke dalam keseluruhan proses
+523;ME;ME2;Monitor and Evaluate Internal Control;2;3;Memiliki kebijakan penilaian risiko proses IT yang sedang digunakan dalam framework pengendalian yang dikembangkan khusus untuk organisasi IT
+524;ME;ME2;Monitor and Evaluate Internal Control;2;3;Memiliki penetapan kebijakan manajemen risiko meliputi penerapan kebijakan dan prosedur
+525;ME;ME2;Monitor and Evaluate Internal Control;3;4;Memiliki framework yang digunakan untuk untuk pemantauan pengendalian internal IT
+526;ME;ME2;Monitor and Evaluate Internal Control;3;4;Memiliki standar tingkat toleransi yang ditetapkan untuk proses pemantauan pengendalian internal
+527;ME;ME2;Monitor and Evaluate Internal Control;3;4;Memiliki alat diterapkan untuk membakukan penilaian dan secara otomatis mendeteksi pengecualian kontrol
+528;ME;ME2;Monitor and Evaluate Internal Control;3;4;Menetapkan fungsi pengendalian internal IT formal dengan profesional yang terspesialisasi dan bersertifikat yang menggunakan framework kontrol formal yang didukung oleh manajemen senior
+529;ME;ME2;Monitor and Evaluate Internal Control;3;4;Memiliki partisipasi secara rutin dari anggota staf IT dalam penilaian pengendalian internal
+530;ME;ME2;Monitor and Evaluate Internal Control;3;4;Memiliki penetapan basis pengetahuan metrik untuk informasi historis pada pemantauan pengendalian internal
+531;ME;ME2;Monitor and Evaluate Internal Control;3;4;Memiliki tinjauan sejawat untuk pemantauan pengendalian internal
+532;ME;ME2;Monitor and Evaluate Internal Control;4;5;Memiliki program peningkatan berkelanjutan di seluruh organisasi yang memperhitungkan pembelajaran dan praktik industri yang baik untuk pemantauan pengendalian internal
+533;ME;ME2;Monitor and Evaluate Internal Control;4;5;Melakukan upaya pembaruan alat yang terintegrasi, yang memungkinkan penilaian efektif atas kontrol IT kritis dan deteksi cepat insiden pemantauan pengendalian IT
+534;ME;ME2;Monitor and Evaluate Internal Control;4;5;Melakukan benchmarking terhadap industri atau perusahaan lain dengan bidang yang sama untuk fungsi layanan informasi
+535;ME;ME2;Monitor and Evaluate Internal Control;4;5;Melakukan pembandingan terhadap standar industri dan praktik yang baik
+536;ME;ME3;Ensure Compliance With External Requirements;0;1;Meningkatkan kesadaran akan kepatuhan peraturan, persyaratan kontrak dan hukum yang berdampak pada organisasi
+537;ME;ME3;Ensure Compliance With External Requirements;0;1;Memiliki proses informal diikuti untuk menjaga kepatuhan, tetapi hanya jika diperlukan dalam proyek baru atau sebagai tanggapan atas audit atau tinjauan pada organisasi
+538;ME;ME3;Ensure Compliance With External Requirements;1;2;Memiliki tingkat pemahaman tentang perlunya untuk mematuhi persyaratan eksternal, yang mana kebutuhan tersebut perlu untuk dikomunikasikan?
+539;ME;ME3;Ensure Compliance With External Requirements;1;2;Meningkatkan prosedur kepatuhan individu telah dikembangkan dan diikuti setiap tahun, yang mana hal tsb adalah sebuah persyaratan berulang, seperti dalam peraturan keuangan atau undang-undang privasi
+540;ME;ME3;Ensure Compliance With External Requirements;1;2;Memiliki pendekatan standar yang ada dalam organisasi
+541;ME;ME3;Ensure Compliance With External Requirements;1;2;Meningkatkan ketergantungan pada pengetahuan dan tanggung jawab individu, dan kemungkinan terjadinya kesalahan
+542;ME;ME3;Ensure Compliance With External Requirements;1;2;Memiliki pelatihan informal mengenai persyaratan eksternal dan masalah kepatuhan
+543;ME;ME3;Ensure Compliance With External Requirements;2;3;Mengembangkan, mendokumentasikan dan mengkomunikasikan kebijakan, rencana dan prosedur untuk memastikan kepatuhan terhadap peraturan, persyaratan kontrak dan kewajiban hukum
+544;ME;ME3;Ensure Compliance With External Requirements;2;3;Meningkatkan pemantauan yang dilakukan dan persyaratan kepatuhan yang telah ditangani
+545;ME;ME3;Ensure Compliance With External Requirements;2;3;Menyediakan pelatihan dalam persyaratan hukum dan peraturan eksternal yang mempengaruhi organisasi dan proses kepatuhan yang ditetapkan
+546;ME;ME3;Ensure Compliance With External Requirements;2;3;Mengoptimalkan efek adanya kontrak pro forma standar dan proses hukum untuk meminimalkan risiko yang terkait dengan kewajiban kontraktual
+547;ME;ME3;Ensure Compliance With External Requirements;3;4;Memahami sepenuhnya masalah dan paparan dari persyaratan eksternal dan kebutuhan kepatuhan pada semua tingkatan
+548;ME;ME3;Ensure Compliance With External Requirements;3;4;Meningkatkan kesadaran semua anggota staf mengenai kewajiban kepatuhan dari skema pelatihan formal yang diberlakukan
+549;ME;ME3;Ensure Compliance With External Requirements;3;4;Memiliki rasa tanggung jawab dan kepemilikan proses dipahami
+550;ME;ME3;Ensure Compliance With External Requirements;3;4;Melakukan proses peninjauan lingkungan untuk mengidentifikasi persyaratan eksternal dan perubahan yang sedang berlangsung
+551;ME;ME3;Ensure Compliance With External Requirements;3;4;Memiliki mekanisme untuk memantau ketidakpatuhan terhadap persyaratan eksternal, melaksanakan praktik internal, dan melakukan tindakan korektif dilakukan
+552;ME;ME3;Ensure Compliance With External Requirements;3;4;Menganalisis masalah ketidakpatuhan untuk mencari akar permasalahannya dengan cara standar, dengan tujuan untuk mengidentifikasi solusi yang berkelanjutan
+553;ME;ME3;Ensure Compliance With External Requirements;3;4;Menggunakan praktik internal baik yang terstandardisasi untuk kebutuhan khusus, seperti peraturan tetap dan layanan kontrak yang berulang
+554;ME;ME3;Ensure Compliance With External Requirements;4;5;Memiliki proses yang terorganisir dengan baik, efisien dan diberlakukan untuk mematuhi persyaratan eksternal, berdasarkan sebuah fungsi pusat yang memberikan bimbingan dan koordinasi kepada seluruh organisasi
+555;ME;ME3;Ensure Compliance With External Requirements;4;5;Memiliki pengetahuan luas tentang persyaratan eksternal yang berlaku, termasuk tren masa depan dan perubahan yang diantisipasi, dan kebutuhan terhadap solusi baru yang ada
+556;ME;ME3;Ensure Compliance With External Requirements;4;5;Mengambil bagian dalam diskusi eksternal dengan regulator dan kelompok industri untuk memahami dan mempengaruhi persyaratan eksternal yang mempengaruhi mereka
+557;ME;ME3;Ensure Compliance With External Requirements;4;5;Mengembangkan praktik baik untuk memastikan kepatuhan yang efisien dengan persyaratan eksternal, menghasilkan sangat sedikit kasus pengecualian kepatuhan
+558;ME;ME3;Ensure Compliance With External Requirements;4;5;Memiliki sistem organisasi yang luas dan terpusat, yang memungkinkan manajemen untuk mendokumentasikan alur kerja dan untuk mengukur serta meningkatkan kualitas dan efektivitas proses pemantauan kepatuhan
+559;ME;ME3;Ensure Compliance With External Requirements;4;5;Meningkatkan penerapan dan penyempurnaan proses penilaian diri persyaratan eksternal
+560;ME;ME3;Ensure Compliance With External Requirements;4;5;Melakukan pengembangan gaya manajemen dan budaya organisasi yang berkaitan dengan kepatuhan, serta pelatihan terbatas pada personel baru 
+561;ME;ME4;Provide IT Governance;0;1;Menyadari adanya permasalahan yang harus ditindaklanjuti
+562;ME;ME4;Provide IT Governance;0;1;Melakukan pendekatan sementara yang diaplikasikan pada masing - masing kasus
+563;ME;ME4;Provide IT Governance;0;1;Melakukan manajemen pendekatan masalah secara reaktif
+564;ME;ME4;Provide IT Governance;0;1;Melakukan komunikasi dan pendekatan terhadap masalah bersifat tidak konsisten dan jarang dilakukan
+565;ME;ME4;Provide IT Governance;0;1;Memperkirakan indikasi bagaimana IT berkontribusi pada performance bisnis
+566;ME;ME4;Provide IT Governance;0;1;Merespon secara reaktif terhadap masalah yang memengaruhi nama baik institusi
+567;ME;ME4;Provide IT Governance;1;2;Memiliki kesadaran terhadap adanya masalah Tata Kelola Teknologi Informasi
+568;ME;ME4;Provide IT Governance;1;2;Melakukan pengembangan aktivitas Tata Kelola Teknologi Informasi serta indikator performa
+569;ME;ME4;Provide IT Governance;1;2;Mengidentifikasi proses IT yang terpilih untuk pengembangan
+570;ME;ME4;Provide IT Governance;1;2;Mengidentifikasi pengukuran TKTI dasar dan metode beserta teknik penilaiannya, namun proses tidak diterapkan di seluruh organisasi
+571;ME;ME4;Provide IT Governance;1;2;Mengelola proses manajemen dengan project dan proses yang bervariasi
+572;ME;ME4;Provide IT Governance;1;2;Memiliki proses, peralatan, dan ukuran untuk mengukur tata kelola TI, meskipun terbatas dan mungkin tidak bisa digunakan sebaik mungkin akibat kurangnya ahli pada tiap fungsionalitasnya
+573;ME;ME4;Provide IT Governance;2;3;Memahami kepentingan dan kebutuhan adanya manajemen tata kelola TI dan mengkomunikasikannya dengan organisasi
+574;ME;ME4;Provide IT Governance;2;3;Mengembangkan sekumpulan baseline indikator manajemen tata kelola TI
+575;ME;ME4;Provide IT Governance;2;3;Mendefinikan dan membuat dokumentasi hubungan antara ukuran keluaran dan indikator performa
+576;ME;ME4;Provide IT Governance;2;3;Menyampaikan prosedur standar dan pelatihan yang diberikan
+577;ME;ME4;Provide IT Governance;2;3;Mendefinisikan instrumen sebagai catatan keseimbangan bisnis IT
+578;ME;ME4;Provide IT Governance;2;3;Mengidentifikasi peralatan untuk membantu pengawasan tata kelola TI
+579;ME;ME4;Provide IT Governance;3;4;Memahami secara penuh semua permasalahan tata kelola IT pada berbagai level
+580;ME;ME4;Provide IT Governance;3;4;Mendefinisikan tanggung jawab dan penanggung jawab proses secara jelas
+581;ME;ME4;Provide IT Governance;3;4;Menghubungkan dan mengintegrasikan proses IT dan tata kelola IT ke dalam bisnis serta strategi IT
+582;ME;ME4;Provide IT Governance;3;4;Menyadari akan risiko, pentingnya IT, dan kesempatan yang dapat dimanfaatkan oleh semua penanggung jawab proses pada manajemen
+583;ME;ME4;Provide IT Governance;3;4;Memberikan apresiasi berdasarkan pengukuran performa utama pada manajemen organisasi, dan secara keseluruhan, akuntabilitas performa proses yang utama sudah jelas
+584;ME;ME4;Provide IT Governance;4;5;Mempunyai pemahaman yang maju dan berorientasi pada masa depan terhadap permasalahan tata kelola TI beserta solusinya
+585;ME;ME4;Provide IT Governance;4;5;Mendukung pelatihan dan komunikasi dengan konsep dan teknik yang terdepan
+586;ME;ME4;Provide IT Governance;4;5;Memperbaiki semua proses manajemen hingga pada tingkat praktik bisnis yang baik
+587;ME;ME4;Provide IT Governance;4;5;Mengimplementasikan aturan IT sehingga organisasi, stakeholder, dan proses cepat beradaptasi serta mendukung kebutuhan tata kelola TI secara penuh
+588;ME;ME4;Provide IT Governance;4;5;Menganalisa semua permasalahan dan penyimpangan manajemen organisasi sampai ke akar serta solusi yang efisien diberikan
+589;DS;DS2;Manage Third-party Services;0;1;Tanggung jawab masih belum jelas
+590;DS;DS2;Manage Third-party Services;0;1;Tidak ada kebijakan yang formal mengenai prosedur kontrak dengan perusahaan ketiga
+591;DS;DS2;Manage Third-party Services;0;1;Perusahaan ketiga tidak diakui ataupun diulas kembali oleh manajemen
+592;DS;DS2;Manage Third-party Services;0;1;Tidak ada pengukuran terhadap aktivitas yang dilakukan oleh perusahaan ketiga
+593;DS;DS2;Manage Third-party Services;0;1;Tidak ada laporan yang dilaporkan oleh perusahaan ketiga
+594;DS;DS2;Manage Third-party Services;0;1;Kualitas pelayanan yang diberikan oleh perusahaan ketiga tidak diawasi oleh senior manajemen
+595;DS;DS2;Manage Third-party Services;1;2;Manajemen mulai menyadari pentingnya prosedur dan kebijakan terhadap perusahaan ketiga
+596;DS;DS2;Manage Third-party Services;1;2;Masih belum ada standar dalam hal persetujuan dengan perusahaan ketiga
+597;DS;DS2;Manage Third-party Services;1;2;Pengukuran mulai dilakukan dengan cara informal dan reaktif
+598;DS;DS2;Manage Third-party Services;1;2;Praktisi masih tergantung pada pengetahuannya masing masing
+599;DS;DS2;Manage Third-party Services;2;3;Proses untuk mencari perusahaan ketiga masih dengan cara informal
+600;DS;DS2;Manage Third-party Services;2;3;Kontrak yang disetujui masih menggunakan ketentuan dan kebijakan dari vendor
+601;DS;DS2;Manage Third-party Services;2;3;Laporan tentang layanan sudah tersedia, tetapi masih tidak mendukung objektive bisnis
+602;DS;DS2;Manage Third-party Services;3;4;Prosedur sudah terdokumentasikan
+603;DS;DS2;Manage Third-party Services;3;4;Tanggung jawab untuk mencari perusahaan ketiga sudah diberikan
+604;DS;DS2;Manage Third-party Services;3;4;Kebijakan sudah dibuat sesuai standar perusahaan
+605;DS;DS2;Manage Third-party Services;3;4;Laporan mengenai resiko bisni dengan perusahaan ketiga sudah tersedia
+606;DS;DS2;Manage Third-party Services;4;5;Kriteria untuk mencari perusahaan ketiga telah terbuat
+607;DS;DS2;Manage Third-party Services;4;5;Tanggung jawab untuk mengatur perusahaan ketiga sudah dibagikan
+608;DS;DS2;Manage Third-party Services;4;5;Sebuah proses baru hadir untuk mengulas layanan perusahaan ketiga
+609;DS;DS2;Manage Third-party Services;4;5;Terdapat pengukuran terhadap perusahaan ketiga
+610;DS;DS2;Manage Third-party Services;4;5;Terdapat pendeteksi jika ada kemungkinan masalah yang akan terjadi
+611;DS;DS3;Manage Performance and Capacity;0;1;Perusahaan tidak menyadari bahwa proses bisnis utama mungkin memerlukan kinerja tingkat tinggi dari IT
+612;DS;DS3;Manage Performance and Capacity;0;1;Tidak ada proses perencanaan kinerja dan kapasitas
+613;DS;DS3;Manage Performance and Capacity;1;2;Perusahaan mulai merancang solusi untuk kendala kinerja dan kapasitas
+614;DS;DS3;Manage Performance and Capacity;1;2;Perusahaan masih sedikit menyadari pentingnya kebutuhkan akan pengelolaan kinerja dan kapasitas
+615;DS;DS3;Manage Performance and Capacity;1;2;Tindakan yang diambil untuk mengelola kinerja dan kapasitas masih bersifat reaktif
+616;DS;DS3;Manage Performance and Capacity;1;2;Proses untuk merencanakan kapasitas dan kinerja bersifat informal
+617;DS;DS3;Manage Performance and Capacity;1;2;Pemahaman tentang pengelolaan kinerja dan kapasitas masih terbatas
+618;DS;DS3;Manage Performance and Capacity;2;3;Perusahaan menyadari dampak dari tidak mengelola kinerja dan kapasitas
+619;DS;DS3;Manage Performance and Capacity;2;3;Kebutuhan kinerja umumnya masih dinilai berdasarkan pengetahuan pegawai
+620;DS;DS3;Manage Performance and Capacity;2;3;Hasil diagnosa masalah kinerja dan kapasitas masih bergantung pada keahilan seorang pegawai
+621;DS;DS3;Manage Performance and Capacity;2;3;Tidak ada penilaian menyeluruh atas kemampuan kinerja IT
+622;DS;DS3;Manage Performance and Capacity;2;3;Setiap pengukuran kinerja belum berdasarkan kebutuhan pelanggan
+623;DS;DS3;Manage Performance and Capacity;3;4;Persyaratan kinerja dan kapasitas ditentukan oleh siklus hidup sistem
+624;DS;DS3;Manage Performance and Capacity;3;4;Terdapat persyaratan tingkat layanan yang ditentukan oleh metrik yang dapat digunakan untuk mengukur kinerja operasional
+625;DS;DS3;Manage Performance and Capacity;3;4;Kinerja masa depan dan kapasitas dimodelkan berdasarkan proses yang telah ditentukan
+626;DS;DS3;Manage Performance and Capacity;3;4;Laporan yang dihasilkan memberikan statistik kinerja
+627;DS;DS3;Manage Performance and Capacity;3;4;Masalah kinerja dan kapasitas sudah mulai diinformasikan
+628;DS;DS3;Manage Performance and Capacity;4;5;Prosedur dan alat sudah tersinkronisasi dengan bisnis
+629;DS;DS3;Manage Performance and Capacity;4;5;Terdapat yang dapat otomatis mendeteksi jika terjadi masalah
+630;DS;DS3;Manage Performance and Capacity;4;5;Monitoring sudah dilakukan terhadap pengelolaan kinerja dan kapasitas
+631;DS;DS4;Ensure Continuous Service;0;1;Tidak ada pemahaman tentang risiko, ancaman, kerentanan terhadap operasi IT
+632;DS;DS4;Ensure Continuous Service;0;1;Tidak ada pemahaman tentang dampak hilangnya layanan IT terhadap bisnis
+633;DS;DS4;Ensure Continuous Service;0;1;Kontinuitas layanan dianggap tidak memerlukan perhatian manajemen
+634;DS;DS4;Ensure Continuous Service;1;2;Tanggung jawab untuk layanan masih bersifat informal
+635;DS;DS4;Ensure Continuous Service;1;2;Tanggung jawab masih belum dibagikan
+636;DS;DS4;Ensure Continuous Service;1;2;Perusahaan sudah mulai menyadari risiko terkait dengan kebutuhkan untuk layanan berkelanjutan
+637;DS;DS4;Ensure Continuous Service;1;2;Pengguna menerapkan solusi sebagai respon terhadap gangguna jasa
+638;DS;DS4;Ensure Continuous Service;1;2;Tanggapan IT terhadap ganggung masih bersifat reaktif dan tidak siap
+639;DS;DS4;Ensure Continuous Service;1;2;Pemadapaman yang direncanakan dijadwalkan untuk memenuhi kebutuhan IT tetapi tidak memperimbangkan kebutuhkan bisnis
+640;DS;DS4;Ensure Continuous Service;2;3;Tanggung jawab untuk memastikan layanan berkelanjutan ditugaskan
+641;DS;DS4;Ensure Continuous Service;2;3;Pendekatan untuk memastikan layanan berkelanjutan terfragmentasi
+642;DS;DS4;Ensure Continuous Service;2;3;Pelaporan ketersediaan sistem masih bersifat sporadis
+643;DS;DS4;Ensure Continuous Service;2;3;Laporan masih tidak lengkap
+644;DS;DS4;Ensure Continuous Service;2;3;Tidak ada rencana kedepan untuk IT yang terdokumentasi
+645;DS;DS4;Ensure Continuous Service;2;3;Inventarisasi sistem tersedia tetapi tidak dapat diandalkan
+646;DS;DS4;Ensure Continuous Service;2;3;Praktisi masih tergantung pada pengetahuannya masing masing
+647;DS;DS4;Ensure Continuous Service;3;4;Akuntabilitas untuk pengelolaan layanan berkelanjutan tidak ambigu
+648;DS;DS4;Ensure Continuous Service;3;4;Tanggung jawab untuk perencanaan layanan berkelanjutan didefinisikan dan ditugaskan dengan jelas
+649;DS;DS4;Ensure Continuous Service;3;4;Rencana kesinambungan IT didokumentasikan
+650;DS;DS4;Ensure Continuous Service;3;4;Laporan tentang layanan berkelanjutan sudah tersedia dan sudah cukup baik
+651;DS;DS4;Ensure Continuous Service;3;4;Terdapat pelatihan untuk menangani insiden besar atau bencana
+652;DS;DS4;Ensure Continuous Service;3;4;Manajemen mengkomunikasikan kebutuhkan untuk layanan berkelanjutan
+653;DS;DS4;Ensure Continuous Service;3;4;Inventarisasi sistem dan komponen penting selalu terawat
+654;DS;DS4;Ensure Continuous Service;4;5;Tanggung jawab dan standar telah dibuat dengan jelas
+655;DS;DS4;Ensure Continuous Service;4;5;Tanggung jawab dilakukan untuk mempertahanakan rencana IT yang sudah dibuat sebelumnya
+656;DS;DS4;Ensure Continuous Service;4;5;Rencana IT telah terintegrasi dengan rencana bisnis
+657;DS;DS4;Ensure Continuous Service;4;5;Telah tersedia percobaan terhadap rencana IT dan layanan berkelanjutan
+658;DS;DS5;Ensure Systems Security;0;1;Perusahaan tidak menggunakan keamanan IT
+659;DS;DS5;Ensure Systems Security;0;1;Tidak ada yang memegang tanggung jawab untuk menjaga keamanan IT
+660;DS;DS5;Ensure Systems Security;0;1;Tindakan yang mendukung pengelolaan keamanan IT tidak diterapkan
+661;DS;DS5;Ensure Systems Security;0;1;Tidak ada laporan mengenai keamanan IT
+662;DS;DS5;Ensure Systems Security;0;1;Tidak ada respon untuk pelanggaran keamanan IT
+663;DS;DS5;Ensure Systems Security;0;1;Ada banyak kekurangan dari proses administrasi keamanan sistem yang dapat dikenali
+664;DS;DS5;Ensure Systems Security;1;2;Perusahaan menyadari pentingnya penggunaan keamanan IT
+665;DS;DS5;Ensure Systems Security;1;2;Kesadaran pentingnya keamanan IT masih tergantung pada individu masing-masing
+666;DS;DS5;Ensure Systems Security;1;2;Keamanan IT masih termasuk kedalam basis reaktif
+667;DS;DS5;Ensure Systems Security;1;2;Tidak ada pengukuran untuk keamanan IT
+668;DS;DS5;Ensure Systems Security;1;2;Respon terhadap pelanggaran keamanan IT masih hanya sebatas menunjuk jari
+669;DS;DS5;Ensure Systems Security;1;2;Pembagian tanggung jawab masih belum ada
+670;DS;DS5;Ensure Systems Security;1;2;Respon terhadap pelanggaran keamanan IT masih tidak bisa diprediksi
+671;DS;DS5;Ensure Systems Security;2;3;Tanggung jawab terhadap keamanan IT sudah diberikan kepada koordinator keamanan IT
+672;DS;DS5;Ensure Systems Security;2;3;Otoritas manajemen yang dimiliki koordinator keamanan IT masih terbatas
+673;DS;DS5;Ensure Systems Security;2;3;Kesadaran pentingnya keamanan IT masih sedikit dan terbatas
+674;DS;DS5;Ensure Systems Security;2;3;Informasi tentang pentingnya keamanan IT sudah ada pada sistem
+675;DS;DS5;Ensure Systems Security;2;3;Informasi tentang pentingnya keamanan IT yang ada pada sistem masih belum di analisa
+676;DS;DS5;Ensure Systems Security;2;3;Penggunaan keamanan IT yang dijalankan oleh perusahaan ketiga masih belum menjelaskan kebutuhan keamanan IT pada perusahaan secara spesifik
+677;DS;DS5;Ensure Systems Security;2;3;Kebijakan tentang keamanan IT sedang dibuat
+678;DS;DS5;Ensure Systems Security;2;3;Alat dan bahan untuk membuat kebijakan keamanan IT masih belum memadai
+679;DS;DS5;Ensure Systems Security;2;3;Laporan keamanan IT masih belum lengkap
+680;DS;DS5;Ensure Systems Security;2;3;Pelatihan untuk keamanan IT sudah ada, tetapi masih tergantung inisiasi individu masing-masing
+681;DS;DS5;Ensure Systems Security;3;4;Kesadaran terhadap keamanan IT sudah ada
+682;DS;DS5;Ensure Systems Security;3;4;Prosedur keamanan IT sudah berjalan berdasarkan kebijakan keamanan IT yang ada
+683;DS;DS5;Ensure Systems Security;3;4;Tanggung jawab terhadap keamanan IT sudah dibagikan dan sudah dimengerti
+684;DS;DS5;Ensure Systems Security;3;4;Rencana keamanan IT dan solusi keamanan IT sudah ada dan dilakukan oleh seorang risk analys
+685;DS;DS5;Ensure Systems Security;3;4;Pengujian keamanan IT menggunakan Ad hoc sudah dilakukan
+686;DS;DS5;Ensure Systems Security;3;4;Pelatihan untuk keamanan IT tersedia untuk IT dan bisnis, tetapi belum memiliki jadwal resmi
+687;DS;DS5;Ensure Systems Security;4;5;Tanggung jawab untuk keamanan IT sudah jelas, dan sudah dilakukan pembagian tanggung jawab
+688;DS;DS5;Ensure Systems Security;4;5;Kebijakan tentang keamanan IT sudah ada dan lengkap
+689;DS;DS5;Ensure Systems Security;4;5;Keamanan IT sudah termasuk manajemen bisnis dan IT
+690;DS;DS5;Ensure Systems Security;4;5;Fungsi keamanan IT sudah terintegrasi dengan aplikasi pada tahap design
+691;DS;DS5;Ensure Systems Security;4;5;Informasi tentang ancaman keamanan IT sudah dianalisa otomatis oleh sistem
+692;DS;DS5;Ensure Systems Security;4;5;Keamanan IT sudah terukur untuk membuat rencana keamanan IT untuk perkembangan kedepannya
+693;DS;DS6;Identify and Allocate Costs;0;1;Tidak ada proses yang mengidentifikasi dan mengatur biaya
+694;DS;DS6;Identify and Allocate Costs;0;1;Perusahaan tidak menyadari terdapat kesalahan pada penghitungan biaya
+695;DS;DS6;Identify and Allocate Costs;0;1;Tidak ada komunikasi tentang kesalahan yang terjadi
+696;DS;DS6;Identify and Allocate Costs;1;2;Terdapat sedikit pengertian pada keseluruhan biaya pada informasi servis
+697;DS;DS6;Identify and Allocate Costs;1;2;Tidak ada penjelasan spesifik biaya pada informasi servis
+698;DS;DS6;Identify and Allocate Costs;1;2;Tidak ada monitoring biaya
+699;DS;DS6;Identify and Allocate Costs;1;2;Biaya IT masih termasuk kedalam biaya operational
+700;DS;DS6;Identify and Allocate Costs;1;2;Perusahaan masih belum mengetahui biaya dan keuntungan yang didapatkan
+701;DS;DS6;Identify and Allocate Costs;2;3;Terdapat pengertain pada keseluruhan biaya pada informasi servis
+702;DS;DS6;Identify and Allocate Costs;2;3;Pembagian biaya masih belum sempurna
+703;DS;DS6;Identify and Allocate Costs;2;3;Proses pembagian biaya masih terjadi berulang-ulang
+704;DS;DS6;Identify and Allocate Costs;2;3;Belum ada pelatihan yang resmi untuk menjalankan prosedur alokasi biaya
+705;DS;DS6;Identify and Allocate Costs;2;3;Belum ada komunikasi yang standar untuk menjalankan prosedur alokasi biaya
+706;DS;DS6;Identify and Allocate Costs;2;3;Tanggung jawab masih belum dialokasikan kepada pegawai perusahaan
+707;DS;DS6;Identify and Allocate Costs;3;4;Informasi biaya servis model sudah ada dan sudah tersimpan di dokumen perusahaan
+708;DS;DS6;Identify and Allocate Costs;3;4;Proses untuk menghubungkan biaya IT dengan layanan yang diberikan kepada pengguna sudah didefinisikan
+709;DS;DS6;Identify and Allocate Costs;3;4;Sudah ada kesadaran tentang pentingnya alokasi biaya
+710;DS;DS6;Identify and Allocate Costs;3;4;Bisnis masih belum memiliki informasi yang sempurna tentang biaya
+711;DS;DS6;Identify and Allocate Costs;4;5;Sudah ada pelatihan resmi tentang biaya informasi servis 
+712;DS;DS6;Identify and Allocate Costs;4;5;Pembagian tanggung jawab sudah jelas dan terdokumentasikan
+713;DS;DS6;Identify and Allocate Costs;4;5;Sudah ada monitoring biaya dan evaluasi terhadap biaya
+714;DS;DS6;Identify and Allocate Costs;4;5;Evaluasi terhadap biaya digunakan untuk mengoptimalkan biaya pada sumber IT
+715;DS;DS6;Identify and Allocate Costs;4;5;Pengoptimalan biaya masih dalam tahap progress
+716;DS;DS6;Identify and Allocate Costs;4;5;Terdapat pengukuran terhadap alokasi biaya
+717;DS;DS7;Educate and Train Users;0;1;Masih banyak kekurangan program pelatihan yang dilakukan oleh perusahaan
+718;DS;DS7;Educate and Train Users;0;1;Perusahaan tidak menyadari terdapat masalah pada pelatihan yang dilakukan
+719;DS;DS7;Educate and Train Users;0;1;Tidak ada komunikasi tentang kesalahan yang terjadi pada pelatihan
+720;DS;DS7;Educate and Train Users;1;2;Terdapat bukti yang membuat perusahaan sadar akan kepentingan program pelatihan dan pembelajaran
+721;DS;DS7;Educate and Train Users;1;2;Masih belum ada standar tentang program pelatihan
+722;DS;DS7;Educate and Train Users;1;2;Pegawai masih mengikuti pelatihan berdasarkan keinginan pribadi saja
+723;DS;DS7;Educate and Train Users;1;2;Komunikasi mengenai masalah pada program pelatihan masih tidak konsisten 
+724;DS;DS7;Educate and Train Users;2;3;Terdapat kesadaran tentang pentingnya program pelatihan dan pembelajaran yang diberikan kepada pegawai
+725;DS;DS7;Educate and Train Users;2;3;Pelatihan mulai mengidentifikasi rencana masing-masing pegawai
+726;DS;DS7;Educate and Train Users;2;3;Pelatihan memiliki instructor yang berbeda-beda tergantung pada programnya
+727;DS;DS7;Educate and Train Users;2;3;Masih ada ketergantungan pada pegawai yang memiliki wawasan luas
+728;DS;DS7;Educate and Train Users;2;3;Komunikasi mengenai masalah pada program pelatihan sudah mulai konsisten
+729;DS;DS7;Educate and Train Users;3;4;Pelatihan dan pembelajaran sudah dikomunikasikan
+730;DS;DS7;Educate and Train Users;3;4;Pelatihan sudah memiliki standar dan sudah terdokumentasikan
+731;DS;DS7;Educate and Train Users;3;4;Alokasi biaya, sumber daya, dan fasilitas sudah cukup memadai
+732;DS;DS7;Educate and Train Users;3;4;Pelatihan resmi diberikan kepada praktisi dan pegawai pegawai khusus
+733;DS;DS7;Educate and Train Users;3;4;Hampir semua pelatihan di monitoring
+734;DS;DS7;Educate and Train Users;3;4;Masalah yang terjadi pada pelatihan sudah di analisis tetapi hanya diterapkan sesekali
+735;DS;DS7;Educate and Train Users;4;5;Program pelatihan dan pembelajaran sudah termasuk kedalam bagian jalan karir seorang pegawai
+736;DS;DS7;Educate and Train Users;4;5;Pelatihan resmi diberikan kepada seluruh pegawai yang ada
+737;DS;DS7;Educate and Train Users;4;5;Pelatihan sudah dimonitoring oleh manajemen
+738;DS;DS7;Educate and Train Users;4;5;Program pelatihan menghasilkan kenaikan kinerja masing-masing pegawai
+739;DS;DS8;Manage Service Desk and Incidents;0;1;Tidak ada bantuan untuk menangani pertanyaan dan masalah pengguna
+740;DS;DS8;Manage Service Desk and Incidents;0;1;Masih terdapat banyak kesalahan dalam mengatur insiden yang terjadi
+741;DS;DS8;Manage Service Desk and Incidents;0;1;Perusahaan tidak menyadari terdapat masalah pada pengaturan insiden, dan keluhan pengguna
+742;DS;DS8;Manage Service Desk and Incidents;1;2;Perusahaan menyadari bahwa diperlukan alat dan personel untuk menanggapi pertanyaan pengguna dan pengelolaan insiden
+743;DS;DS8;Manage Service Desk and Incidents;1;2;Masih belum ada standar tentang pengelolaan insiden
+744;DS;DS8;Manage Service Desk and Incidents;1;2;Masih belum ada standar tentang penanggapan pertanyaan pengguna
+745;DS;DS8;Manage Service Desk and Incidents;1;2;Tidak ada monitoring insiden, dan pertanyaan pengguna
+746;DS;DS8;Manage Service Desk and Incidents;1;2;Tidak ada solusi terhadap masalah-masalah yang sedang terjadi
+747;DS;DS8;Manage Service Desk and Incidents;2;3;Perusahaan mulai menyadari pentingnya fungsi meja servis
+748;DS;DS8;Manage Service Desk and Incidents;2;3;Perusahaan mulai menyadari pentingnya pengelolaan insiden yang terjadi
+749;DS;DS8;Manage Service Desk and Incidents;2;3;Bantuan sudah mulai tersedia tetapi masih tergantung pada kemampuan pegawai masing-masing
+750;DS;DS8;Manage Service Desk and Incidents;2;3;Bantuan juga memiliki alat yang dapat membantu dalam pengelolaan insiden
+751;DS;DS8;Manage Service Desk and Incidents;2;3;Tidak ada pelatihan resmi untuk melakukan pengelolaan insiden
+752;DS;DS8;Manage Service Desk and Incidents;2;3;Tidak ada pelatihan resmi untuk melakukan pengoperasian meja servis
+753;DS;DS8;Manage Service Desk and Incidents;3;4;Kebutuhan akan fungsi meja servis dan pengelolaan insiden diakui dan diterima
+754;DS;DS8;Manage Service Desk and Incidents;3;4;Prosedur telah memiliki standar
+755;DS;DS8;Manage Service Desk and Incidents;3;4;Prosedur telah didokumentasikan
+756;DS;DS8;Manage Service Desk and Incidents;3;4;pelatihan masih bersifat informal, dan masih bergantung pada kemampuan dan keinginan masing-masing pegawai
+757;DS;DS8;Manage Service Desk and Incidents;3;4;Pertanyaan yang sering diajukan pegguna dikembangkan
+758;DS;DS8;Manage Service Desk and Incidents;3;4;Pertanyaan dan insiden dilacak secara manual dan dipantau secara individual
+759;DS;DS8;Manage Service Desk and Incidents;3;4;Masih belum ada laporan formal tentang masalah yang terjadi
+760;DS;DS8;Manage Service Desk and Incidents;3;4;Masih belum ada pengukuran untuk pengelolaan insiden dan meja servis
+761;DS;DS8;Manage Service Desk and Incidents;3;4;Pengguna telah mengetahui cara melaporkan masalah dan insiden yang terjadi
+762;DS;DS8;Manage Service Desk and Incidents;4;5;Perusahaan mengerti dengan jelas keuntungan mempunyai meja servis
+763;DS;DS8;Manage Service Desk and Incidents;4;5;Perusahaan mengerti dengan jelas keuntungan mempunyai pengelolaan insiden yang terjadi
+764;DS;DS8;Manage Service Desk and Incidents;4;5;Meja servis telah berjalan dengan stabil dan terorganisasi dengan baik
+765;DS;DS8;Manage Service Desk and Incidents;4;5;Memiliki standar pengukuran dan sistemasi laporan
+766;DS;DS8;Manage Service Desk and Incidents;4;5;Pertanyaan yang sering diajukan pengguna menjadi dasar pengetahuan meja servis
+767;DS;DS8;Manage Service Desk and Incidents;4;5;Tanggung jawab telah dibagikan kepada pegawai perusahaan dengan jelas
+768;DS;DS8;Manage Service Desk and Incidents;4;5;Peralatan berada ditempat dimana pengguna dapat mendiagnosa insiden dan memperbaikinya
+769;DS;DS9;Manage the Configuration;0;1;Perusahaan tidak menyadari manfaat memiliki proses yang mampu melaporkan dan mengelola infrastruktur IT
+770;DS;DS9;Manage the Configuration;0;1;Tidak ada konfigurasi terhadap hardware dan software untuk pengelolaan infrastruktur
+771;DS;DS9;Manage the Configuration;1;2;Kebutuhan untuk manajemen konfigurasi diakui
+772;DS;DS9;Manage the Configuration;1;2;Tugas manajemen konfigurasi masih hanya dasarnya saja
+773;DS;DS9;Manage the Configuration;1;2;Manajemen konfigurasi dilakukan secara individual
+774;DS;DS9;Manage the Configuration;1;2;Tidak ada standar praktik yang ditentukan untuk melakukan konfigurasi
+775;DS;DS9;Manage the Configuration;2;3;Perusahaan sadar akan kebutuhan untuk mengontrol konfigurasi IT
+776;DS;DS9;Manage the Configuration;2;3;Perusahaan sudah menyadari manfaat untuk melakukan konfigurasi IT
+777;DS;DS9;Manage the Configuration;2;3;Manajemen konfigurasi masih tergantung pada keahlian seorang pegawai
+778;DS;DS9;Manage the Configuration;2;3;Masih tidak ada standar yang ditetapkan untuk praktik kerja
+779;DS;DS9;Manage the Configuration;2;3;Data konfigurasi konten masih terbatas
+780;DS;DS9;Manage the Configuration;3;4;Prosedur dan praktik kerja telah terdokumentasikan
+781;DS;DS9;Manage the Configuration;3;4;Telah memiliki standar yang telah ditentukan oleh perusahaan
+782;DS;DS9;Manage the Configuration;3;4;Pelatihan masih bersifat informal, dan masih bergantung pada kemampuan dan keinginan masing-masing pegawai
+783;DS;DS9;Manage the Configuration;3;4;Penyimpanan dari prosedure masih sulit untuk terdeteksi
+784;DS;DS9;Manage the Configuration;3;4;Verifikasi secara fisik masih kurang konsisten
+785;DS;DS9;Manage the Configuration;3;4;Terdapat beberapa automasi untuk membantu mentrack peralatan dan perubahan software
+786;DS;DS9;Manage the Configuration;4;5;Perusahaan sudah menyadari manfaat untuk melakukan konfigurasi IT secara lengkap dalam semua level perusahaan
+787;DS;DS9;Manage the Configuration;4;5;Prosedur dan standar telah dikomunikasikan di dalam pelatihan
+788;DS;DS9;Manage the Configuration;4;5;Pelatihan sudah bersifat resmi dan memiliki banyak instruktur
+789;DS;DS9;Manage the Configuration;4;5;Seluruh aset IT sudah di atur dengan konfigurasi manajemen sistem
+790;DS;DS9;Manage the Configuration;4;5;Telah terintegrasi penuh dengan prosedur yang ada
+791;DS;DS9;Manage the Configuration;4;5;Laporan dasar audit sudah mengandung hardware dan software data untuk diperbaiki, diservis, atau diupgrade
+792;DS;DS9;Manage the Configuration;4;5;Aset udah dimonitoring satu per satu sehingga mencegah terjadinya kehilangan, atau dicuri
+793;DS;DS10;Manage Problems;0;1;Tidak ada kesadaran atas pentingnya pengelolaan masalah
+794;DS;DS10;Manage Problems;0;1;Tidak ada perbedaan antara masalah dan insiden
+795;DS;DS10;Manage Problems;0;1;Tidak ada percobaan penyelesaian masalah yang sedang terjadi
+796;DS;DS10;Manage Problems;1;2;Pegawai ada yang mengerti tentang pentingnya mengelola masalah dan sebab masalah tersebut
+797;DS;DS10;Manage Problems;1;2;Tidak ada pembagian tanggung jawab terhadap pengelolaan masalah
+798;DS;DS10;Manage Problems;1;2;Informasi belum dibagikan kepada seluruh pegawai
+799;DS;DS10;Manage Problems;2;3;Sudah banyak yang mengerti tentang pentingnya mengelola masalah yang berhubungan dengan IT
+800;DS;DS10;Manage Problems;2;3;Terdapat sedikit solusi untuk mengatasi masalah IT tersebut
+801;DS;DS10;Manage Problems;2;3;Beberapa pegawai memiliki tanggung jawab dalam pengelolaan masalah
+802;DS;DS10;Manage Problems;2;3;Informasi hanya baru dibagikan kepada staff dan masih dengan cara informal dan reaktif
+803;DS;DS10;Manage Problems;3;4;Perusahaan sudah menyadari pentingnya mengelola masalah yang berhubungan dengan IT
+804;DS;DS10;Manage Problems;3;4;Diperlukan pengelolaan masalah yang terintegrasi dan efektif
+805;DS;DS10;Manage Problems;3;4;Sudah ada pelatihan untuk melakukan pengelolaan masalah
+806;DS;DS10;Manage Problems;3;4;Pengelolaan masalah sudah terdokumentasikan
+807;DS;DS10;Manage Problems;3;4;Standar pengelolaan masalah sudah diberikan dengan jelas
+808;DS;DS10;Manage Problems;3;4;Informasi masih diberikan kepada staff dengan proaktif dan bahasa yang cukup baku
+809;DS;DS10;Manage Problems;3;4;Manajemen melakukan review terhadap pengelolaan masalah yang telah dilakukan
+810;DS;DS10;Manage Problems;4;5;Pengelolaan masalah sudah dimengerti oleh seluruh level di perusahaan
+811;DS;DS10;Manage Problems;4;5;Tanggung sudah dibagikan dengan jelas
+812;DS;DS10;Manage Problems;4;5;Prosedur dan method telah terdokumentasikan dan dikomunikasikan
+813;DS;DS10;Manage Problems;4;5;Seluruh masalah telah teridentifikasi, tercatat, dan dilaporkan
+814;DS;DS10;Manage Problems;4;5;Masalah sudah di antisipasi dan dicegah terlebih dahulu
+815;DS;DS10;Manage Problems;4;5;Masalah yang telah terjadi sebelumnya akan di kerjakan dengan pegawai yang ahli dalam bidang tersebut
+816;DS;DS10;Manage Problems;4;5;pengelolaan masalah telah memiliki pengukurannya sendiri
+817;DS;DS10;Manage Problems;4;5;Hampir semua sistem memiliki pendeteksi otomatis jika terjadi masalah
+818;DS;DS1;Define and Manage Service Levels;0;1;Membentuk pihak yang bertanggung jawab untuk menentukan dan menegelola layanan
+819;DS;DS1;Define and Manage Service Levels;0;1;Manajemen menyadari pentingnya proses untuk menentukan tingkat dari layanan (Service Level) 
+820;DS;DS1;Define and Manage Service Levels;0;1;Meningkatkan kualitas performa layanan dengan tujuan yang lebih tepat/jelas
+821;DS;DS1;Define and Manage Service Levels;0;1;Meningkatkan kualitas evaluasi layanan dengan lebih formal dan konsisten
+822;DS;DS1;Define and Manage Service Levels;1;2;Mengadakan review ulang pada setiap pelayanan yang telah diberikan
+823;DS;DS1;Define and Manage Service Levels;1;2;Meningkatkan kelengkapan dan relevansi pada setiap laporan performa pelayanan
+824;DS;DS1;Define and Manage Service Levels;1;2;Mengurangi dependansi terhadap manajer saat melakukan pembuatan laporan tingkat layanan
+825;DS;DS1;Define and Manage Service Levels;1;2;Mengatur batasan wewenang yang dimiliki oleh masing-masing staff dan koordinator organisasi 
+826;DS;DS1;Define and Manage Service Levels;1;2;Melakukan penyusunan Service Level Agreement (SLA) sesuai ketentuan yang telah ditetapkan
+827;DS;DS1;Define and Manage Service Levels;2;3;Mengatur tanggung jawab dari koordinator level layanan dengan jelas, dan memberikan wewenang sesuai kebijakan dari koordinator sendiri
+828;DS;DS1;Define and Manage Service Levels;2;3;Membentuk proses pengembangan Service Level Agreement (SLA) dengan adanya checkpoint  untuk menilai kembali tingkat layanan dan kepuasan pengguna
+829;DS;DS1;Define and Manage Service Levels;2;3;Membuat dokumentasi dari layanan dan tingkat layanan, yang selanjutnya disetujui serta dijalankan dengan standard proses yang telah ditentukan
+830;DS;DS1;Define and Manage Service Levels;2;3;Merencanakan prosedur untuk mengatasi kekurangan dari level layanan yang ada
+831;DS;DS1;Define and Manage Service Levels;2;3;Memberikan keterkaitan yang jelas antara ekspektasi pencapaian level layanan PIKTI dengan biaya yang tersedia
+832;DS;DS1;Define and Manage Service Levels;2;3;Membuat dan mensetujui rancangan tingkat layanan organisasi untuk memenuhi kebutuhan bisnis organisasi
+833;DS;DS1;Define and Manage Service Levels;3;4;Menentukan Level layanan PIKTI pada fase penentuan kebutuhan sistem dan tergabung pada desain aplikasi dan lingkungan operasional
+834;DS;DS1;Define and Manage Service Levels;3;4;Mengadakan pengukuran dan penilaian kepuasan pelanggan secara rutin
+835;DS;DS1;Define and Manage Service Levels;3;4;Melakukan pengukuran performa dengan tujuan memenuhi kebutuhan pengguna dan tujuan IT
+836;DS;DS1;Define and Manage Service Levels;3;4;Merancang standarisasi penilaian level layanan yang merefleksikan norma-norma baik dalam ber-industri
+837;DS;DS1;Define and Manage Service Levels;3;4;Menentukan kriteria untuk penentuan level layanan berdasarkan pada ketersediaan, keandalan, performa, kapasitas pertumbuhan, dukungan pengguna, perencanaan berkelanjutan dan pertimbangan keamanan
+838;DS;DS1;Define and Manage Service Levels;3;4;Menentapkan Root Cause Analysis (RCA) secara rutin ketika mengatasi level layanan yang tidak memenuhi
+839;DS;DS1;Define and Manage Service Levels;3;4;Meningkatkan proses pelaporan untuk memonitor level layanan dengan lebih terotomasi
+840;DS;DS1;Define and Manage Service Levels;3;4;Mengimbangkan antara resiko operasional dan keuangan operasional terhadap level layanan
+841;DS;DS1;Define and Manage Service Levels;3;4;Menjaga kondisi sistem pengukuran tingkat layanan agar selalu baik dan formal.
+842;DS;DS1;Define and Manage Service Levels;4;5;Melakukan evaluasi tingkat layanan secara berkelanjutan untuk memastikan tetap selaras dengan tujuan IT dan bisnis, sembari mengambil keuntungan dari teknologi, termasuk ratio cost-benefit
+843;DS;DS1;Define and Manage Service Levels;4;5;Memastikan semua proses manajemen level layanan dapat dikembangkan secara berkelanjutan
+844;DS;DS1;Define and Manage Service Levels;4;5;Memonitor dan mengelola tingkat kepuasan pengguna  secara berkelanjutan
+845;DS;DS1;Define and Manage Service Levels;4;5;Membuat ekspektasi dari level layanan yang merefleksikan strategi tujuan dari bisnis yang selaras dengan norma-norma industri
+846;DS;DS1;Define and Manage Service Levels;4;5;Management IT memiliki sumber daya dan tanggung jawab untuk memenuhi target level layanan, dan kompensasi untuk memenuhi target ini bersifat terstruktur
+847;DS;DS1;Define and Manage Service Levels;4;5;Manajemen senior memonitor matriks performa sebagai bagian dari proses pengembangan berkelanjutan

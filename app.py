@@ -29,9 +29,10 @@ def input():
                     if not first_line and row[1]==it_process and row[3]>=lvl_existing and row[4]<=lvl_tujuan:
                         gap_analysis.append({
                             "it_pro": row[2],
-                            "awal": row[3],
-                            "tujuan": row[4],
-                            "task": row[5]
+                            "ket": row[3],
+                            "awal": row[4],
+                            "tujuan": row[5],
+                            "task": row[6]
                         })
                     else:
                         first_line=False
@@ -45,6 +46,7 @@ def input():
                         if not first_line and row[1]==it_res and gap['it_pro']==row[2]:
                             hasil.append({
                                 "it_pro": gap['it_pro'],
+                                "ket": gap['ket'],
                                 "awal": gap['awal'],
                                 "tujuan": gap['tujuan'],
                                 "task": gap['task']

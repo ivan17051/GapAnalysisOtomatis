@@ -6,7 +6,7 @@
             <table class="table table-striped" id="tblData">
                 <thead>
                   <tr>
-                    <th scope="col" style="width: 10%;">IT Process</th>
+                    <th scope="col" style="width: 25%;">IT Process</th>
                     <th scope="col" style="width: 10%;">Tujuan</th>
                     <th scope="col">Task</th>
                   </tr>
@@ -14,7 +14,10 @@
                 <tbody>
                 {% for item in gap_analysis %}
                   <tr>
-                    <th scope="row">{{ item.it_pro }}</th>
+                    <th scope="row">
+                      {{ item.it_pro }}
+                    <br><small style="font-weight:normal;">{{ item.ket }}</small>
+                    </th>
                     <th>{{ item.awal }} -> {{ item.tujuan }}</th>
                     <td>{{ item.task }}</td>
                   </tr>
